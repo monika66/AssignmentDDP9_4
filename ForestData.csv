@@ -1,0 +1,2353 @@
+"Year","Canton","TypeofOwner","NrofOwners","TotalArea","ProductiveArea","Hardwood","Softwood","TotalSpecies"
+"1975","Glarus","Type of owners - Total","1458","16492","14268","142375","8722","151097"
+"1975","Glarus","Private forest","1420","1654","1654","400","0","400"
+"1975","Glarus","Public forest","38","14838","12614","141975","8722","150697"
+"1975","Glarus",">>Federal forest","1","109","99",NA,NA,NA
+"1975","Glarus",">>Cantonal forest","1","84","78",NA,NA,NA
+"1975","Glarus",">>Municipality forest","1","54","48",NA,NA,NA
+"1975","Glarus",">>Bourgeois forest","31","14365","12169",NA,NA,NA
+"1975","Glarus",">>Other public forest","4","226","220",NA,NA,NA
+"1975","Schaffhausen","Type of owners - Total","1965","12465","12294","328930","39790","368720"
+"1975","Schaffhausen","Private forest","1933","1873","1873","38680","1300","39980"
+"1975","Schaffhausen","Public forest","32","10592","10421","290250","38490","328740"
+"1975","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"1975","Schaffhausen",">>Cantonal forest","1","2142","2093",NA,NA,NA
+"1975","Schaffhausen",">>Municipality forest","30","8442","8320",NA,NA,NA
+"1975","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1975","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1975","Appenzell Ausserrhoden","Type of owners - Total","4120","6435","6411","64341","14215","78556"
+"1975","Appenzell Ausserrhoden","Private forest","4095","5051","5051","44666","6855","51521"
+"1975","Appenzell Ausserrhoden","Public forest","25","1384","1360","19675","7360","27035"
+"1975","Appenzell Ausserrhoden",">>Federal forest","1","163","163",NA,NA,NA
+"1975","Appenzell Ausserrhoden",">>Cantonal forest","1","274","253",NA,NA,NA
+"1975","Appenzell Ausserrhoden",">>Municipality forest","21","934","931",NA,NA,NA
+"1975","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1975","Appenzell Ausserrhoden",">>Other public forest","2","13","13",NA,NA,NA
+"1975","Appenzell Innerrhoden","Type of owners - Total","1685","4999","4509","42415","1340","43755"
+"1975","Appenzell Innerrhoden","Private forest","1663","3099","3099","26490","790","27280"
+"1975","Appenzell Innerrhoden","Public forest","22","1900","1410","15925","550","16475"
+"1975","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1975","Appenzell Innerrhoden",">>Cantonal forest","1","154","132",NA,NA,NA
+"1975","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1975","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1975","Appenzell Innerrhoden",">>Other public forest","21","1746","1278",NA,NA,NA
+"1975","St. Gallen","Type of owners - Total","14359","50251","46575","667315","80610","747925"
+"1975","St. Gallen","Private forest","14099","18249","18249","264115","22332","286447"
+"1975","St. Gallen","Public forest","260","32002","28326","403200","58278","461478"
+"1975","St. Gallen",">>Federal forest","1","52","48",NA,NA,NA
+"1975","St. Gallen",">>Cantonal forest","1","1986","1760",NA,NA,NA
+"1975","St. Gallen",">>Municipality forest","29","423","406",NA,NA,NA
+"1975","St. Gallen",">>Bourgeois forest","111","24916","21913",NA,NA,NA
+"1975","St. Gallen",">>Other public forest","118","4625","4199",NA,NA,NA
+"1975","Graubünden / Grigioni / Grischun","Type of owners - Total","9769","170030","134652","813009","76305","889314"
+"1975","Graubünden / Grigioni / Grischun","Private forest","9502","14222","14222","11100","950","12050"
+"1975","Graubünden / Grigioni / Grischun","Public forest","267","155808","120430","801909","75355","877264"
+"1975","Graubünden / Grigioni / Grischun",">>Federal forest","1","214","36",NA,NA,NA
+"1975","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","778","533",NA,NA,NA
+"1975","Graubünden / Grigioni / Grischun",">>Municipality forest","231","149939","115885",NA,NA,NA
+"1975","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1975","Graubünden / Grigioni / Grischun",">>Other public forest","34","4877","3976",NA,NA,NA
+"1975","Thurgau","Type of owners - Total","8882","19031","18855","455301","97794","553095"
+"1975","Thurgau","Private forest","8749","10480","10480","297100","43795","340895"
+"1975","Thurgau","Public forest","133","8551","8375","158201","53999","212200"
+"1975","Thurgau",">>Federal forest","1","192","127",NA,NA,NA
+"1975","Thurgau",">>Cantonal forest","1","1371","1367",NA,NA,NA
+"1975","Thurgau",">>Municipality forest","3","48","48",NA,NA,NA
+"1975","Thurgau",">>Bourgeois forest","95","5940","5833",NA,NA,NA
+"1975","Thurgau",">>Other public forest","33","1000","1000",NA,NA,NA
+"1976","Glarus","Type of owners - Total","1458","16492","14268","122555","21190","143745"
+"1976","Glarus","Private forest","1420","1654","1654","0","0","0"
+"1976","Glarus","Public forest","38","14838","12614","122555","21190","143745"
+"1976","Glarus",">>Federal forest","1","109","99",NA,NA,NA
+"1976","Glarus",">>Cantonal forest","1","84","78",NA,NA,NA
+"1976","Glarus",">>Municipality forest","1","54","48",NA,NA,NA
+"1976","Glarus",">>Bourgeois forest","31","14365","12169",NA,NA,NA
+"1976","Glarus",">>Other public forest","4","226","220",NA,NA,NA
+"1976","Schaffhausen","Type of owners - Total","1998","12500","12326","276915","33675","310590"
+"1976","Schaffhausen","Private forest","1966","1907","1907","30330","1800","32130"
+"1976","Schaffhausen","Public forest","32","10593","10419","246585","31875","278460"
+"1976","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"1976","Schaffhausen",">>Cantonal forest","1","2142","2090",NA,NA,NA
+"1976","Schaffhausen",">>Municipality forest","30","8443","8321",NA,NA,NA
+"1976","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1976","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1976","Appenzell Ausserrhoden","Type of owners - Total","4141","6357","6332","78069","6667","84736"
+"1976","Appenzell Ausserrhoden","Private forest","4116","4962","4962","53485","3737","57222"
+"1976","Appenzell Ausserrhoden","Public forest","25","1395","1370","24584","2930","27514"
+"1976","Appenzell Ausserrhoden",">>Federal forest","1","163","163",NA,NA,NA
+"1976","Appenzell Ausserrhoden",">>Cantonal forest","1","274","253",NA,NA,NA
+"1976","Appenzell Ausserrhoden",">>Municipality forest","21","945","941",NA,NA,NA
+"1976","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1976","Appenzell Ausserrhoden",">>Other public forest","2","13","13",NA,NA,NA
+"1976","Appenzell Innerrhoden","Type of owners - Total","1687","5004","4510","47755","577","48332"
+"1976","Appenzell Innerrhoden","Private forest","1663","3099","3099","21605","517","22122"
+"1976","Appenzell Innerrhoden","Public forest","24","1905","1411","26150","60","26210"
+"1976","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1976","Appenzell Innerrhoden",">>Cantonal forest","1","133","111",NA,NA,NA
+"1976","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1976","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1976","Appenzell Innerrhoden",">>Other public forest","23","1772","1300",NA,NA,NA
+"1976","St. Gallen","Type of owners - Total","14383","50318","46635","612335","70825","683160"
+"1976","St. Gallen","Private forest","14123","18273","18273","211896","17635","229531"
+"1976","St. Gallen","Public forest","260","32045","28362","400439","53190","453629"
+"1976","St. Gallen",">>Federal forest","1","52","48",NA,NA,NA
+"1976","St. Gallen",">>Cantonal forest","1","1986","1762",NA,NA,NA
+"1976","St. Gallen",">>Municipality forest","29","425","407",NA,NA,NA
+"1976","St. Gallen",">>Bourgeois forest","111","24917","21912",NA,NA,NA
+"1976","St. Gallen",">>Other public forest","118","4665","4233",NA,NA,NA
+"1976","Graubünden / Grigioni / Grischun","Type of owners - Total","10248","169698","135391","734426","80975","815401"
+"1976","Graubünden / Grigioni / Grischun","Private forest","9980","14418","14418","12665","1335","14000"
+"1976","Graubünden / Grigioni / Grischun","Public forest","268","155280","120973","721761","79640","801401"
+"1976","Graubünden / Grigioni / Grischun",">>Federal forest","1","224","46",NA,NA,NA
+"1976","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","778","533",NA,NA,NA
+"1976","Graubünden / Grigioni / Grischun",">>Municipality forest","231","149364","116377",NA,NA,NA
+"1976","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1976","Graubünden / Grigioni / Grischun",">>Other public forest","35","4914","4017",NA,NA,NA
+"1976","Thurgau","Type of owners - Total","8850","19058","18882","335100","120640","455740"
+"1976","Thurgau","Private forest","8716","10499","10499","176925","34500","211425"
+"1976","Thurgau","Public forest","134","8559","8383","158175","86140","244315"
+"1976","Thurgau",">>Federal forest","1","192","127",NA,NA,NA
+"1976","Thurgau",">>Cantonal forest","1","1359","1356",NA,NA,NA
+"1976","Thurgau",">>Municipality forest","0","0","0",NA,NA,NA
+"1976","Thurgau",">>Bourgeois forest","123","6148","6041",NA,NA,NA
+"1976","Thurgau",">>Other public forest","9","860","859",NA,NA,NA
+"1977","Glarus","Type of owners - Total","1458","16482","14310","132550","7455","140005"
+"1977","Glarus","Private forest","1420","1646","1646","1560","0","1560"
+"1977","Glarus","Public forest","38","14836","12664","130990","7455","138445"
+"1977","Glarus",">>Federal forest","1","131","93",NA,NA,NA
+"1977","Glarus",">>Cantonal forest","1","86","80",NA,NA,NA
+"1977","Glarus",">>Municipality forest","1","54","48",NA,NA,NA
+"1977","Glarus",">>Bourgeois forest","31","14338","12224",NA,NA,NA
+"1977","Glarus",">>Other public forest","4","227","219",NA,NA,NA
+"1977","Schaffhausen","Type of owners - Total","1998","12498","12327","249685","34100","283785"
+"1977","Schaffhausen","Private forest","1966","1907","1907","27210","1450","28660"
+"1977","Schaffhausen","Public forest","32","10591","10420","222475","32650","255125"
+"1977","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"1977","Schaffhausen",">>Cantonal forest","1","2139","2091",NA,NA,NA
+"1977","Schaffhausen",">>Municipality forest","30","8444","8321",NA,NA,NA
+"1977","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1977","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1977","Appenzell Ausserrhoden","Type of owners - Total","4018","5894","5868","52095","5287","57382"
+"1977","Appenzell Ausserrhoden","Private forest","3993","4456","4456","37885","4122","42007"
+"1977","Appenzell Ausserrhoden","Public forest","25","1438","1412","14210","1165","15375"
+"1977","Appenzell Ausserrhoden",">>Federal forest","1","163","163",NA,NA,NA
+"1977","Appenzell Ausserrhoden",">>Cantonal forest","1","293","272",NA,NA,NA
+"1977","Appenzell Ausserrhoden",">>Municipality forest","21","969","964",NA,NA,NA
+"1977","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1977","Appenzell Ausserrhoden",">>Other public forest","2","13","13",NA,NA,NA
+"1977","Appenzell Innerrhoden","Type of owners - Total","1674","5004","4510","22890","1280","24170"
+"1977","Appenzell Innerrhoden","Private forest","1650","3099","3099","12540","1130","13670"
+"1977","Appenzell Innerrhoden","Public forest","24","1905","1411","10350","150","10500"
+"1977","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1977","Appenzell Innerrhoden",">>Cantonal forest","1","133","111",NA,NA,NA
+"1977","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1977","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1977","Appenzell Innerrhoden",">>Other public forest","23","1772","1300",NA,NA,NA
+"1977","St. Gallen","Type of owners - Total","14841","50322","46654","619775","105946","725721"
+"1977","St. Gallen","Private forest","14582","18289","18289","224791","32765","257556"
+"1977","St. Gallen","Public forest","259","32033","28365","394984","73181","468165"
+"1977","St. Gallen",">>Federal forest","1","52","48",NA,NA,NA
+"1977","St. Gallen",">>Cantonal forest","1","1979","1755",NA,NA,NA
+"1977","St. Gallen",">>Municipality forest","29","426","408",NA,NA,NA
+"1977","St. Gallen",">>Bourgeois forest","111","24909","21914",NA,NA,NA
+"1977","St. Gallen",">>Other public forest","117","4667","4240",NA,NA,NA
+"1977","Graubünden / Grigioni / Grischun","Type of owners - Total","10250","171195","136612","840665","65545","906210"
+"1977","Graubünden / Grigioni / Grischun","Private forest","9982","14383","14383","18530","950","19480"
+"1977","Graubünden / Grigioni / Grischun","Public forest","268","156812","122229","822135","64595","886730"
+"1977","Graubünden / Grigioni / Grischun",">>Federal forest","1","224","46",NA,NA,NA
+"1977","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","840","595",NA,NA,NA
+"1977","Graubünden / Grigioni / Grischun",">>Municipality forest","231","150834","117571",NA,NA,NA
+"1977","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1977","Graubünden / Grigioni / Grischun",">>Other public forest","35","4914","4017",NA,NA,NA
+"1977","Thurgau","Type of owners - Total","8844","18792","18662","291040","84658","375698"
+"1977","Thurgau","Private forest","8712","10591","10591","157340","25225","182565"
+"1977","Thurgau","Public forest","132","8201","8071","133700","59433","193133"
+"1977","Thurgau",">>Federal forest","1","192","127",NA,NA,NA
+"1977","Thurgau",">>Cantonal forest","1","1362","1359",NA,NA,NA
+"1977","Thurgau",">>Municipality forest","0","0","0",NA,NA,NA
+"1977","Thurgau",">>Bourgeois forest","122","5827","5766",NA,NA,NA
+"1977","Thurgau",">>Other public forest","8","820","819",NA,NA,NA
+"1978","Glarus","Type of owners - Total","1458","16501","14319","116380","18645","135025"
+"1978","Glarus","Private forest","1420","1646","1646","420","0","420"
+"1978","Glarus","Public forest","38","14855","12673","115960","18645","134605"
+"1978","Glarus",">>Federal forest","1","131","93",NA,NA,NA
+"1978","Glarus",">>Cantonal forest","1","86","80",NA,NA,NA
+"1978","Glarus",">>Municipality forest","1","54","48",NA,NA,NA
+"1978","Glarus",">>Bourgeois forest","31","14357","12233",NA,NA,NA
+"1978","Glarus",">>Other public forest","4","227","219",NA,NA,NA
+"1978","Schaffhausen","Type of owners - Total","2135","12560","12381","226530","41865","268395"
+"1978","Schaffhausen","Private forest","2103","1967","1967","27450","2700","30150"
+"1978","Schaffhausen","Public forest","32","10593","10414","199080","39165","238245"
+"1978","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"1978","Schaffhausen",">>Cantonal forest","1","2138","2090",NA,NA,NA
+"1978","Schaffhausen",">>Municipality forest","30","8447","8316",NA,NA,NA
+"1978","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1978","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1978","Appenzell Ausserrhoden","Type of owners - Total","4004","5899","5873","68811","6970","75781"
+"1978","Appenzell Ausserrhoden","Private forest","3979","4453","4453","49276","3565","52841"
+"1978","Appenzell Ausserrhoden","Public forest","25","1446","1420","19535","3405","22940"
+"1978","Appenzell Ausserrhoden",">>Federal forest","1","163","163",NA,NA,NA
+"1978","Appenzell Ausserrhoden",">>Cantonal forest","1","296","275",NA,NA,NA
+"1978","Appenzell Ausserrhoden",">>Municipality forest","21","974","969",NA,NA,NA
+"1978","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1978","Appenzell Ausserrhoden",">>Other public forest","2","13","13",NA,NA,NA
+"1978","Appenzell Innerrhoden","Type of owners - Total","1674","5004","4510","33202","1920","35122"
+"1978","Appenzell Innerrhoden","Private forest","1650","3100","3100","16952","1760","18712"
+"1978","Appenzell Innerrhoden","Public forest","24","1904","1410","16250","160","16410"
+"1978","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1978","Appenzell Innerrhoden",">>Cantonal forest","1","132","110",NA,NA,NA
+"1978","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1978","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1978","Appenzell Innerrhoden",">>Other public forest","23","1772","1300",NA,NA,NA
+"1978","St. Gallen","Type of owners - Total","15200","50385","46705","555516","104780","660296"
+"1978","St. Gallen","Private forest","14940","18291","18291","224672","29948","254620"
+"1978","St. Gallen","Public forest","260","32094","28414","330844","74832","405676"
+"1978","St. Gallen",">>Federal forest","1","52","48",NA,NA,NA
+"1978","St. Gallen",">>Cantonal forest","1","2007","1779",NA,NA,NA
+"1978","St. Gallen",">>Municipality forest","29","428","409",NA,NA,NA
+"1978","St. Gallen",">>Bourgeois forest","111","24935","21938",NA,NA,NA
+"1978","St. Gallen",">>Other public forest","118","4672","4240",NA,NA,NA
+"1978","Graubünden / Grigioni / Grischun","Type of owners - Total","10179","171758","136544","623530","106485","730015"
+"1978","Graubünden / Grigioni / Grischun","Private forest","9909","14160","14160","19596","1180","20776"
+"1978","Graubünden / Grigioni / Grischun","Public forest","270","157598","122384","603934","105305","709239"
+"1978","Graubünden / Grigioni / Grischun",">>Federal forest","1","224","46",NA,NA,NA
+"1978","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","840","595",NA,NA,NA
+"1978","Graubünden / Grigioni / Grischun",">>Municipality forest","231","151548","117684",NA,NA,NA
+"1978","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1978","Graubünden / Grigioni / Grischun",">>Other public forest","37","4986","4059",NA,NA,NA
+"1978","Thurgau","Type of owners - Total","8819","19019","18892","338265","115327","453592"
+"1978","Thurgau","Private forest","8711","10486","10486","164305","37910","202215"
+"1978","Thurgau","Public forest","108","8533","8406","173960","77417","251377"
+"1978","Thurgau",">>Federal forest","1","192","127",NA,NA,NA
+"1978","Thurgau",">>Cantonal forest","1","1410","1404",NA,NA,NA
+"1978","Thurgau",">>Municipality forest","0","0","0",NA,NA,NA
+"1978","Thurgau",">>Bourgeois forest","97","6069","6015",NA,NA,NA
+"1978","Thurgau",">>Other public forest","9","862","860",NA,NA,NA
+"1979","Glarus","Type of owners - Total","1458","16525","14343","115692","9614","125306"
+"1979","Glarus","Private forest","1420","1646","1646","802","44","846"
+"1979","Glarus","Public forest","38","14879","12697","114890","9570","124460"
+"1979","Glarus",">>Federal forest","1","131","93",NA,NA,NA
+"1979","Glarus",">>Cantonal forest","1","86","80",NA,NA,NA
+"1979","Glarus",">>Municipality forest","1","54","48",NA,NA,NA
+"1979","Glarus",">>Bourgeois forest","31","14381","12257",NA,NA,NA
+"1979","Glarus",">>Other public forest","4","227","219",NA,NA,NA
+"1979","Schaffhausen","Type of owners - Total","2134","12564","12379","195510","51085","246595"
+"1979","Schaffhausen","Private forest","2102","1964","1964","18755","2100","20855"
+"1979","Schaffhausen","Public forest","32","10600","10415","176755","48985","225740"
+"1979","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"1979","Schaffhausen",">>Cantonal forest","1","2146","2088",NA,NA,NA
+"1979","Schaffhausen",">>Municipality forest","30","8446","8319",NA,NA,NA
+"1979","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1979","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1979","Appenzell Ausserrhoden","Type of owners - Total","4021","5944","5918","63560","5490","69050"
+"1979","Appenzell Ausserrhoden","Private forest","3996","4498","4498","41980","2590","44570"
+"1979","Appenzell Ausserrhoden","Public forest","25","1446","1420","21580","2900","24480"
+"1979","Appenzell Ausserrhoden",">>Federal forest","1","163","163",NA,NA,NA
+"1979","Appenzell Ausserrhoden",">>Cantonal forest","1","296","275",NA,NA,NA
+"1979","Appenzell Ausserrhoden",">>Municipality forest","21","974","969",NA,NA,NA
+"1979","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1979","Appenzell Ausserrhoden",">>Other public forest","2","13","13",NA,NA,NA
+"1979","Appenzell Innerrhoden","Type of owners - Total","1676","4998","4772","24775","1486","26261"
+"1979","Appenzell Innerrhoden","Private forest","1650","3100","3100","14525","1356","15881"
+"1979","Appenzell Innerrhoden","Public forest","26","1898","1672","10250","130","10380"
+"1979","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1979","Appenzell Innerrhoden",">>Cantonal forest","1","113","91",NA,NA,NA
+"1979","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1979","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1979","Appenzell Innerrhoden",">>Other public forest","25","1785","1581",NA,NA,NA
+"1979","St. Gallen","Type of owners - Total","15879","50084","46451","483275","108140","591415"
+"1979","St. Gallen","Private forest","15621","18323","18323","196220","29460","225680"
+"1979","St. Gallen","Public forest","258","31761","28128","287055","78680","365735"
+"1979","St. Gallen",">>Federal forest","1","52","48",NA,NA,NA
+"1979","St. Gallen",">>Cantonal forest","1","2035","1793",NA,NA,NA
+"1979","St. Gallen",">>Municipality forest","29","429","410",NA,NA,NA
+"1979","St. Gallen",">>Bourgeois forest","110","24602","21662",NA,NA,NA
+"1979","St. Gallen",">>Other public forest","117","4643","4215",NA,NA,NA
+"1979","Graubünden / Grigioni / Grischun","Type of owners - Total","10259","174266","138351","838985","50192","889177"
+"1979","Graubünden / Grigioni / Grischun","Private forest","9993","14201","14201","10690","2200","12890"
+"1979","Graubünden / Grigioni / Grischun","Public forest","266","160065","124150","828295","47992","876287"
+"1979","Graubünden / Grigioni / Grischun",">>Federal forest","1","224","46",NA,NA,NA
+"1979","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","840","583",NA,NA,NA
+"1979","Graubünden / Grigioni / Grischun",">>Municipality forest","227","153912","119390",NA,NA,NA
+"1979","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1979","Graubünden / Grigioni / Grischun",">>Other public forest","37","5089","4131",NA,NA,NA
+"1979","Thurgau","Type of owners - Total","8767","18828","18694","330332","132670","463002"
+"1979","Thurgau","Private forest","8674","10307","10307","179668","54905","234573"
+"1979","Thurgau","Public forest","93","8521","8387","150664","77765","228429"
+"1979","Thurgau",">>Federal forest","1","191","126",NA,NA,NA
+"1979","Thurgau",">>Cantonal forest","1","1417","1407",NA,NA,NA
+"1979","Thurgau",">>Municipality forest","0","0","0",NA,NA,NA
+"1979","Thurgau",">>Bourgeois forest","77","5996","5938",NA,NA,NA
+"1979","Thurgau",">>Other public forest","14","917","916",NA,NA,NA
+"1980","Glarus","Type of owners - Total","1456","16537","14355","87550","23300","110850"
+"1980","Glarus","Private forest","1418","1646","1646","720","500","1220"
+"1980","Glarus","Public forest","38","14891","12709","86830","22800","109630"
+"1980","Glarus",">>Federal forest","1","131","93",NA,NA,NA
+"1980","Glarus",">>Cantonal forest","1","86","80",NA,NA,NA
+"1980","Glarus",">>Municipality forest","1","54","48",NA,NA,NA
+"1980","Glarus",">>Bourgeois forest","31","14393","12269",NA,NA,NA
+"1980","Glarus",">>Other public forest","4","227","219",NA,NA,NA
+"1980","Schaffhausen","Type of owners - Total","2134","12571","12386","170455","33725","204180"
+"1980","Schaffhausen","Private forest","2102","1968","1968","13200","1600","14800"
+"1980","Schaffhausen","Public forest","32","10603","10418","157255","32125","189380"
+"1980","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"1980","Schaffhausen",">>Cantonal forest","1","2146","2088",NA,NA,NA
+"1980","Schaffhausen",">>Municipality forest","30","8449","8322",NA,NA,NA
+"1980","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1980","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1980","Appenzell Ausserrhoden","Type of owners - Total","4018","5954","5927","56226","6420","62646"
+"1980","Appenzell Ausserrhoden","Private forest","3993","4462","4462","42751","4755","47506"
+"1980","Appenzell Ausserrhoden","Public forest","25","1492","1465","13475","1665","15140"
+"1980","Appenzell Ausserrhoden",">>Federal forest","1","164","164",NA,NA,NA
+"1980","Appenzell Ausserrhoden",">>Cantonal forest","1","326","305",NA,NA,NA
+"1980","Appenzell Ausserrhoden",">>Municipality forest","21","989","983",NA,NA,NA
+"1980","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1980","Appenzell Ausserrhoden",">>Other public forest","2","13","13",NA,NA,NA
+"1980","Appenzell Innerrhoden","Type of owners - Total","1677","5012","4786","36992","620","37612"
+"1980","Appenzell Innerrhoden","Private forest","1650","3100","3100","17442","75","17517"
+"1980","Appenzell Innerrhoden","Public forest","27","1912","1686","19550","545","20095"
+"1980","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1980","Appenzell Innerrhoden",">>Cantonal forest","1","113","91",NA,NA,NA
+"1980","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1980","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1980","Appenzell Innerrhoden",">>Other public forest","26","1799","1595",NA,NA,NA
+"1980","St. Gallen","Type of owners - Total","15403","50469","46790","459505","183754","643259"
+"1980","St. Gallen","Private forest","15143","18311","18311","201995","25327","227322"
+"1980","St. Gallen","Public forest","260","32158","28479","257510","158427","415937"
+"1980","St. Gallen",">>Federal forest","1","57","53",NA,NA,NA
+"1980","St. Gallen",">>Cantonal forest","1","2039","1794",NA,NA,NA
+"1980","St. Gallen",">>Municipality forest","29","429","410",NA,NA,NA
+"1980","St. Gallen",">>Bourgeois forest","112","24990","22008",NA,NA,NA
+"1980","St. Gallen",">>Other public forest","117","4643","4214",NA,NA,NA
+"1980","Graubünden / Grigioni / Grischun","Type of owners - Total","10207","174472","138123","609920","59940","669860"
+"1980","Graubünden / Grigioni / Grischun","Private forest","9946","14374","14374","34775","2490","37265"
+"1980","Graubünden / Grigioni / Grischun","Public forest","261","160098","123749","575145","57450","632595"
+"1980","Graubünden / Grigioni / Grischun",">>Federal forest","1","224","46",NA,NA,NA
+"1980","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","840","583",NA,NA,NA
+"1980","Graubünden / Grigioni / Grischun",">>Municipality forest","225","154050","119050",NA,NA,NA
+"1980","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1980","Graubünden / Grigioni / Grischun",">>Other public forest","34","4984","4070",NA,NA,NA
+"1980","Thurgau","Type of owners - Total","8757","18774","18646","269966","139410","409376"
+"1980","Thurgau","Private forest","8664","10250","10250","146764","58226","204990"
+"1980","Thurgau","Public forest","93","8524","8396","123202","81184","204386"
+"1980","Thurgau",">>Federal forest","1","191","126",NA,NA,NA
+"1980","Thurgau",">>Cantonal forest","1","1417","1407",NA,NA,NA
+"1980","Thurgau",">>Municipality forest","0","0","0",NA,NA,NA
+"1980","Thurgau",">>Bourgeois forest","79","6017","5965",NA,NA,NA
+"1980","Thurgau",">>Other public forest","12","899","898",NA,NA,NA
+"1981","Glarus","Type of owners - Total","1456","16316","14177","94190","12030","106220"
+"1981","Glarus","Private forest","1418","1646","1646","2520","0","2520"
+"1981","Glarus","Public forest","38","14670","12531","91670","12030","103700"
+"1981","Glarus",">>Federal forest","1","131","93",NA,NA,NA
+"1981","Glarus",">>Cantonal forest","1","86","80",NA,NA,NA
+"1981","Glarus",">>Municipality forest","1","54","48",NA,NA,NA
+"1981","Glarus",">>Bourgeois forest","31","14171","12090",NA,NA,NA
+"1981","Glarus",">>Other public forest","4","228","220",NA,NA,NA
+"1981","Schaffhausen","Type of owners - Total","2133","12571","12387","195340","48090","243430"
+"1981","Schaffhausen","Private forest","2101","1968","1968","28500","3580","32080"
+"1981","Schaffhausen","Public forest","32","10603","10419","166840","44510","211350"
+"1981","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"1981","Schaffhausen",">>Cantonal forest","1","2146","2088",NA,NA,NA
+"1981","Schaffhausen",">>Municipality forest","30","8449","8323",NA,NA,NA
+"1981","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1981","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1981","Appenzell Ausserrhoden","Type of owners - Total","4045","5925","5898","60080","5890","65970"
+"1981","Appenzell Ausserrhoden","Private forest","4021","4462","4462","47155","3740","50895"
+"1981","Appenzell Ausserrhoden","Public forest","24","1463","1436","12925","2150","15075"
+"1981","Appenzell Ausserrhoden",">>Federal forest","1","164","164",NA,NA,NA
+"1981","Appenzell Ausserrhoden",">>Cantonal forest","1","326","305",NA,NA,NA
+"1981","Appenzell Ausserrhoden",">>Municipality forest","20","960","954",NA,NA,NA
+"1981","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1981","Appenzell Ausserrhoden",">>Other public forest","2","13","13",NA,NA,NA
+"1981","Appenzell Innerrhoden","Type of owners - Total","1677","5012","4786","32055","1180","33235"
+"1981","Appenzell Innerrhoden","Private forest","1650","3100","3100","13255","360","13615"
+"1981","Appenzell Innerrhoden","Public forest","27","1912","1686","18800","820","19620"
+"1981","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1981","Appenzell Innerrhoden",">>Cantonal forest","1","113","91",NA,NA,NA
+"1981","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1981","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1981","Appenzell Innerrhoden",">>Other public forest","26","1799","1595",NA,NA,NA
+"1981","St. Gallen","Type of owners - Total","15641","50567","46907","419822","129040","548862"
+"1981","St. Gallen","Private forest","15381","18368","18368","175035","25057","200092"
+"1981","St. Gallen","Public forest","260","32199","28539","244787","103983","348770"
+"1981","St. Gallen",">>Federal forest","1","57","53",NA,NA,NA
+"1981","St. Gallen",">>Cantonal forest","1","2053","1826",NA,NA,NA
+"1981","St. Gallen",">>Municipality forest","29","430","411",NA,NA,NA
+"1981","St. Gallen",">>Bourgeois forest","112","25016","22034",NA,NA,NA
+"1981","St. Gallen",">>Other public forest","117","4643","4215",NA,NA,NA
+"1981","Graubünden / Grigioni / Grischun","Type of owners - Total","10130","174587","138110","619670","88288","707958"
+"1981","Graubünden / Grigioni / Grischun","Private forest","9869","14013","14013","17130","568","17698"
+"1981","Graubünden / Grigioni / Grischun","Public forest","261","160574","124097","602540","87720","690260"
+"1981","Graubünden / Grigioni / Grischun",">>Federal forest","1","224","46",NA,NA,NA
+"1981","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","860","601",NA,NA,NA
+"1981","Graubünden / Grigioni / Grischun",">>Municipality forest","227","154724","119605",NA,NA,NA
+"1981","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1981","Graubünden / Grigioni / Grischun",">>Other public forest","32","4766","3845",NA,NA,NA
+"1981","Thurgau","Type of owners - Total","8746","18769","18670","256341","129316","385657"
+"1981","Thurgau","Private forest","8653","10272","10272","132760","48440","181200"
+"1981","Thurgau","Public forest","93","8497","8398","123581","80876","204457"
+"1981","Thurgau",">>Federal forest","1","191","126",NA,NA,NA
+"1981","Thurgau",">>Cantonal forest","1","1416","1407",NA,NA,NA
+"1981","Thurgau",">>Municipality forest","2","51","51",NA,NA,NA
+"1981","Thurgau",">>Bourgeois forest","71","5868","5844",NA,NA,NA
+"1981","Thurgau",">>Other public forest","18","971","970",NA,NA,NA
+"1982","Glarus","Type of owners - Total","1456","17274","14479","82507","10815","93322"
+"1982","Glarus","Private forest","1418","1646","1646","4430","200","4630"
+"1982","Glarus","Public forest","38","15628","12833","78077","10615","88692"
+"1982","Glarus",">>Federal forest","1","131","93",NA,NA,NA
+"1982","Glarus",">>Cantonal forest","1","86","80",NA,NA,NA
+"1982","Glarus",">>Municipality forest","1","54","48",NA,NA,NA
+"1982","Glarus",">>Bourgeois forest","31","15129","12392",NA,NA,NA
+"1982","Glarus",">>Other public forest","4","228","220",NA,NA,NA
+"1982","Schaffhausen","Type of owners - Total","2131","12572","12387","185825","37125","222950"
+"1982","Schaffhausen","Private forest","2099","1967","1967","19200","1300","20500"
+"1982","Schaffhausen","Public forest","32","10605","10420","166625","35825","202450"
+"1982","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"1982","Schaffhausen",">>Cantonal forest","1","2146","2088",NA,NA,NA
+"1982","Schaffhausen",">>Municipality forest","30","8451","8324",NA,NA,NA
+"1982","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1982","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1982","Appenzell Ausserrhoden","Type of owners - Total","4042","5957","5930","55230","4005","59235"
+"1982","Appenzell Ausserrhoden","Private forest","4017","4458","4458","41785","2680","44465"
+"1982","Appenzell Ausserrhoden","Public forest","25","1499","1472","13445","1325","14770"
+"1982","Appenzell Ausserrhoden",">>Federal forest","1","164","164",NA,NA,NA
+"1982","Appenzell Ausserrhoden",">>Cantonal forest","1","327","306",NA,NA,NA
+"1982","Appenzell Ausserrhoden",">>Municipality forest","21","995","989",NA,NA,NA
+"1982","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1982","Appenzell Ausserrhoden",">>Other public forest","2","13","13",NA,NA,NA
+"1982","Appenzell Innerrhoden","Type of owners - Total","1677","5014","4788","32710","540","33250"
+"1982","Appenzell Innerrhoden","Private forest","1650","3100","3100","13220","40","13260"
+"1982","Appenzell Innerrhoden","Public forest","27","1914","1688","19490","500","19990"
+"1982","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1982","Appenzell Innerrhoden",">>Cantonal forest","1","113","91",NA,NA,NA
+"1982","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1982","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1982","Appenzell Innerrhoden",">>Other public forest","26","1801","1597",NA,NA,NA
+"1982","St. Gallen","Type of owners - Total","15750","51098","47830","393868","108961","502829"
+"1982","St. Gallen","Private forest","15490","18490","18490","165072","31093","196165"
+"1982","St. Gallen","Public forest","260","32608","29340","228796","77868","306664"
+"1982","St. Gallen",">>Federal forest","1","57","53",NA,NA,NA
+"1982","St. Gallen",">>Cantonal forest","1","2077","1834",NA,NA,NA
+"1982","St. Gallen",">>Municipality forest","29","430","411",NA,NA,NA
+"1982","St. Gallen",">>Bourgeois forest","112","25403","22838",NA,NA,NA
+"1982","St. Gallen",">>Other public forest","117","4641","4204",NA,NA,NA
+"1982","Graubünden / Grigioni / Grischun","Type of owners - Total","10202","176468","138482","666830","98705","765535"
+"1982","Graubünden / Grigioni / Grischun","Private forest","9938","14131","14131","47020","3935","50955"
+"1982","Graubünden / Grigioni / Grischun","Public forest","264","162337","124351","619810","94770","714580"
+"1982","Graubünden / Grigioni / Grischun",">>Federal forest","1","224","46",NA,NA,NA
+"1982","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","928","663",NA,NA,NA
+"1982","Graubünden / Grigioni / Grischun",">>Municipality forest","225","155991","119426",NA,NA,NA
+"1982","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1982","Graubünden / Grigioni / Grischun",">>Other public forest","37","5194","4216",NA,NA,NA
+"1982","Thurgau","Type of owners - Total","8688","18872","18758","259620","143920","403540"
+"1982","Thurgau","Private forest","8595","10358","10358","128370","50135","178505"
+"1982","Thurgau","Public forest","93","8514","8400","131250","93785","225035"
+"1982","Thurgau",">>Federal forest","1","207","126",NA,NA,NA
+"1982","Thurgau",">>Cantonal forest","1","1415","1407",NA,NA,NA
+"1982","Thurgau",">>Municipality forest","2","51","51",NA,NA,NA
+"1982","Thurgau",">>Bourgeois forest","73","5906","5882",NA,NA,NA
+"1982","Thurgau",">>Other public forest","16","935","934",NA,NA,NA
+"1983","Glarus","Type of owners - Total","1456","17253","14458","88940","13310","102250"
+"1983","Glarus","Private forest","1418","1625","1625","5060","0","5060"
+"1983","Glarus","Public forest","38","15628","12833","83880","13310","97190"
+"1983","Glarus",">>Federal forest","1","131","93",NA,NA,NA
+"1983","Glarus",">>Cantonal forest","1","86","80",NA,NA,NA
+"1983","Glarus",">>Municipality forest","1","54","48",NA,NA,NA
+"1983","Glarus",">>Bourgeois forest","31","15129","12392",NA,NA,NA
+"1983","Glarus",">>Other public forest","4","228","220",NA,NA,NA
+"1983","Schaffhausen","Type of owners - Total","2131","12576","12388","147365","36115","183480"
+"1983","Schaffhausen","Private forest","2099","1965","1965","17110","4650","21760"
+"1983","Schaffhausen","Public forest","32","10611","10423","130255","31465","161720"
+"1983","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"1983","Schaffhausen",">>Cantonal forest","1","2146","2088",NA,NA,NA
+"1983","Schaffhausen",">>Municipality forest","30","8457","8327",NA,NA,NA
+"1983","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1983","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1983","Appenzell Ausserrhoden","Type of owners - Total","4041","5972","5945","54280","6555","60835"
+"1983","Appenzell Ausserrhoden","Private forest","4016","4458","4458","41160","3250","44410"
+"1983","Appenzell Ausserrhoden","Public forest","25","1514","1487","13120","3305","16425"
+"1983","Appenzell Ausserrhoden",">>Federal forest","1","178","178",NA,NA,NA
+"1983","Appenzell Ausserrhoden",">>Cantonal forest","1","329","308",NA,NA,NA
+"1983","Appenzell Ausserrhoden",">>Municipality forest","21","994","988",NA,NA,NA
+"1983","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1983","Appenzell Ausserrhoden",">>Other public forest","2","13","13",NA,NA,NA
+"1983","Appenzell Innerrhoden","Type of owners - Total","1678","5012","4786","23715","1010","24725"
+"1983","Appenzell Innerrhoden","Private forest","1650","3100","3100","18875","810","19685"
+"1983","Appenzell Innerrhoden","Public forest","28","1912","1686","4840","200","5040"
+"1983","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1983","Appenzell Innerrhoden",">>Cantonal forest","1","60","40",NA,NA,NA
+"1983","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1983","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1983","Appenzell Innerrhoden",">>Other public forest","27","1852","1646",NA,NA,NA
+"1983","St. Gallen","Type of owners - Total","16450","51549","48547","302776","75362","378138"
+"1983","St. Gallen","Private forest","16192","18455","18455","119255","24690","143945"
+"1983","St. Gallen","Public forest","258","33094","30092","183521","50672","234193"
+"1983","St. Gallen",">>Federal forest","1","57","53",NA,NA,NA
+"1983","St. Gallen",">>Cantonal forest","1","2079","1835",NA,NA,NA
+"1983","St. Gallen",">>Municipality forest","27","416","405",NA,NA,NA
+"1983","St. Gallen",">>Bourgeois forest","102","25699","23392",NA,NA,NA
+"1983","St. Gallen",">>Other public forest","127","4843","4407",NA,NA,NA
+"1983","Graubünden / Grigioni / Grischun","Type of owners - Total","10172","176501","138493","523854","83400","607254"
+"1983","Graubünden / Grigioni / Grischun","Private forest","9910","14045","14045","37405","1870","39275"
+"1983","Graubünden / Grigioni / Grischun","Public forest","262","162456","124448","486449","81530","567979"
+"1983","Graubünden / Grigioni / Grischun",">>Federal forest","1","224","46",NA,NA,NA
+"1983","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","925","660",NA,NA,NA
+"1983","Graubünden / Grigioni / Grischun",">>Municipality forest","225","156269","119700",NA,NA,NA
+"1983","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1983","Graubünden / Grigioni / Grischun",">>Other public forest","35","5038","4042",NA,NA,NA
+"1983","Thurgau","Type of owners - Total","8669","18861","18772","234705","124152","358857"
+"1983","Thurgau","Private forest","8576","10368","10368","93680","40725","134405"
+"1983","Thurgau","Public forest","93","8493","8404","141025","83427","224452"
+"1983","Thurgau",">>Federal forest","1","191","126",NA,NA,NA
+"1983","Thurgau",">>Cantonal forest","1","1416","1407",NA,NA,NA
+"1983","Thurgau",">>Municipality forest","2","51","51",NA,NA,NA
+"1983","Thurgau",">>Bourgeois forest","73","5900","5886",NA,NA,NA
+"1983","Thurgau",">>Other public forest","16","935","934",NA,NA,NA
+"1984","Glarus","Type of owners - Total","1456","17339","14565","62580","24925","87505"
+"1984","Glarus","Private forest","1418","1515","1515","2700","0","2700"
+"1984","Glarus","Public forest","38","15824","13050","59880","24925","84805"
+"1984","Glarus",">>Federal forest","1","131","93",NA,NA,NA
+"1984","Glarus",">>Cantonal forest","1","86","80",NA,NA,NA
+"1984","Glarus",">>Municipality forest","1","54","48",NA,NA,NA
+"1984","Glarus",">>Bourgeois forest","31","15325","12609",NA,NA,NA
+"1984","Glarus",">>Other public forest","4","228","220",NA,NA,NA
+"1984","Schaffhausen","Type of owners - Total","2131","12577","12389","153000","60780","213780"
+"1984","Schaffhausen","Private forest","2099","1965","1965","12570","3550","16120"
+"1984","Schaffhausen","Public forest","32","10612","10424","140430","57230","197660"
+"1984","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"1984","Schaffhausen",">>Cantonal forest","1","2146","2088",NA,NA,NA
+"1984","Schaffhausen",">>Municipality forest","30","8458","8328",NA,NA,NA
+"1984","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1984","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1984","Appenzell Ausserrhoden","Type of owners - Total","4040","6110","6083","48287","4305","52592"
+"1984","Appenzell Ausserrhoden","Private forest","4015","4583","4583","33222","1900","35122"
+"1984","Appenzell Ausserrhoden","Public forest","25","1527","1500","15065","2405","17470"
+"1984","Appenzell Ausserrhoden",">>Federal forest","1","178","178",NA,NA,NA
+"1984","Appenzell Ausserrhoden",">>Cantonal forest","1","342","321",NA,NA,NA
+"1984","Appenzell Ausserrhoden",">>Municipality forest","21","994","988",NA,NA,NA
+"1984","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1984","Appenzell Ausserrhoden",">>Other public forest","2","13","13",NA,NA,NA
+"1984","Appenzell Innerrhoden","Type of owners - Total","1678","4412","4204","33805","1810","35615"
+"1984","Appenzell Innerrhoden","Private forest","1650","2343","2343","12035","660","12695"
+"1984","Appenzell Innerrhoden","Public forest","28","2069","1861","21770","1150","22920"
+"1984","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1984","Appenzell Innerrhoden",">>Cantonal forest","1","61","61",NA,NA,NA
+"1984","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1984","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1984","Appenzell Innerrhoden",">>Other public forest","27","2008","1800",NA,NA,NA
+"1984","St. Gallen","Type of owners - Total","17048","51404","48404","510853","155110","665963"
+"1984","St. Gallen","Private forest","16791","18322","18322","108666","22173","130839"
+"1984","St. Gallen","Public forest","257","33082","30082","402187","132937","535124"
+"1984","St. Gallen",">>Federal forest","1","57","53",NA,NA,NA
+"1984","St. Gallen",">>Cantonal forest","1","2082","1838",NA,NA,NA
+"1984","St. Gallen",">>Municipality forest","27","420","409",NA,NA,NA
+"1984","St. Gallen",">>Bourgeois forest","102","25678","23372",NA,NA,NA
+"1984","St. Gallen",">>Other public forest","126","4845","4410",NA,NA,NA
+"1984","Graubünden / Grigioni / Grischun","Type of owners - Total","10045","176707","138712","590354","88249","678603"
+"1984","Graubünden / Grigioni / Grischun","Private forest","9786","14016","14016","22953","2900","25853"
+"1984","Graubünden / Grigioni / Grischun","Public forest","259","162691","124696","567401","85349","652750"
+"1984","Graubünden / Grigioni / Grischun",">>Federal forest","1","224","46",NA,NA,NA
+"1984","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","919","679",NA,NA,NA
+"1984","Graubünden / Grigioni / Grischun",">>Municipality forest","225","156719","120073",NA,NA,NA
+"1984","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1984","Graubünden / Grigioni / Grischun",">>Other public forest","32","4829","3898",NA,NA,NA
+"1984","Thurgau","Type of owners - Total","8669","19003","18916","259269","169038","428307"
+"1984","Thurgau","Private forest","8576","10514","10514","113776","52785","166561"
+"1984","Thurgau","Public forest","93","8489","8402","145493","116253","261746"
+"1984","Thurgau",">>Federal forest","1","191","126",NA,NA,NA
+"1984","Thurgau",">>Cantonal forest","1","1414","1407",NA,NA,NA
+"1984","Thurgau",">>Municipality forest","2","51","51",NA,NA,NA
+"1984","Thurgau",">>Bourgeois forest","73","5898","5884",NA,NA,NA
+"1984","Thurgau",">>Other public forest","16","935","934",NA,NA,NA
+"1985","Glarus","Type of owners - Total","1456","17440","14647","62460","16520","78980"
+"1985","Glarus","Private forest","1418","1515","1515","3300","3500","6800"
+"1985","Glarus","Public forest","38","15925","13132","59160","13020","72180"
+"1985","Glarus",">>Federal forest","1","131","93",NA,NA,NA
+"1985","Glarus",">>Cantonal forest","1","86","80",NA,NA,NA
+"1985","Glarus",">>Municipality forest","1","54","48",NA,NA,NA
+"1985","Glarus",">>Bourgeois forest","31","15427","12692",NA,NA,NA
+"1985","Glarus",">>Other public forest","4","227","219",NA,NA,NA
+"1985","Schaffhausen","Type of owners - Total","2149","12631","12433","123485","73080","196565"
+"1985","Schaffhausen","Private forest","2117","1977","1977","13675","3500","17175"
+"1985","Schaffhausen","Public forest","32","10654","10456","109810","69580","179390"
+"1985","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"1985","Schaffhausen",">>Cantonal forest","1","2189","2122",NA,NA,NA
+"1985","Schaffhausen",">>Municipality forest","30","8457","8326",NA,NA,NA
+"1985","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1985","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1985","Appenzell Ausserrhoden","Type of owners - Total","4048","6186","6161","43930","3975","47905"
+"1985","Appenzell Ausserrhoden","Private forest","4023","4650","4650","27895","2365","30260"
+"1985","Appenzell Ausserrhoden","Public forest","25","1536","1511","16035","1610","17645"
+"1985","Appenzell Ausserrhoden",">>Federal forest","1","179","179",NA,NA,NA
+"1985","Appenzell Ausserrhoden",">>Cantonal forest","1","347","328",NA,NA,NA
+"1985","Appenzell Ausserrhoden",">>Municipality forest","21","997","991",NA,NA,NA
+"1985","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1985","Appenzell Ausserrhoden",">>Other public forest","2","13","13",NA,NA,NA
+"1985","Appenzell Innerrhoden","Type of owners - Total","1676","4408","4200","34582","4267","38849"
+"1985","Appenzell Innerrhoden","Private forest","1650","2359","2359","11712","672","12384"
+"1985","Appenzell Innerrhoden","Public forest","26","2049","1841","22870","3595","26465"
+"1985","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1985","Appenzell Innerrhoden",">>Cantonal forest","1","61","61",NA,NA,NA
+"1985","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1985","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1985","Appenzell Innerrhoden",">>Other public forest","25","1988","1780",NA,NA,NA
+"1985","St. Gallen","Type of owners - Total","17293","51257","48411","453686","142036","595722"
+"1985","St. Gallen","Private forest","17098","18470","18470","97182","29843","127025"
+"1985","St. Gallen","Public forest","195","32787","29941","356504","112193","468697"
+"1985","St. Gallen",">>Federal forest","1","139","135",NA,NA,NA
+"1985","St. Gallen",">>Cantonal forest","1","2069","1841",NA,NA,NA
+"1985","St. Gallen",">>Municipality forest","22","454","442",NA,NA,NA
+"1985","St. Gallen",">>Bourgeois forest","81","25314","23079",NA,NA,NA
+"1985","St. Gallen",">>Other public forest","90","4811","4444",NA,NA,NA
+"1985","Graubünden / Grigioni / Grischun","Type of owners - Total","10163","178525","139291","594436","101923","696359"
+"1985","Graubünden / Grigioni / Grischun","Private forest","9890","14305","14305","14560","170","14730"
+"1985","Graubünden / Grigioni / Grischun","Public forest","273","164220","124986","579876","101753","681629"
+"1985","Graubünden / Grigioni / Grischun",">>Federal forest","1","226","48",NA,NA,NA
+"1985","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","926","679",NA,NA,NA
+"1985","Graubünden / Grigioni / Grischun",">>Municipality forest","221","156761","119186",NA,NA,NA
+"1985","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1985","Graubünden / Grigioni / Grischun",">>Other public forest","50","6307","5073",NA,NA,NA
+"1985","Thurgau","Type of owners - Total","8666","19118","19032","247247","136931","384178"
+"1985","Thurgau","Private forest","8572","10600","10600","121702","48890","170592"
+"1985","Thurgau","Public forest","94","8518","8432","125545","88041","213586"
+"1985","Thurgau",">>Federal forest","1","191","126",NA,NA,NA
+"1985","Thurgau",">>Cantonal forest","1","1413","1407",NA,NA,NA
+"1985","Thurgau",">>Municipality forest","2","51","51",NA,NA,NA
+"1985","Thurgau",">>Bourgeois forest","73","5880","5866",NA,NA,NA
+"1985","Thurgau",">>Other public forest","17","983","982",NA,NA,NA
+"1986","Glarus","Type of owners - Total","1456","17441","14648","66925","17605","84530"
+"1986","Glarus","Private forest","1418","1515","1515","900","0","900"
+"1986","Glarus","Public forest","38","15926","13133","66025","17605","83630"
+"1986","Glarus",">>Federal forest","1","131","93",NA,NA,NA
+"1986","Glarus",">>Cantonal forest","1","86","80",NA,NA,NA
+"1986","Glarus",">>Municipality forest","1","54","48",NA,NA,NA
+"1986","Glarus",">>Bourgeois forest","31","15427","12692",NA,NA,NA
+"1986","Glarus",">>Other public forest","4","228","220",NA,NA,NA
+"1986","Schaffhausen","Type of owners - Total","2149","12631","12433","119040","65370","184410"
+"1986","Schaffhausen","Private forest","2117","1977","1977","9370","1125","10495"
+"1986","Schaffhausen","Public forest","32","10654","10456","109670","64245","173915"
+"1986","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"1986","Schaffhausen",">>Cantonal forest","1","2189","2122",NA,NA,NA
+"1986","Schaffhausen",">>Municipality forest","30","8457","8326",NA,NA,NA
+"1986","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1986","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1986","Appenzell Ausserrhoden","Type of owners - Total","4046","6165","6140","45005","6140","51145"
+"1986","Appenzell Ausserrhoden","Private forest","4021","4628","4628","30075","3710","33785"
+"1986","Appenzell Ausserrhoden","Public forest","25","1537","1512","14930","2430","17360"
+"1986","Appenzell Ausserrhoden",">>Federal forest","1","179","179",NA,NA,NA
+"1986","Appenzell Ausserrhoden",">>Cantonal forest","1","347","328",NA,NA,NA
+"1986","Appenzell Ausserrhoden",">>Municipality forest","21","998","992",NA,NA,NA
+"1986","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1986","Appenzell Ausserrhoden",">>Other public forest","2","13","13",NA,NA,NA
+"1986","Appenzell Innerrhoden","Type of owners - Total","1676","4408","4200","30007","3028","33035"
+"1986","Appenzell Innerrhoden","Private forest","1650","2359","2359","6317","173","6490"
+"1986","Appenzell Innerrhoden","Public forest","26","2049","1841","23690","2855","26545"
+"1986","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1986","Appenzell Innerrhoden",">>Cantonal forest","1","61","61",NA,NA,NA
+"1986","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1986","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1986","Appenzell Innerrhoden",">>Other public forest","25","1988","1780",NA,NA,NA
+"1986","St. Gallen","Type of owners - Total","16295","51336","48490","407268","122783","530051"
+"1986","St. Gallen","Private forest","16143","18347","18347","118271","43910","162181"
+"1986","St. Gallen","Public forest","152","32989","30143","288997","78873","367870"
+"1986","St. Gallen",">>Federal forest","1","150","146",NA,NA,NA
+"1986","St. Gallen",">>Cantonal forest","1","2060","1819",NA,NA,NA
+"1986","St. Gallen",">>Municipality forest","12","360","349",NA,NA,NA
+"1986","St. Gallen",">>Bourgeois forest","82","25839","23613",NA,NA,NA
+"1986","St. Gallen",">>Other public forest","56","4580","4216",NA,NA,NA
+"1986","Graubünden / Grigioni / Grischun","Type of owners - Total","10554","179148","139686","620815","124358","745173"
+"1986","Graubünden / Grigioni / Grischun","Private forest","10280","14650","14650","6814","1118","7932"
+"1986","Graubünden / Grigioni / Grischun","Public forest","274","164498","125036","614001","123240","737241"
+"1986","Graubünden / Grigioni / Grischun",">>Federal forest","1","226","48",NA,NA,NA
+"1986","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","926","679",NA,NA,NA
+"1986","Graubünden / Grigioni / Grischun",">>Municipality forest","221","156927","119218",NA,NA,NA
+"1986","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1986","Graubünden / Grigioni / Grischun",">>Other public forest","51","6419","5091",NA,NA,NA
+"1986","Thurgau","Type of owners - Total","8468","19185","19102","211891","141656","353547"
+"1986","Thurgau","Private forest","8375","10716","10716","111521","73295","184816"
+"1986","Thurgau","Public forest","93","8469","8386","100370","68361","168731"
+"1986","Thurgau",">>Federal forest","1","191","126",NA,NA,NA
+"1986","Thurgau",">>Cantonal forest","1","1414","1407",NA,NA,NA
+"1986","Thurgau",">>Municipality forest","2","51","51",NA,NA,NA
+"1986","Thurgau",">>Bourgeois forest","73","5878","5868",NA,NA,NA
+"1986","Thurgau",">>Other public forest","16","935","934",NA,NA,NA
+"1987","Glarus","Type of owners - Total","1456","18262","15157","58605","2460","61065"
+"1987","Glarus","Private forest","1418","1514","1514","800","0","800"
+"1987","Glarus","Public forest","38","16748","13643","57805","2460","60265"
+"1987","Glarus",">>Federal forest","1","131","93",NA,NA,NA
+"1987","Glarus",">>Cantonal forest","1","86","80",NA,NA,NA
+"1987","Glarus",">>Municipality forest","1","54","48",NA,NA,NA
+"1987","Glarus",">>Bourgeois forest","31","16249","13202",NA,NA,NA
+"1987","Glarus",">>Other public forest","4","228","220",NA,NA,NA
+"1987","Schaffhausen","Type of owners - Total","2149","12631","12433","128680","86810","215490"
+"1987","Schaffhausen","Private forest","2117","1977","1977","9840","4525","14365"
+"1987","Schaffhausen","Public forest","32","10654","10456","118840","82285","201125"
+"1987","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"1987","Schaffhausen",">>Cantonal forest","1","2189","2122",NA,NA,NA
+"1987","Schaffhausen",">>Municipality forest","30","8457","8326",NA,NA,NA
+"1987","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1987","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1987","Appenzell Ausserrhoden","Type of owners - Total","4046","6170","6145","33955","3965","37920"
+"1987","Appenzell Ausserrhoden","Private forest","4021","4613","4613","25010","2040","27050"
+"1987","Appenzell Ausserrhoden","Public forest","25","1557","1532","8945","1925","10870"
+"1987","Appenzell Ausserrhoden",">>Federal forest","1","179","179",NA,NA,NA
+"1987","Appenzell Ausserrhoden",">>Cantonal forest","1","367","348",NA,NA,NA
+"1987","Appenzell Ausserrhoden",">>Municipality forest","21","998","992",NA,NA,NA
+"1987","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1987","Appenzell Ausserrhoden",">>Other public forest","2","13","13",NA,NA,NA
+"1987","Appenzell Innerrhoden","Type of owners - Total","1676","5023","4814","10182","184","10366"
+"1987","Appenzell Innerrhoden","Private forest","1650","2960","2960","4472","184","4656"
+"1987","Appenzell Innerrhoden","Public forest","26","2063","1854","5710","0","5710"
+"1987","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1987","Appenzell Innerrhoden",">>Cantonal forest","1","61","61",NA,NA,NA
+"1987","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1987","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1987","Appenzell Innerrhoden",">>Other public forest","25","2002","1793",NA,NA,NA
+"1987","St. Gallen","Type of owners - Total","16707","51788","48863","343185","121202","464387"
+"1987","St. Gallen","Private forest","16556","18618","18618","97173","24278","121451"
+"1987","St. Gallen","Public forest","151","33170","30245","246012","96924","342936"
+"1987","St. Gallen",">>Federal forest","1","150","146",NA,NA,NA
+"1987","St. Gallen",">>Cantonal forest","1","2060","1819",NA,NA,NA
+"1987","St. Gallen",">>Municipality forest","12","360","349",NA,NA,NA
+"1987","St. Gallen",">>Bourgeois forest","81","26014","23704",NA,NA,NA
+"1987","St. Gallen",">>Other public forest","56","4586","4227",NA,NA,NA
+"1987","Graubünden / Grigioni / Grischun","Type of owners - Total","10621","180569","140288","598095","133200","731295"
+"1987","Graubünden / Grigioni / Grischun","Private forest","10346","14909","14909","9550","1500","11050"
+"1987","Graubünden / Grigioni / Grischun","Public forest","275","165660","125379","588545","131700","720245"
+"1987","Graubünden / Grigioni / Grischun",">>Federal forest","1","226","48",NA,NA,NA
+"1987","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","926","661",NA,NA,NA
+"1987","Graubünden / Grigioni / Grischun",">>Municipality forest","220","157809","119323",NA,NA,NA
+"1987","Graubünden / Grigioni / Grischun",">>Bourgeois forest","1","142","120",NA,NA,NA
+"1987","Graubünden / Grigioni / Grischun",">>Other public forest","52","6557","5227",NA,NA,NA
+"1987","Thurgau","Type of owners - Total","8469","19194","19111","294626","183556","478182"
+"1987","Thurgau","Private forest","8376","10724","10724","155013","66832","221845"
+"1987","Thurgau","Public forest","93","8470","8387","139613","116724","256337"
+"1987","Thurgau",">>Federal forest","1","191","126",NA,NA,NA
+"1987","Thurgau",">>Cantonal forest","1","1413","1407",NA,NA,NA
+"1987","Thurgau",">>Municipality forest","2","51","51",NA,NA,NA
+"1987","Thurgau",">>Bourgeois forest","71","5844","5834",NA,NA,NA
+"1987","Thurgau",">>Other public forest","18","971","969",NA,NA,NA
+"1988","Glarus","Type of owners - Total","1446","18041","15123","57750","14700","72450"
+"1988","Glarus","Private forest","1408","1419","1419","450","0","450"
+"1988","Glarus","Public forest","38","16622","13704","57300","14700","72000"
+"1988","Glarus",">>Federal forest","1","131","93",NA,NA,NA
+"1988","Glarus",">>Cantonal forest","1","86","80",NA,NA,NA
+"1988","Glarus",">>Municipality forest","1","54","48",NA,NA,NA
+"1988","Glarus",">>Bourgeois forest","31","16124","13264",NA,NA,NA
+"1988","Glarus",">>Other public forest","4","227","219",NA,NA,NA
+"1988","Schaffhausen","Type of owners - Total","2149","12631","12433","118075","70705","188780"
+"1988","Schaffhausen","Private forest","2117","1977","1977","9700","2050","11750"
+"1988","Schaffhausen","Public forest","32","10654","10456","108375","68655","177030"
+"1988","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"1988","Schaffhausen",">>Cantonal forest","1","2189","2122",NA,NA,NA
+"1988","Schaffhausen",">>Municipality forest","30","8457","8326",NA,NA,NA
+"1988","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1988","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1988","Appenzell Ausserrhoden","Type of owners - Total","4046","6172","6147","54945","13410","68355"
+"1988","Appenzell Ausserrhoden","Private forest","4021","4611","4611","38235","8735","46970"
+"1988","Appenzell Ausserrhoden","Public forest","25","1561","1536","16710","4675","21385"
+"1988","Appenzell Ausserrhoden",">>Federal forest","1","199","199",NA,NA,NA
+"1988","Appenzell Ausserrhoden",">>Cantonal forest","1","351","332",NA,NA,NA
+"1988","Appenzell Ausserrhoden",">>Municipality forest","21","998","992",NA,NA,NA
+"1988","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1988","Appenzell Ausserrhoden",">>Other public forest","2","13","13",NA,NA,NA
+"1988","Appenzell Innerrhoden","Type of owners - Total","1676","4421","4213","54625","4025","58650"
+"1988","Appenzell Innerrhoden","Private forest","1650","2359","2359","27225","1800","29025"
+"1988","Appenzell Innerrhoden","Public forest","26","2062","1854","27400","2225","29625"
+"1988","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1988","Appenzell Innerrhoden",">>Cantonal forest","1","61","61",NA,NA,NA
+"1988","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1988","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1988","Appenzell Innerrhoden",">>Other public forest","25","2001","1793",NA,NA,NA
+"1988","St. Gallen","Type of owners - Total","17783","51330","48717","484236","212369","696605"
+"1988","St. Gallen","Private forest","17631","18349","18349","164341","63714","228055"
+"1988","St. Gallen","Public forest","152","32981","30368","319895","148655","468550"
+"1988","St. Gallen",">>Federal forest","1","781","499",NA,NA,NA
+"1988","St. Gallen",">>Cantonal forest","1","2045","1818",NA,NA,NA
+"1988","St. Gallen",">>Municipality forest","13","358","346",NA,NA,NA
+"1988","St. Gallen",">>Bourgeois forest","77","24873","23120",NA,NA,NA
+"1988","St. Gallen",">>Other public forest","60","4924","4585",NA,NA,NA
+"1988","Graubünden / Grigioni / Grischun","Type of owners - Total","11155","179663","140165","599951","195481","795432"
+"1988","Graubünden / Grigioni / Grischun","Private forest","10876","14621","14621","12120","2775","14895"
+"1988","Graubünden / Grigioni / Grischun","Public forest","279","165042","125544","587831","192706","780537"
+"1988","Graubünden / Grigioni / Grischun",">>Federal forest","1","226","48",NA,NA,NA
+"1988","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","921","678",NA,NA,NA
+"1988","Graubünden / Grigioni / Grischun",">>Municipality forest","223","157217","119503",NA,NA,NA
+"1988","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1988","Graubünden / Grigioni / Grischun",">>Other public forest","54","6678","5315",NA,NA,NA
+"1988","Thurgau","Type of owners - Total","8558","19066","18967","237704","178975","416679"
+"1988","Thurgau","Private forest","8465","10583","10583","116609","70185","186794"
+"1988","Thurgau","Public forest","93","8483","8384","121095","108790","229885"
+"1988","Thurgau",">>Federal forest","1","191","126",NA,NA,NA
+"1988","Thurgau",">>Cantonal forest","1","1412","1406",NA,NA,NA
+"1988","Thurgau",">>Municipality forest","2","51","51",NA,NA,NA
+"1988","Thurgau",">>Bourgeois forest","71","5858","5832",NA,NA,NA
+"1988","Thurgau",">>Other public forest","18","971","969",NA,NA,NA
+"1989","Glarus","Type of owners - Total","1492","17985","15225","47245","15525","62770"
+"1989","Glarus","Private forest","1454","1522","1522","200","180","380"
+"1989","Glarus","Public forest","38","16463","13703","47045","15345","62390"
+"1989","Glarus",">>Federal forest","1","135","97",NA,NA,NA
+"1989","Glarus",">>Cantonal forest","1","86","80",NA,NA,NA
+"1989","Glarus",">>Municipality forest","1","54","48",NA,NA,NA
+"1989","Glarus",">>Bourgeois forest","31","15961","13258",NA,NA,NA
+"1989","Glarus",">>Other public forest","4","227","220",NA,NA,NA
+"1989","Schaffhausen","Type of owners - Total","2148","12634","12436","108945","53900","162845"
+"1989","Schaffhausen","Private forest","2115","1976","1976","8090","1450","9540"
+"1989","Schaffhausen","Public forest","33","10658","10460","100855","52450","153305"
+"1989","Schaffhausen",">>Federal forest","1","1","1",NA,NA,NA
+"1989","Schaffhausen",">>Cantonal forest","1","2189","2122",NA,NA,NA
+"1989","Schaffhausen",">>Municipality forest","30","8460","8329",NA,NA,NA
+"1989","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1989","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1989","Appenzell Ausserrhoden","Type of owners - Total","4046","6173","6148","40575","19435","60010"
+"1989","Appenzell Ausserrhoden","Private forest","4021","4596","4596","27100","12755","39855"
+"1989","Appenzell Ausserrhoden","Public forest","25","1577","1552","13475","6680","20155"
+"1989","Appenzell Ausserrhoden",">>Federal forest","1","179","179",NA,NA,NA
+"1989","Appenzell Ausserrhoden",">>Cantonal forest","1","386","367",NA,NA,NA
+"1989","Appenzell Ausserrhoden",">>Municipality forest","21","999","993",NA,NA,NA
+"1989","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1989","Appenzell Ausserrhoden",">>Other public forest","2","13","13",NA,NA,NA
+"1989","Appenzell Innerrhoden","Type of owners - Total","1676","4421","4213","64578","23361","87939"
+"1989","Appenzell Innerrhoden","Private forest","1650","2359","2359","53125","19650","72775"
+"1989","Appenzell Innerrhoden","Public forest","26","2062","1854","11453","3711","15164"
+"1989","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1989","Appenzell Innerrhoden",">>Cantonal forest","1","61","61",NA,NA,NA
+"1989","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1989","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1989","Appenzell Innerrhoden",">>Other public forest","25","2001","1793",NA,NA,NA
+"1989","St. Gallen","Type of owners - Total","17781","51909","49296","352504","152368","504872"
+"1989","St. Gallen","Private forest","17627","19189","19189","121738","36423","158161"
+"1989","St. Gallen","Public forest","154","32720","30107","230766","115945","346711"
+"1989","St. Gallen",">>Federal forest","1","104","100",NA,NA,NA
+"1989","St. Gallen",">>Cantonal forest","1","2004","1789",NA,NA,NA
+"1989","St. Gallen",">>Municipality forest","13","370","359",NA,NA,NA
+"1989","St. Gallen",">>Bourgeois forest","78","25227","23196",NA,NA,NA
+"1989","St. Gallen",">>Other public forest","61","5015","4663",NA,NA,NA
+"1989","Graubünden / Grigioni / Grischun","Type of owners - Total","10495","180335","141077","508693","206450","715143"
+"1989","Graubünden / Grigioni / Grischun","Private forest","10215","14480","14480","16015","1195","17210"
+"1989","Graubünden / Grigioni / Grischun","Public forest","280","165855","126597","492678","205255","697933"
+"1989","Graubünden / Grigioni / Grischun",">>Federal forest","1","216","38",NA,NA,NA
+"1989","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","921","690",NA,NA,NA
+"1989","Graubünden / Grigioni / Grischun",">>Municipality forest","224","158057","120431",NA,NA,NA
+"1989","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1989","Graubünden / Grigioni / Grischun",">>Other public forest","54","6661","5438",NA,NA,NA
+"1989","Thurgau","Type of owners - Total","8595","19534","19371","219419","152139","371558"
+"1989","Thurgau","Private forest","8499","10761","10761","106310","56682","162992"
+"1989","Thurgau","Public forest","96","8773","8610","113109","95457","208566"
+"1989","Thurgau",">>Federal forest","1","374","240",NA,NA,NA
+"1989","Thurgau",">>Cantonal forest","1","1413","1407",NA,NA,NA
+"1989","Thurgau",">>Municipality forest","2","51","51",NA,NA,NA
+"1989","Thurgau",">>Bourgeois forest","72","5868","5848",NA,NA,NA
+"1989","Thurgau",">>Other public forest","20","1067","1064",NA,NA,NA
+"1990","Glarus","Type of owners - Total","1492","17985","15232","35150","13730","48880"
+"1990","Glarus","Private forest","1454","1522","1522","1000","0","1000"
+"1990","Glarus","Public forest","38","16463","13710","34150","13730","47880"
+"1990","Glarus",">>Federal forest","1","135","97",NA,NA,NA
+"1990","Glarus",">>Cantonal forest","1","86","80",NA,NA,NA
+"1990","Glarus",">>Municipality forest","1","54","48",NA,NA,NA
+"1990","Glarus",">>Bourgeois forest","31","15961","13264",NA,NA,NA
+"1990","Glarus",">>Other public forest","4","227","221",NA,NA,NA
+"1990","Schaffhausen","Type of owners - Total","2148","12651","12471","106560","41240","147800"
+"1990","Schaffhausen","Private forest","2115","1974","1974","10590","2395","12985"
+"1990","Schaffhausen","Public forest","33","10677","10497","95970","38845","134815"
+"1990","Schaffhausen",">>Federal forest","1","1","1",NA,NA,NA
+"1990","Schaffhausen",">>Cantonal forest","1","2189","2122",NA,NA,NA
+"1990","Schaffhausen",">>Municipality forest","30","8479","8366",NA,NA,NA
+"1990","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1990","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1990","Appenzell Ausserrhoden","Type of owners - Total","4264","7097","7060","23030","6795","29825"
+"1990","Appenzell Ausserrhoden","Private forest","4239","5485","5485","18045","2120","20165"
+"1990","Appenzell Ausserrhoden","Public forest","25","1612","1575","4985","4675","9660"
+"1990","Appenzell Ausserrhoden",">>Federal forest","1","179","179",NA,NA,NA
+"1990","Appenzell Ausserrhoden",">>Cantonal forest","1","412","379",NA,NA,NA
+"1990","Appenzell Ausserrhoden",">>Municipality forest","21","1008","1004",NA,NA,NA
+"1990","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1990","Appenzell Ausserrhoden",">>Other public forest","2","13","13",NA,NA,NA
+"1990","Appenzell Innerrhoden","Type of owners - Total","1676","4421","4235","30585","5850","36435"
+"1990","Appenzell Innerrhoden","Private forest","1650","2359","2359","19135","3420","22555"
+"1990","Appenzell Innerrhoden","Public forest","26","2062","1876","11450","2430","13880"
+"1990","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1990","Appenzell Innerrhoden",">>Cantonal forest","1","61","61",NA,NA,NA
+"1990","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1990","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1990","Appenzell Innerrhoden",">>Other public forest","25","2001","1815",NA,NA,NA
+"1990","St. Gallen","Type of owners - Total","17957","52000","49451","246685","102905","349590"
+"1990","St. Gallen","Private forest","17806","19383","19383","95019","23918","118937"
+"1990","St. Gallen","Public forest","151","32617","30068","151666","78987","230653"
+"1990","St. Gallen",">>Federal forest","1","146","130",NA,NA,NA
+"1990","St. Gallen",">>Cantonal forest","1","2009","1857",NA,NA,NA
+"1990","St. Gallen",">>Municipality forest","13","370","359",NA,NA,NA
+"1990","St. Gallen",">>Bourgeois forest","77","25163","23132",NA,NA,NA
+"1990","St. Gallen",">>Other public forest","59","4929","4590",NA,NA,NA
+"1990","Graubünden / Grigioni / Grischun","Type of owners - Total","10713","180471","141986","400321","145458","545779"
+"1990","Graubünden / Grigioni / Grischun","Private forest","10437","14702","14702","7775","940","8715"
+"1990","Graubünden / Grigioni / Grischun","Public forest","276","165769","127284","392546","144518","537064"
+"1990","Graubünden / Grigioni / Grischun",">>Federal forest","1","242","60",NA,NA,NA
+"1990","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","921","690",NA,NA,NA
+"1990","Graubünden / Grigioni / Grischun",">>Municipality forest","222","158162","121172",NA,NA,NA
+"1990","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1990","Graubünden / Grigioni / Grischun",">>Other public forest","52","6444","5362",NA,NA,NA
+"1990","Thurgau","Type of owners - Total","8827","19359","19255","244501","163360","407861"
+"1990","Thurgau","Private forest","8731","10734","10734","129155","59457","188612"
+"1990","Thurgau","Public forest","96","8625","8521","115346","103903","219249"
+"1990","Thurgau",">>Federal forest","1","212","138",NA,NA,NA
+"1990","Thurgau",">>Cantonal forest","1","1424","1418",NA,NA,NA
+"1990","Thurgau",">>Municipality forest","4","97","97",NA,NA,NA
+"1990","Thurgau",">>Bourgeois forest","70","5825","5804",NA,NA,NA
+"1990","Thurgau",">>Other public forest","20","1067","1064",NA,NA,NA
+"1991","Glarus","Type of owners - Total","1492","18131","15299","31770","22075","53845"
+"1991","Glarus","Private forest","1454","1522","1522","400","0","400"
+"1991","Glarus","Public forest","38","16609","13777","31370","22075","53445"
+"1991","Glarus",">>Federal forest","1","135","97",NA,NA,NA
+"1991","Glarus",">>Cantonal forest","1","86","80",NA,NA,NA
+"1991","Glarus",">>Municipality forest","1","48","46",NA,NA,NA
+"1991","Glarus",">>Bourgeois forest","31","16113","13334",NA,NA,NA
+"1991","Glarus",">>Other public forest","4","227","220",NA,NA,NA
+"1991","Schaffhausen","Type of owners - Total","2146","12537","12469","84470","73455","157925"
+"1991","Schaffhausen","Private forest","2114","1972","1972","8140","2475","10615"
+"1991","Schaffhausen","Public forest","32","10565","10497","76330","70980","147310"
+"1991","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"1991","Schaffhausen",">>Cantonal forest","1","2140","2123",NA,NA,NA
+"1991","Schaffhausen",">>Municipality forest","30","8366","8315",NA,NA,NA
+"1991","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1991","Schaffhausen",">>Other public forest","1","59","59",NA,NA,NA
+"1991","Appenzell Ausserrhoden","Type of owners - Total","4264","6944","6907","30522","5951","36473"
+"1991","Appenzell Ausserrhoden","Private forest","4239","5485","5485","20778","2984","23762"
+"1991","Appenzell Ausserrhoden","Public forest","25","1459","1422","9744","2967","12711"
+"1991","Appenzell Ausserrhoden",">>Federal forest","1","26","26",NA,NA,NA
+"1991","Appenzell Ausserrhoden",">>Cantonal forest","1","412","379",NA,NA,NA
+"1991","Appenzell Ausserrhoden",">>Municipality forest","21","1008","1004",NA,NA,NA
+"1991","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1991","Appenzell Ausserrhoden",">>Other public forest","2","13","13",NA,NA,NA
+"1991","Appenzell Innerrhoden","Type of owners - Total","2496","4481","4371","26200","6585","32785"
+"1991","Appenzell Innerrhoden","Private forest","2471","2817","2817","11500","2610","14110"
+"1991","Appenzell Innerrhoden","Public forest","25","1664","1554","14700","3975","18675"
+"1991","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1991","Appenzell Innerrhoden",">>Cantonal forest","1","61","61",NA,NA,NA
+"1991","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1991","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1991","Appenzell Innerrhoden",">>Other public forest","24","1603","1493",NA,NA,NA
+"1991","St. Gallen","Type of owners - Total","18030","52629","50146","324161","226814","550975"
+"1991","St. Gallen","Private forest","17877","19392","19392","75468","32216","107684"
+"1991","St. Gallen","Public forest","153","33237","30754","248693","194598","443291"
+"1991","St. Gallen",">>Federal forest","1","259","255",NA,NA,NA
+"1991","St. Gallen",">>Cantonal forest","1","2009","1857",NA,NA,NA
+"1991","St. Gallen",">>Municipality forest","13","370","359",NA,NA,NA
+"1991","St. Gallen",">>Bourgeois forest","77","25505","23540",NA,NA,NA
+"1991","St. Gallen",">>Other public forest","61","5094","4743",NA,NA,NA
+"1991","Graubünden / Grigioni / Grischun","Type of owners - Total","10715","180898","142370","472562","165496","638058"
+"1991","Graubünden / Grigioni / Grischun","Private forest","10437","14702","14702","7100","2469","9569"
+"1991","Graubünden / Grigioni / Grischun","Public forest","278","166196","127668","465462","163027","628489"
+"1991","Graubünden / Grigioni / Grischun",">>Federal forest","1","242","60",NA,NA,NA
+"1991","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","921","690",NA,NA,NA
+"1991","Graubünden / Grigioni / Grischun",">>Municipality forest","222","158368","121378",NA,NA,NA
+"1991","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1991","Graubünden / Grigioni / Grischun",">>Other public forest","54","6665","5540",NA,NA,NA
+"1991","Thurgau","Type of owners - Total","9181","19512","19414","218619","185448","404067"
+"1991","Thurgau","Private forest","9086","10871","10871","96068","66991","163059"
+"1991","Thurgau","Public forest","95","8641","8543","122551","118457","241008"
+"1991","Thurgau",">>Federal forest","1","215","141",NA,NA,NA
+"1991","Thurgau",">>Cantonal forest","1","1416","1415",NA,NA,NA
+"1991","Thurgau",">>Municipality forest","2","51","51",NA,NA,NA
+"1991","Thurgau",">>Bourgeois forest","71","5889","5868",NA,NA,NA
+"1991","Thurgau",">>Other public forest","20","1070","1068",NA,NA,NA
+"1992","Glarus","Type of owners - Total","1492","18317","15382","32230","34295","66525"
+"1992","Glarus","Private forest","1454","1522","1522","2700","0","2700"
+"1992","Glarus","Public forest","38","16795","13860","29530","34295","63825"
+"1992","Glarus",">>Federal forest","1","135","97",NA,NA,NA
+"1992","Glarus",">>Cantonal forest","1","86","80",NA,NA,NA
+"1992","Glarus",">>Municipality forest","1","46","44",NA,NA,NA
+"1992","Glarus",">>Bourgeois forest","31","16301","13418",NA,NA,NA
+"1992","Glarus",">>Other public forest","4","227","221",NA,NA,NA
+"1992","Schaffhausen","Type of owners - Total","1731","11327","11282","52685","28775","81460"
+"1992","Schaffhausen","Private forest","1699","1653","1653","8625","2025","10650"
+"1992","Schaffhausen","Public forest","32","9674","9629","44060","26750","70810"
+"1992","Schaffhausen",">>Federal forest","1","1","1",NA,NA,NA
+"1992","Schaffhausen",">>Cantonal forest","1","1372","1372",NA,NA,NA
+"1992","Schaffhausen",">>Municipality forest","29","8293","8248",NA,NA,NA
+"1992","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1992","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1992","Appenzell Ausserrhoden","Type of owners - Total","4260","6858","6616","22628","5174","27802"
+"1992","Appenzell Ausserrhoden","Private forest","4239","5485","5485","14543","2467","17010"
+"1992","Appenzell Ausserrhoden","Public forest","21","1373","1131","8085","2707","10792"
+"1992","Appenzell Ausserrhoden",">>Federal forest","1","26","26",NA,NA,NA
+"1992","Appenzell Ausserrhoden",">>Cantonal forest","1","392","177",NA,NA,NA
+"1992","Appenzell Ausserrhoden",">>Municipality forest","18","946","919",NA,NA,NA
+"1992","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1992","Appenzell Ausserrhoden",">>Other public forest","1","9","9",NA,NA,NA
+"1992","Appenzell Innerrhoden","Type of owners - Total","2493","4584","4432","38591","4789","43380"
+"1992","Appenzell Innerrhoden","Private forest","2471","2817","2817","15041","1269","16310"
+"1992","Appenzell Innerrhoden","Public forest","22","1767","1615","23550","3520","27070"
+"1992","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1992","Appenzell Innerrhoden",">>Cantonal forest","1","61","61",NA,NA,NA
+"1992","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1992","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1992","Appenzell Innerrhoden",">>Other public forest","21","1706","1554",NA,NA,NA
+"1992","St. Gallen","Type of owners - Total","17815","48128","45955","277948","149897","427845"
+"1992","St. Gallen","Private forest","17687","19155","19155","75456","27792","103248"
+"1992","St. Gallen","Public forest","128","28973","26800","202492","122105","324597"
+"1992","St. Gallen",">>Federal forest","1","259","255",NA,NA,NA
+"1992","St. Gallen",">>Cantonal forest","1","1458","1381",NA,NA,NA
+"1992","St. Gallen",">>Municipality forest","10","198","192",NA,NA,NA
+"1992","St. Gallen",">>Bourgeois forest","66","22819","21012",NA,NA,NA
+"1992","St. Gallen",">>Other public forest","50","4239","3960",NA,NA,NA
+"1992","Graubünden / Grigioni / Grischun","Type of owners - Total","10806","176393","138137","352191","138886","491077"
+"1992","Graubünden / Grigioni / Grischun","Private forest","10535","14773","14773","8838","2070","10908"
+"1992","Graubünden / Grigioni / Grischun","Public forest","271","161620","123364","343353","136816","480169"
+"1992","Graubünden / Grigioni / Grischun",">>Federal forest","1","261","83",NA,NA,NA
+"1992","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","920","717",NA,NA,NA
+"1992","Graubünden / Grigioni / Grischun",">>Municipality forest","217","154568","117756",NA,NA,NA
+"1992","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1992","Graubünden / Grigioni / Grischun",">>Other public forest","52","5871","4808",NA,NA,NA
+"1992","Thurgau","Type of owners - Total","9014","19399","19300","203357","146098","349455"
+"1992","Thurgau","Private forest","8919","10747","10747","94895","61507","156402"
+"1992","Thurgau","Public forest","95","8652","8553","108462","84591","193053"
+"1992","Thurgau",">>Federal forest","1","215","141",NA,NA,NA
+"1992","Thurgau",">>Cantonal forest","1","1422","1421",NA,NA,NA
+"1992","Thurgau",">>Municipality forest","2","51","51",NA,NA,NA
+"1992","Thurgau",">>Bourgeois forest","71","5893","5872",NA,NA,NA
+"1992","Thurgau",">>Other public forest","20","1071","1068",NA,NA,NA
+"1993","Glarus","Type of owners - Total","1492","18516","15547","47620","37150","84770"
+"1993","Glarus","Private forest","1454","1522","1522","9650","400","10050"
+"1993","Glarus","Public forest","38","16994","14025","37970","36750","74720"
+"1993","Glarus",">>Federal forest","1","135","97",NA,NA,NA
+"1993","Glarus",">>Cantonal forest","1","86","80",NA,NA,NA
+"1993","Glarus",">>Municipality forest","1","46","44",NA,NA,NA
+"1993","Glarus",">>Bourgeois forest","31","16500","13583",NA,NA,NA
+"1993","Glarus",">>Other public forest","4","227","221",NA,NA,NA
+"1993","Schaffhausen","Type of owners - Total","2128","12508","12463","57905","22505","80410"
+"1993","Schaffhausen","Private forest","2095","1961","1961","9430","2675","12105"
+"1993","Schaffhausen","Public forest","33","10547","10502","48475","19830","68305"
+"1993","Schaffhausen",">>Federal forest","1","1","1",NA,NA,NA
+"1993","Schaffhausen",">>Cantonal forest","1","2121","2121",NA,NA,NA
+"1993","Schaffhausen",">>Municipality forest","30","8417","8372",NA,NA,NA
+"1993","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1993","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1993","Appenzell Ausserrhoden","Type of owners - Total","4263","7019","6721","19515","5581","25096"
+"1993","Appenzell Ausserrhoden","Private forest","4239","5485","5485","12022","3460","15482"
+"1993","Appenzell Ausserrhoden","Public forest","24","1534","1236","7493","2121","9614"
+"1993","Appenzell Ausserrhoden",">>Federal forest","1","26","26",NA,NA,NA
+"1993","Appenzell Ausserrhoden",">>Cantonal forest","1","412","197",NA,NA,NA
+"1993","Appenzell Ausserrhoden",">>Municipality forest","21","1087","1004",NA,NA,NA
+"1993","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1993","Appenzell Ausserrhoden",">>Other public forest","1","9","9",NA,NA,NA
+"1993","Appenzell Innerrhoden","Type of owners - Total","2497","5196","5004","35499","3943","39442"
+"1993","Appenzell Innerrhoden","Private forest","2471","3128","3128","15044","2218","17262"
+"1993","Appenzell Innerrhoden","Public forest","26","2068","1876","20455","1725","22180"
+"1993","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1993","Appenzell Innerrhoden",">>Cantonal forest","1","66","60",NA,NA,NA
+"1993","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1993","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1993","Appenzell Innerrhoden",">>Other public forest","25","2002","1816",NA,NA,NA
+"1993","St. Gallen","Type of owners - Total","18877","53709","51287","255492","138204","393696"
+"1993","St. Gallen","Private forest","18727","20466","20466","59068","21569","80637"
+"1993","St. Gallen","Public forest","150","33243","30821","196424","116635","313059"
+"1993","St. Gallen",">>Federal forest","1","261","257",NA,NA,NA
+"1993","St. Gallen",">>Cantonal forest","1","2015","1874",NA,NA,NA
+"1993","St. Gallen",">>Municipality forest","13","372","361",NA,NA,NA
+"1993","St. Gallen",">>Bourgeois forest","77","25607","23691",NA,NA,NA
+"1993","St. Gallen",">>Other public forest","58","4988","4638",NA,NA,NA
+"1993","Graubünden / Grigioni / Grischun","Type of owners - Total","10971","181693","141878","380379","182867","563246"
+"1993","Graubünden / Grigioni / Grischun","Private forest","10693","14682","14682","5745","4045","9790"
+"1993","Graubünden / Grigioni / Grischun","Public forest","278","167011","127196","374634","178822","553456"
+"1993","Graubünden / Grigioni / Grischun",">>Federal forest","1","262","83",NA,NA,NA
+"1993","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","924","701",NA,NA,NA
+"1993","Graubünden / Grigioni / Grischun",">>Municipality forest","223","159044","120868",NA,NA,NA
+"1993","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1993","Graubünden / Grigioni / Grischun",">>Other public forest","53","6781","5544",NA,NA,NA
+"1993","Thurgau","Type of owners - Total","8998","19415","19316","165981","119629","285610"
+"1993","Thurgau","Private forest","8903","10761","10761","72645","43954","116599"
+"1993","Thurgau","Public forest","95","8654","8555","93336","75675","169011"
+"1993","Thurgau",">>Federal forest","1","214","140",NA,NA,NA
+"1993","Thurgau",">>Cantonal forest","1","1422","1421",NA,NA,NA
+"1993","Thurgau",">>Municipality forest","6","294","294",NA,NA,NA
+"1993","Thurgau",">>Bourgeois forest","67","5653","5632",NA,NA,NA
+"1993","Thurgau",">>Other public forest","20","1071","1068",NA,NA,NA
+"1994","Glarus","Type of owners - Total","1492","18541","15630","46065","23000","69065"
+"1994","Glarus","Private forest","1454","1522","1522","1100","0","1100"
+"1994","Glarus","Public forest","38","17019","14108","44965","23000","67965"
+"1994","Glarus",">>Federal forest","1","139","101",NA,NA,NA
+"1994","Glarus",">>Cantonal forest","1","55","49",NA,NA,NA
+"1994","Glarus",">>Municipality forest","1","46","44",NA,NA,NA
+"1994","Glarus",">>Bourgeois forest","31","16552","13693",NA,NA,NA
+"1994","Glarus",">>Other public forest","4","227","221",NA,NA,NA
+"1994","Schaffhausen","Type of owners - Total","2147","12552","12473","42825","26320","69145"
+"1994","Schaffhausen","Private forest","2114","1972","1972","4555","605","5160"
+"1994","Schaffhausen","Public forest","33","10580","10501","38270","25715","63985"
+"1994","Schaffhausen",">>Federal forest","1","1","1",NA,NA,NA
+"1994","Schaffhausen",">>Cantonal forest","1","2154","2120",NA,NA,NA
+"1994","Schaffhausen",">>Municipality forest","30","8417","8372",NA,NA,NA
+"1994","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1994","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1994","Appenzell Ausserrhoden","Type of owners - Total","4263","7018","6721","17760","4614","22374"
+"1994","Appenzell Ausserrhoden","Private forest","4239","5485","5485","11824","2263","14087"
+"1994","Appenzell Ausserrhoden","Public forest","24","1533","1236","5936","2351","8287"
+"1994","Appenzell Ausserrhoden",">>Federal forest","1","26","26",NA,NA,NA
+"1994","Appenzell Ausserrhoden",">>Cantonal forest","1","412","197",NA,NA,NA
+"1994","Appenzell Ausserrhoden",">>Municipality forest","21","1086","1004",NA,NA,NA
+"1994","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1994","Appenzell Ausserrhoden",">>Other public forest","1","9","9",NA,NA,NA
+"1994","Appenzell Innerrhoden","Type of owners - Total","2497","5196","5004","23721","4098","27819"
+"1994","Appenzell Innerrhoden","Private forest","2471","3128","3128","9181","1078","10259"
+"1994","Appenzell Innerrhoden","Public forest","26","2068","1876","14540","3020","17560"
+"1994","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1994","Appenzell Innerrhoden",">>Cantonal forest","1","66","60",NA,NA,NA
+"1994","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1994","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1994","Appenzell Innerrhoden",">>Other public forest","25","2002","1816",NA,NA,NA
+"1994","St. Gallen","Type of owners - Total","18033","53288","50856","190215","103966","294181"
+"1994","St. Gallen","Private forest","17883","19973","19973","46961","14495","61456"
+"1994","St. Gallen","Public forest","150","33315","30883","143254","89471","232725"
+"1994","St. Gallen",">>Federal forest","1","335","324",NA,NA,NA
+"1994","St. Gallen",">>Cantonal forest","1","2018","1877",NA,NA,NA
+"1994","St. Gallen",">>Municipality forest","13","372","361",NA,NA,NA
+"1994","St. Gallen",">>Bourgeois forest","77","25605","23689",NA,NA,NA
+"1994","St. Gallen",">>Other public forest","58","4985","4632",NA,NA,NA
+"1994","Graubünden / Grigioni / Grischun","Type of owners - Total","10972","181982","141462","367791","252381","620172"
+"1994","Graubünden / Grigioni / Grischun","Private forest","10693","14682","14682","11396","13674","25070"
+"1994","Graubünden / Grigioni / Grischun","Public forest","279","167300","126780","356395","238707","595102"
+"1994","Graubünden / Grigioni / Grischun",">>Federal forest","1","262","84",NA,NA,NA
+"1994","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","924","701",NA,NA,NA
+"1994","Graubünden / Grigioni / Grischun",">>Municipality forest","225","159558","120671",NA,NA,NA
+"1994","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1994","Graubünden / Grigioni / Grischun",">>Other public forest","52","6556","5324",NA,NA,NA
+"1994","Thurgau","Type of owners - Total","8964","19298","19202","114122","91039","205161"
+"1994","Thurgau","Private forest","8869","10636","10636","48894","33259","82153"
+"1994","Thurgau","Public forest","95","8662","8566","65228","57780","123008"
+"1994","Thurgau",">>Federal forest","1","218","145",NA,NA,NA
+"1994","Thurgau",">>Cantonal forest","1","1426","1425",NA,NA,NA
+"1994","Thurgau",">>Municipality forest","5","287","287",NA,NA,NA
+"1994","Thurgau",">>Bourgeois forest","68","5657","5638",NA,NA,NA
+"1994","Thurgau",">>Other public forest","20","1074","1071",NA,NA,NA
+"1995","Glarus","Type of owners - Total","1492","18678","15646","28290","35860","64150"
+"1995","Glarus","Private forest","1454","1542","1542","100","2000","2100"
+"1995","Glarus","Public forest","38","17136","14104","28190","33860","62050"
+"1995","Glarus",">>Federal forest","1","135","97",NA,NA,NA
+"1995","Glarus",">>Cantonal forest","1","55","49",NA,NA,NA
+"1995","Glarus",">>Municipality forest","2","919","796",NA,NA,NA
+"1995","Glarus",">>Bourgeois forest","30","15800","12941",NA,NA,NA
+"1995","Glarus",">>Other public forest","4","227","221",NA,NA,NA
+"1995","Schaffhausen","Type of owners - Total","2128","12551","12476","53864","30125","83989"
+"1995","Schaffhausen","Private forest","2095","1961","1961","3005","1095","4100"
+"1995","Schaffhausen","Public forest","33","10590","10515","50859","29030","79889"
+"1995","Schaffhausen",">>Federal forest","1","1","1",NA,NA,NA
+"1995","Schaffhausen",">>Cantonal forest","1","2154","2120",NA,NA,NA
+"1995","Schaffhausen",">>Municipality forest","30","8427","8386",NA,NA,NA
+"1995","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1995","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1995","Appenzell Ausserrhoden","Type of owners - Total","4263","7026","6728","10950","2365","13315"
+"1995","Appenzell Ausserrhoden","Private forest","4239","5485","5485","6620","905","7525"
+"1995","Appenzell Ausserrhoden","Public forest","24","1541","1243","4330","1460","5790"
+"1995","Appenzell Ausserrhoden",">>Federal forest","1","26","26",NA,NA,NA
+"1995","Appenzell Ausserrhoden",">>Cantonal forest","1","412","197",NA,NA,NA
+"1995","Appenzell Ausserrhoden",">>Municipality forest","21","1094","1011",NA,NA,NA
+"1995","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1995","Appenzell Ausserrhoden",">>Other public forest","1","9","9",NA,NA,NA
+"1995","Appenzell Innerrhoden","Type of owners - Total","2497","5196","5004","22695","2310","25005"
+"1995","Appenzell Innerrhoden","Private forest","2471","3128","3128","8670","485","9155"
+"1995","Appenzell Innerrhoden","Public forest","26","2068","1876","14025","1825","15850"
+"1995","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1995","Appenzell Innerrhoden",">>Cantonal forest","1","66","60",NA,NA,NA
+"1995","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1995","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1995","Appenzell Innerrhoden",">>Other public forest","25","2002","1816",NA,NA,NA
+"1995","St. Gallen","Type of owners - Total","18145","54144","51620","190446","104151","294597"
+"1995","St. Gallen","Private forest","18000","20437","20437","47225","17783","65008"
+"1995","St. Gallen","Public forest","145","33707","31183","143221","86368","229589"
+"1995","St. Gallen",">>Federal forest","1","287","287",NA,NA,NA
+"1995","St. Gallen",">>Cantonal forest","1","2021","1880",NA,NA,NA
+"1995","St. Gallen",">>Municipality forest","12","365","354",NA,NA,NA
+"1995","St. Gallen",">>Bourgeois forest","73","26049","24030",NA,NA,NA
+"1995","St. Gallen",">>Other public forest","58","4985","4632",NA,NA,NA
+"1995","Graubünden / Grigioni / Grischun","Type of owners - Total","10884","181872","141072","298235","177013","475248"
+"1995","Graubünden / Grigioni / Grischun","Private forest","10607","14565","14565","3191","3775","6966"
+"1995","Graubünden / Grigioni / Grischun","Public forest","277","167307","126507","295044","173238","468282"
+"1995","Graubünden / Grigioni / Grischun",">>Federal forest","1","257","79",NA,NA,NA
+"1995","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1012","745",NA,NA,NA
+"1995","Graubünden / Grigioni / Grischun",">>Municipality forest","222","159306","120328",NA,NA,NA
+"1995","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1995","Graubünden / Grigioni / Grischun",">>Other public forest","53","6732","5355",NA,NA,NA
+"1995","Thurgau","Type of owners - Total","8977","19448","19351","151643","149803","301446"
+"1995","Thurgau","Private forest","8882","10778","10778","74020","52590","126610"
+"1995","Thurgau","Public forest","95","8670","8573","77623","97213","174836"
+"1995","Thurgau",">>Federal forest","1","214","140",NA,NA,NA
+"1995","Thurgau",">>Cantonal forest","1","1426","1426",NA,NA,NA
+"1995","Thurgau",">>Municipality forest","5","287","287",NA,NA,NA
+"1995","Thurgau",">>Bourgeois forest","68","5669","5649",NA,NA,NA
+"1995","Thurgau",">>Other public forest","20","1074","1071",NA,NA,NA
+"1996","Glarus","Type of owners - Total","1493","18561","15650","27255","35375","62630"
+"1996","Glarus","Private forest","1455","1542","1542","0","500","500"
+"1996","Glarus","Public forest","38","17019","14108","27255","34875","62130"
+"1996","Glarus",">>Federal forest","1","139","101",NA,NA,NA
+"1996","Glarus",">>Cantonal forest","1","55","49",NA,NA,NA
+"1996","Glarus",">>Municipality forest","2","798","796",NA,NA,NA
+"1996","Glarus",">>Bourgeois forest","30","15800","12941",NA,NA,NA
+"1996","Glarus",">>Other public forest","4","227","221",NA,NA,NA
+"1996","Schaffhausen","Type of owners - Total","2128","12552","12477","42305","18690","60995"
+"1996","Schaffhausen","Private forest","2095","1961","1961","4850","370","5220"
+"1996","Schaffhausen","Public forest","33","10591","10516","37455","18320","55775"
+"1996","Schaffhausen",">>Federal forest","1","1","1",NA,NA,NA
+"1996","Schaffhausen",">>Cantonal forest","1","2154","2120",NA,NA,NA
+"1996","Schaffhausen",">>Municipality forest","30","8428","8387",NA,NA,NA
+"1996","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1996","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1996","Appenzell Ausserrhoden","Type of owners - Total","4263","7114","6815","10326","1936","12262"
+"1996","Appenzell Ausserrhoden","Private forest","4238","5367","5367","6100","809","6909"
+"1996","Appenzell Ausserrhoden","Public forest","25","1747","1448","4226","1127","5353"
+"1996","Appenzell Ausserrhoden",">>Federal forest","1","26","26",NA,NA,NA
+"1996","Appenzell Ausserrhoden",">>Cantonal forest","1","412","197",NA,NA,NA
+"1996","Appenzell Ausserrhoden",">>Municipality forest","21","1198","1114",NA,NA,NA
+"1996","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1996","Appenzell Ausserrhoden",">>Other public forest","2","111","111",NA,NA,NA
+"1996","Appenzell Innerrhoden","Type of owners - Total","2497","5196","5004","10569","1426","11995"
+"1996","Appenzell Innerrhoden","Private forest","2471","3128","3128","4774","986","5760"
+"1996","Appenzell Innerrhoden","Public forest","26","2068","1876","5795","440","6235"
+"1996","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1996","Appenzell Innerrhoden",">>Cantonal forest","1","66","60",NA,NA,NA
+"1996","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1996","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1996","Appenzell Innerrhoden",">>Other public forest","25","2002","1816",NA,NA,NA
+"1996","St. Gallen","Type of owners - Total","18649","51899","49466","173888","97164","271052"
+"1996","St. Gallen","Private forest","18525","20939","20939","36692","18686","55378"
+"1996","St. Gallen","Public forest","124","30960","28527","137196","78478","215674"
+"1996","St. Gallen",">>Federal forest","1","279","279",NA,NA,NA
+"1996","St. Gallen",">>Cantonal forest","1","1704","1607",NA,NA,NA
+"1996","St. Gallen",">>Municipality forest","12","359","348",NA,NA,NA
+"1996","St. Gallen",">>Bourgeois forest","62","23840","21868",NA,NA,NA
+"1996","St. Gallen",">>Other public forest","48","4778","4425",NA,NA,NA
+"1996","Graubünden / Grigioni / Grischun","Type of owners - Total","10885","182352","142137","341180","183740","524920"
+"1996","Graubünden / Grigioni / Grischun","Private forest","10606","14548","14548","8040","917","8957"
+"1996","Graubünden / Grigioni / Grischun","Public forest","279","167804","127589","333140","182823","515963"
+"1996","Graubünden / Grigioni / Grischun",">>Federal forest","1","257","79",NA,NA,NA
+"1996","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1076","803",NA,NA,NA
+"1996","Graubünden / Grigioni / Grischun",">>Municipality forest","223","159293","120978",NA,NA,NA
+"1996","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1996","Graubünden / Grigioni / Grischun",">>Other public forest","54","7178","5729",NA,NA,NA
+"1996","Thurgau","Type of owners - Total","8990","19463","19383","125979","110253","236232"
+"1996","Thurgau","Private forest","8895","10775","10775","62415","38735","101150"
+"1996","Thurgau","Public forest","95","8688","8608","63564","71518","135082"
+"1996","Thurgau",">>Federal forest","1","225","168",NA,NA,NA
+"1996","Thurgau",">>Cantonal forest","1","1426","1426",NA,NA,NA
+"1996","Thurgau",">>Municipality forest","5","287","287",NA,NA,NA
+"1996","Thurgau",">>Bourgeois forest","68","5676","5656",NA,NA,NA
+"1996","Thurgau",">>Other public forest","20","1074","1071",NA,NA,NA
+"1997","Glarus","Type of owners - Total","1493","18542","15746","22380","31130","53510"
+"1997","Glarus","Private forest","1455","1561","1561","0","200","200"
+"1997","Glarus","Public forest","38","16981","14185","22380","30930","53310"
+"1997","Glarus",">>Federal forest","1","137","99",NA,NA,NA
+"1997","Glarus",">>Cantonal forest","1","55","49",NA,NA,NA
+"1997","Glarus",">>Municipality forest","2","962","795",NA,NA,NA
+"1997","Glarus",">>Bourgeois forest","30","15602","13022",NA,NA,NA
+"1997","Glarus",">>Other public forest","4","225","220",NA,NA,NA
+"1997","Schaffhausen","Type of owners - Total","2128","12551","12473","30798","12270","43068"
+"1997","Schaffhausen","Private forest","2095","1961","1961","2635","990","3625"
+"1997","Schaffhausen","Public forest","33","10590","10512","28163","11280","39443"
+"1997","Schaffhausen",">>Federal forest","1","1","1",NA,NA,NA
+"1997","Schaffhausen",">>Cantonal forest","1","2154","2120",NA,NA,NA
+"1997","Schaffhausen",">>Municipality forest","30","8427","8383",NA,NA,NA
+"1997","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1997","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1997","Appenzell Ausserrhoden","Type of owners - Total","4264","7233","6935","11155","2505","13660"
+"1997","Appenzell Ausserrhoden","Private forest","4239","5485","5485","4890","920","5810"
+"1997","Appenzell Ausserrhoden","Public forest","25","1748","1450","6265","1585","7850"
+"1997","Appenzell Ausserrhoden",">>Federal forest","1","26","26",NA,NA,NA
+"1997","Appenzell Ausserrhoden",">>Cantonal forest","1","412","197",NA,NA,NA
+"1997","Appenzell Ausserrhoden",">>Municipality forest","20","1081","998",NA,NA,NA
+"1997","Appenzell Ausserrhoden",">>Bourgeois forest","1","118","118",NA,NA,NA
+"1997","Appenzell Ausserrhoden",">>Other public forest","2","111","111",NA,NA,NA
+"1997","Appenzell Innerrhoden","Type of owners - Total","2497","5284","5092","10634","1196","11830"
+"1997","Appenzell Innerrhoden","Private forest","2471","3128","3128","5359","661","6020"
+"1997","Appenzell Innerrhoden","Public forest","26","2156","1964","5275","535","5810"
+"1997","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1997","Appenzell Innerrhoden",">>Cantonal forest","1","154","148",NA,NA,NA
+"1997","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1997","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1997","Appenzell Innerrhoden",">>Other public forest","25","2002","1816",NA,NA,NA
+"1997","St. Gallen","Type of owners - Total","18120","54307","51788","141642","76132","217774"
+"1997","St. Gallen","Private forest","17994","20310","20310","38217","13965","52182"
+"1997","St. Gallen","Public forest","126","33997","31478","103425","62167","165592"
+"1997","St. Gallen",">>Federal forest","1","279","279",NA,NA,NA
+"1997","St. Gallen",">>Cantonal forest","1","2021","1884",NA,NA,NA
+"1997","St. Gallen",">>Municipality forest","12","359","348",NA,NA,NA
+"1997","St. Gallen",">>Bourgeois forest","63","26497","24477",NA,NA,NA
+"1997","St. Gallen",">>Other public forest","49","4841","4490",NA,NA,NA
+"1997","Graubünden / Grigioni / Grischun","Type of owners - Total","10884","181333","140189","288776","165719","454495"
+"1997","Graubünden / Grigioni / Grischun","Private forest","10606","14549","14549","4810","9080","13890"
+"1997","Graubünden / Grigioni / Grischun","Public forest","278","166784","125640","283966","156639","440605"
+"1997","Graubünden / Grigioni / Grischun",">>Federal forest","1","268","90",NA,NA,NA
+"1997","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1076","803",NA,NA,NA
+"1997","Graubünden / Grigioni / Grischun",">>Municipality forest","224","158833","119494",NA,NA,NA
+"1997","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1997","Graubünden / Grigioni / Grischun",">>Other public forest","52","6607","5253",NA,NA,NA
+"1997","Thurgau","Type of owners - Total","8961","19536","19423","124660","101755","226415"
+"1997","Thurgau","Private forest","8866","10823","10823","55845","31205","87050"
+"1997","Thurgau","Public forest","95","8713","8600","68815","70550","139365"
+"1997","Thurgau",">>Federal forest","1","237","163",NA,NA,NA
+"1997","Thurgau",">>Cantonal forest","1","1439","1426",NA,NA,NA
+"1997","Thurgau",">>Municipality forest","5","287","287",NA,NA,NA
+"1997","Thurgau",">>Bourgeois forest","68","5677","5654",NA,NA,NA
+"1997","Thurgau",">>Other public forest","20","1073","1070",NA,NA,NA
+"1998","Glarus","Type of owners - Total","1493","18682","15727","14980","20100","35080"
+"1998","Glarus","Private forest","1455","1539","1539","500","300","800"
+"1998","Glarus","Public forest","38","17143","14188","14480","19800","34280"
+"1998","Glarus",">>Federal forest","1","135","97",NA,NA,NA
+"1998","Glarus",">>Cantonal forest","1","55","49",NA,NA,NA
+"1998","Glarus",">>Municipality forest","2","963","796",NA,NA,NA
+"1998","Glarus",">>Bourgeois forest","30","15765","13025",NA,NA,NA
+"1998","Glarus",">>Other public forest","4","225","221",NA,NA,NA
+"1998","Schaffhausen","Type of owners - Total","2127","12553","12473","31225","9139","40364"
+"1998","Schaffhausen","Private forest","2095","1961","1961","2440","700","3140"
+"1998","Schaffhausen","Public forest","32","10592","10512","28785","8439","37224"
+"1998","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"1998","Schaffhausen",">>Cantonal forest","1","2154","2120",NA,NA,NA
+"1998","Schaffhausen",">>Municipality forest","30","8430","8384",NA,NA,NA
+"1998","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1998","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1998","Appenzell Ausserrhoden","Type of owners - Total","4264","7233","6935","8586","1199","9785"
+"1998","Appenzell Ausserrhoden","Private forest","4239","5485","5485","5116","354","5470"
+"1998","Appenzell Ausserrhoden","Public forest","25","1748","1450","3470","845","4315"
+"1998","Appenzell Ausserrhoden",">>Federal forest","1","26","26",NA,NA,NA
+"1998","Appenzell Ausserrhoden",">>Cantonal forest","1","412","197",NA,NA,NA
+"1998","Appenzell Ausserrhoden",">>Municipality forest","21","1199","1116",NA,NA,NA
+"1998","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1998","Appenzell Ausserrhoden",">>Other public forest","2","111","111",NA,NA,NA
+"1998","Appenzell Innerrhoden","Type of owners - Total","3020","4850","4645","7968","296","8264"
+"1998","Appenzell Innerrhoden","Private forest","2996","2782","2782","3128","121","3249"
+"1998","Appenzell Innerrhoden","Public forest","24","2068","1863","4840","175","5015"
+"1998","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1998","Appenzell Innerrhoden",">>Cantonal forest","1","154","148",NA,NA,NA
+"1998","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1998","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1998","Appenzell Innerrhoden",">>Other public forest","23","1914","1715",NA,NA,NA
+"1998","St. Gallen","Type of owners - Total","17328","53896","51371","141021","76649","217670"
+"1998","St. Gallen","Private forest","17199","20532","20532","32287","11864","44151"
+"1998","St. Gallen","Public forest","129","33364","30839","108734","64785","173519"
+"1998","St. Gallen",">>Federal forest","1","279","279",NA,NA,NA
+"1998","St. Gallen",">>Cantonal forest","1","2000","1863",NA,NA,NA
+"1998","St. Gallen",">>Municipality forest","12","359","348",NA,NA,NA
+"1998","St. Gallen",">>Bourgeois forest","66","25874","23852",NA,NA,NA
+"1998","St. Gallen",">>Other public forest","49","4852","4497",NA,NA,NA
+"1998","Graubünden / Grigioni / Grischun","Type of owners - Total","10897","183295","141613","227404","188543","415947"
+"1998","Graubünden / Grigioni / Grischun","Private forest","10622","14557","14557","3300","3371","6671"
+"1998","Graubünden / Grigioni / Grischun","Public forest","275","168738","127056","224104","185172","409276"
+"1998","Graubünden / Grigioni / Grischun",">>Federal forest","1","270","92",NA,NA,NA
+"1998","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1076","803",NA,NA,NA
+"1998","Graubünden / Grigioni / Grischun",">>Municipality forest","223","160848","120959",NA,NA,NA
+"1998","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1998","Graubünden / Grigioni / Grischun",">>Other public forest","50","6544","5202",NA,NA,NA
+"1998","Thurgau","Type of owners - Total","8939","19525","19412","139226","119212","258438"
+"1998","Thurgau","Private forest","8844","10837","10837","75225","35575","110800"
+"1998","Thurgau","Public forest","95","8688","8575","64001","83637","147638"
+"1998","Thurgau",">>Federal forest","1","236","162",NA,NA,NA
+"1998","Thurgau",">>Cantonal forest","1","1409","1396",NA,NA,NA
+"1998","Thurgau",">>Municipality forest","6","298","298",NA,NA,NA
+"1998","Thurgau",">>Bourgeois forest","67","5672","5649",NA,NA,NA
+"1998","Thurgau",">>Other public forest","20","1073","1070",NA,NA,NA
+"1999","Glarus","Type of owners - Total","1492","18533","15750","8190","16800","24990"
+"1999","Glarus","Private forest","1454","1562","1562","100","0","100"
+"1999","Glarus","Public forest","38","16971","14188","8090","16800","24890"
+"1999","Glarus",">>Federal forest","1","135","97",NA,NA,NA
+"1999","Glarus",">>Cantonal forest","1","55","49",NA,NA,NA
+"1999","Glarus",">>Municipality forest","14","7916","6158",NA,NA,NA
+"1999","Glarus",">>Bourgeois forest","18","8640","7663",NA,NA,NA
+"1999","Glarus",">>Other public forest","4","225","221",NA,NA,NA
+"1999","Schaffhausen","Type of owners - Total","2127","12553","12475","27346","14789","42135"
+"1999","Schaffhausen","Private forest","2095","1961","1961","1810","255","2065"
+"1999","Schaffhausen","Public forest","32","10592","10514","25536","14534","40070"
+"1999","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"1999","Schaffhausen",">>Cantonal forest","1","2154","2120",NA,NA,NA
+"1999","Schaffhausen",">>Municipality forest","30","8430","8386",NA,NA,NA
+"1999","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1999","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"1999","Appenzell Ausserrhoden","Type of owners - Total","4265","7278","6980","9613","1193","10806"
+"1999","Appenzell Ausserrhoden","Private forest","4239","5485","5485","5351","518","5869"
+"1999","Appenzell Ausserrhoden","Public forest","26","1793","1495","4262","675","4937"
+"1999","Appenzell Ausserrhoden",">>Federal forest","1","26","26",NA,NA,NA
+"1999","Appenzell Ausserrhoden",">>Cantonal forest","1","412","197",NA,NA,NA
+"1999","Appenzell Ausserrhoden",">>Municipality forest","22","1244","1161",NA,NA,NA
+"1999","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1999","Appenzell Ausserrhoden",">>Other public forest","2","111","111",NA,NA,NA
+"1999","Appenzell Innerrhoden","Type of owners - Total","3020","4850","4645","4193","410","4603"
+"1999","Appenzell Innerrhoden","Private forest","2996","2782","2782","2293","345","2638"
+"1999","Appenzell Innerrhoden","Public forest","24","2068","1863","1900","65","1965"
+"1999","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"1999","Appenzell Innerrhoden",">>Cantonal forest","1","154","148",NA,NA,NA
+"1999","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"1999","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1999","Appenzell Innerrhoden",">>Other public forest","23","1914","1715",NA,NA,NA
+"1999","St. Gallen","Type of owners - Total","18297","54048","51551","106060","68441","174501"
+"1999","St. Gallen","Private forest","18166","20559","20559","29645","9093","38738"
+"1999","St. Gallen","Public forest","131","33489","30992","76415","59348","135763"
+"1999","St. Gallen",">>Federal forest","1","335","331",NA,NA,NA
+"1999","St. Gallen",">>Cantonal forest","1","2000","1863",NA,NA,NA
+"1999","St. Gallen",">>Municipality forest","13","374","363",NA,NA,NA
+"1999","St. Gallen",">>Bourgeois forest","68","25919","23932",NA,NA,NA
+"1999","St. Gallen",">>Other public forest","48","4861","4503",NA,NA,NA
+"1999","Graubünden / Grigioni / Grischun","Type of owners - Total","10931","184561","142661","197296","124364","321660"
+"1999","Graubünden / Grigioni / Grischun","Private forest","10652","14723","14723","7445","2195","9640"
+"1999","Graubünden / Grigioni / Grischun","Public forest","279","169838","127938","189851","122169","312020"
+"1999","Graubünden / Grigioni / Grischun",">>Federal forest","1","270","92",NA,NA,NA
+"1999","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1076","803",NA,NA,NA
+"1999","Graubünden / Grigioni / Grischun",">>Municipality forest","224","161667","121646",NA,NA,NA
+"1999","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"1999","Graubünden / Grigioni / Grischun",">>Other public forest","53","6825","5397",NA,NA,NA
+"1999","Thurgau","Type of owners - Total","8953","19555","19444","103738","107532","211270"
+"1999","Thurgau","Private forest","8859","10873","10873","55875","32114","87989"
+"1999","Thurgau","Public forest","94","8682","8571","47863","75418","123281"
+"1999","Thurgau",">>Federal forest","1","233","159",NA,NA,NA
+"1999","Thurgau",">>Cantonal forest","1","1410","1397",NA,NA,NA
+"1999","Thurgau",">>Municipality forest","6","298","298",NA,NA,NA
+"1999","Thurgau",">>Bourgeois forest","66","5668","5647",NA,NA,NA
+"1999","Thurgau",">>Other public forest","20","1073","1070",NA,NA,NA
+"2000","Glarus","Type of owners - Total","1493","18481","15800","26035","17573","43608"
+"2000","Glarus","Private forest","1455","1583","1583","800","0","800"
+"2000","Glarus","Public forest","38","16898","14217","25235","17573","42808"
+"2000","Glarus",">>Federal forest","1","135","97",NA,NA,NA
+"2000","Glarus",">>Cantonal forest","1","55","49",NA,NA,NA
+"2000","Glarus",">>Municipality forest","15","8792","7063",NA,NA,NA
+"2000","Glarus",">>Bourgeois forest","17","7691","6787",NA,NA,NA
+"2000","Glarus",">>Other public forest","4","225","221",NA,NA,NA
+"2000","Schaffhausen","Type of owners - Total","2127","12553","12480","23531","7795","31326"
+"2000","Schaffhausen","Private forest","2095","1961","1961","1360","1320","2680"
+"2000","Schaffhausen","Public forest","32","10592","10519","22171","6475","28646"
+"2000","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"2000","Schaffhausen",">>Cantonal forest","1","2154","2120",NA,NA,NA
+"2000","Schaffhausen",">>Municipality forest","30","8430","8391",NA,NA,NA
+"2000","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2000","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"2000","Appenzell Ausserrhoden","Type of owners - Total","4265","7197","6955","3895","225","4120"
+"2000","Appenzell Ausserrhoden","Private forest","4239","5485","5485","2060","125","2185"
+"2000","Appenzell Ausserrhoden","Public forest","26","1712","1470","1835","100","1935"
+"2000","Appenzell Ausserrhoden",">>Federal forest","1","26","26",NA,NA,NA
+"2000","Appenzell Ausserrhoden",">>Cantonal forest","1","412","197",NA,NA,NA
+"2000","Appenzell Ausserrhoden",">>Municipality forest","21","1045","1018",NA,NA,NA
+"2000","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2000","Appenzell Ausserrhoden",">>Other public forest","3","229","229",NA,NA,NA
+"2000","Appenzell Innerrhoden","Type of owners - Total","3020","4850","4637","4197","162","4359"
+"2000","Appenzell Innerrhoden","Private forest","2996","2782","2782","2597","142","2739"
+"2000","Appenzell Innerrhoden","Public forest","24","2068","1855","1600","20","1620"
+"2000","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"2000","Appenzell Innerrhoden",">>Cantonal forest","1","154","148",NA,NA,NA
+"2000","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"2000","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2000","Appenzell Innerrhoden",">>Other public forest","23","1914","1707",NA,NA,NA
+"2000","St. Gallen","Type of owners - Total","17770","54447","51950","79948","38081","118029"
+"2000","St. Gallen","Private forest","17639","20954","20954","17191","9610","26801"
+"2000","St. Gallen","Public forest","131","33493","30996","62757","28471","91228"
+"2000","St. Gallen",">>Federal forest","1","335","331",NA,NA,NA
+"2000","St. Gallen",">>Cantonal forest","1","2000","1863",NA,NA,NA
+"2000","St. Gallen",">>Municipality forest","13","374","363",NA,NA,NA
+"2000","St. Gallen",">>Bourgeois forest","68","25923","23936",NA,NA,NA
+"2000","St. Gallen",">>Other public forest","48","4861","4503",NA,NA,NA
+"2000","Graubünden / Grigioni / Grischun","Type of owners - Total","10991","183296","141931","170926","179568","350494"
+"2000","Graubünden / Grigioni / Grischun","Private forest","10719","14834","14834","6774","3746","10520"
+"2000","Graubünden / Grigioni / Grischun","Public forest","272","168462","127097","164152","175822","339974"
+"2000","Graubünden / Grigioni / Grischun",">>Federal forest","1","270","92",NA,NA,NA
+"2000","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1073","814",NA,NA,NA
+"2000","Graubünden / Grigioni / Grischun",">>Municipality forest","222","158723","119517",NA,NA,NA
+"2000","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2000","Graubünden / Grigioni / Grischun",">>Other public forest","48","8396","6674",NA,NA,NA
+"2000","Thurgau","Type of owners - Total","8931","19541","19430","66102","73493","139595"
+"2000","Thurgau","Private forest","8838","10852","10852","29660","17317","46977"
+"2000","Thurgau","Public forest","93","8689","8578","36442","56176","92618"
+"2000","Thurgau",">>Federal forest","1","230","156",NA,NA,NA
+"2000","Thurgau",">>Cantonal forest","1","1409","1396",NA,NA,NA
+"2000","Thurgau",">>Municipality forest","5","295","295",NA,NA,NA
+"2000","Thurgau",">>Bourgeois forest","66","5682","5661",NA,NA,NA
+"2000","Thurgau",">>Other public forest","20","1073","1070",NA,NA,NA
+"2001","Glarus","Type of owners - Total","1493","18469","15791","14765","21220","35985"
+"2001","Glarus","Private forest","1455","1575","1575","45","1095","1140"
+"2001","Glarus","Public forest","38","16894","14216","14720","20125","34845"
+"2001","Glarus",">>Federal forest","1","131","93",NA,NA,NA
+"2001","Glarus",">>Cantonal forest","1","55","52",NA,NA,NA
+"2001","Glarus",">>Municipality forest","17","9896","8007",NA,NA,NA
+"2001","Glarus",">>Bourgeois forest","15","6587","5843",NA,NA,NA
+"2001","Glarus",">>Other public forest","4","225","221",NA,NA,NA
+"2001","Schaffhausen","Type of owners - Total","2127","12553","12479","33925","33273","67198"
+"2001","Schaffhausen","Private forest","2095","1961","1961","2090","1895","3985"
+"2001","Schaffhausen","Public forest","32","10592","10518","31835","31378","63213"
+"2001","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"2001","Schaffhausen",">>Cantonal forest","1","2154","2120",NA,NA,NA
+"2001","Schaffhausen",">>Municipality forest","30","8430","8390",NA,NA,NA
+"2001","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2001","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"2001","Appenzell Ausserrhoden","Type of owners - Total","4265","7197","6955","6083","461","6544"
+"2001","Appenzell Ausserrhoden","Private forest","4239","5485","5485","2375","315","2690"
+"2001","Appenzell Ausserrhoden","Public forest","26","1712","1470","3708","146","3854"
+"2001","Appenzell Ausserrhoden",">>Federal forest","1","26","26",NA,NA,NA
+"2001","Appenzell Ausserrhoden",">>Cantonal forest","1","412","197",NA,NA,NA
+"2001","Appenzell Ausserrhoden",">>Municipality forest","21","1045","1018",NA,NA,NA
+"2001","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2001","Appenzell Ausserrhoden",">>Other public forest","3","229","229",NA,NA,NA
+"2001","Appenzell Innerrhoden","Type of owners - Total","3020","4850","4637","3142","690","3832"
+"2001","Appenzell Innerrhoden","Private forest","2996","2782","2782","1392","690","2082"
+"2001","Appenzell Innerrhoden","Public forest","24","2068","1855","1750","0","1750"
+"2001","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"2001","Appenzell Innerrhoden",">>Cantonal forest","1","154","148",NA,NA,NA
+"2001","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"2001","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2001","Appenzell Innerrhoden",">>Other public forest","23","1914","1707",NA,NA,NA
+"2001","St. Gallen","Type of owners - Total","17593","54783","52303","120924","68766","189690"
+"2001","St. Gallen","Private forest","17474","21752","21752","32074","20451","52525"
+"2001","St. Gallen","Public forest","119","33031","30551","88850","48315","137165"
+"2001","St. Gallen",">>Federal forest","1","335","331",NA,NA,NA
+"2001","St. Gallen",">>Cantonal forest","1","1998","1861",NA,NA,NA
+"2001","St. Gallen",">>Municipality forest","10","342","336",NA,NA,NA
+"2001","St. Gallen",">>Bourgeois forest","71","25761","23774",NA,NA,NA
+"2001","St. Gallen",">>Other public forest","36","4595","4249",NA,NA,NA
+"2001","Graubünden / Grigioni / Grischun","Type of owners - Total","11079","185702","143583","152441","191015","343456"
+"2001","Graubünden / Grigioni / Grischun","Private forest","10811","15210","15210","1700","2805","4505"
+"2001","Graubünden / Grigioni / Grischun","Public forest","268","170492","128373","150741","188210","338951"
+"2001","Graubünden / Grigioni / Grischun",">>Federal forest","1","265","87",NA,NA,NA
+"2001","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1007","756",NA,NA,NA
+"2001","Graubünden / Grigioni / Grischun",">>Municipality forest","217","162728","122469",NA,NA,NA
+"2001","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2001","Graubünden / Grigioni / Grischun",">>Other public forest","49","6492","5061",NA,NA,NA
+"2001","Thurgau","Type of owners - Total","8912","19509","19398","77832","113645","191477"
+"2001","Thurgau","Private forest","8819","10824","10824","37545","39900","77445"
+"2001","Thurgau","Public forest","93","8685","8574","40287","73745","114032"
+"2001","Thurgau",">>Federal forest","1","230","156",NA,NA,NA
+"2001","Thurgau",">>Cantonal forest","1","1409","1396",NA,NA,NA
+"2001","Thurgau",">>Municipality forest","5","292","292",NA,NA,NA
+"2001","Thurgau",">>Bourgeois forest","66","5680","5659",NA,NA,NA
+"2001","Thurgau",">>Other public forest","20","1074","1071",NA,NA,NA
+"2002","Glarus","Type of owners - Total","1493","18549","15815","13235","12415","25650"
+"2002","Glarus","Private forest","1455","1575","1575","0","0","0"
+"2002","Glarus","Public forest","38","16974","14240","13235","12415","25650"
+"2002","Glarus",">>Federal forest","1","131","93",NA,NA,NA
+"2002","Glarus",">>Cantonal forest","1","55","52",NA,NA,NA
+"2002","Glarus",">>Municipality forest","17","9969","8007",NA,NA,NA
+"2002","Glarus",">>Bourgeois forest","15","6594","5867",NA,NA,NA
+"2002","Glarus",">>Other public forest","4","225","221",NA,NA,NA
+"2002","Schaffhausen","Type of owners - Total","2121","12553","12479","19948","12794","32742"
+"2002","Schaffhausen","Private forest","2089","1961","1961","1545","280","1825"
+"2002","Schaffhausen","Public forest","32","10592","10518","18403","12514","30917"
+"2002","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"2002","Schaffhausen",">>Cantonal forest","1","2154","2120",NA,NA,NA
+"2002","Schaffhausen",">>Municipality forest","30","8430","8390",NA,NA,NA
+"2002","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2002","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"2002","Appenzell Ausserrhoden","Type of owners - Total","4265","7199","6957","6306","160","6466"
+"2002","Appenzell Ausserrhoden","Private forest","4239","5485","5485","3326","35","3361"
+"2002","Appenzell Ausserrhoden","Public forest","26","1714","1472","2980","125","3105"
+"2002","Appenzell Ausserrhoden",">>Federal forest","1","26","26",NA,NA,NA
+"2002","Appenzell Ausserrhoden",">>Cantonal forest","1","412","197",NA,NA,NA
+"2002","Appenzell Ausserrhoden",">>Municipality forest","21","1047","1020",NA,NA,NA
+"2002","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2002","Appenzell Ausserrhoden",">>Other public forest","3","229","229",NA,NA,NA
+"2002","Appenzell Innerrhoden","Type of owners - Total","3020","4850","4636","3040","356","3396"
+"2002","Appenzell Innerrhoden","Private forest","2996","2782","2782","1790","306","2096"
+"2002","Appenzell Innerrhoden","Public forest","24","2068","1854","1250","50","1300"
+"2002","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"2002","Appenzell Innerrhoden",">>Cantonal forest","1","154","148",NA,NA,NA
+"2002","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"2002","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2002","Appenzell Innerrhoden",">>Other public forest","23","1914","1706",NA,NA,NA
+"2002","St. Gallen","Type of owners - Total","17961","54838","52339","117310","81147","198457"
+"2002","St. Gallen","Private forest","17831","21691","21691","29550","18953","48503"
+"2002","St. Gallen","Public forest","130","33147","30648","87760","62194","149954"
+"2002","St. Gallen",">>Federal forest","1","335","331",NA,NA,NA
+"2002","St. Gallen",">>Cantonal forest","1","1998","1861",NA,NA,NA
+"2002","St. Gallen",">>Municipality forest","13","386","375",NA,NA,NA
+"2002","St. Gallen",">>Bourgeois forest","72","26008","24014",NA,NA,NA
+"2002","St. Gallen",">>Other public forest","43","4420","4067",NA,NA,NA
+"2002","Graubünden / Grigioni / Grischun","Type of owners - Total","10979","185141","143273","118646","133788","252434"
+"2002","Graubünden / Grigioni / Grischun","Private forest","10713","14794","14794","308","778","1086"
+"2002","Graubünden / Grigioni / Grischun","Public forest","266","170347","128479","118338","133010","251348"
+"2002","Graubünden / Grigioni / Grischun",">>Federal forest","1","265","87",NA,NA,NA
+"2002","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1007","756",NA,NA,NA
+"2002","Graubünden / Grigioni / Grischun",">>Municipality forest","213","161740","121720",NA,NA,NA
+"2002","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2002","Graubünden / Grigioni / Grischun",">>Other public forest","51","7335","5916",NA,NA,NA
+"2002","Thurgau","Type of owners - Total","8931","19624","19514","71545","60635","132180"
+"2002","Thurgau","Private forest","8840","10940","10940","40285","22177","62462"
+"2002","Thurgau","Public forest","91","8684","8574","31260","38458","69718"
+"2002","Thurgau",">>Federal forest","1","230","156",NA,NA,NA
+"2002","Thurgau",">>Cantonal forest","1","1410","1397",NA,NA,NA
+"2002","Thurgau",">>Municipality forest","5","295","295",NA,NA,NA
+"2002","Thurgau",">>Bourgeois forest","64","5675","5655",NA,NA,NA
+"2002","Thurgau",">>Other public forest","20","1074","1071",NA,NA,NA
+"2003","Glarus","Type of owners - Total","1493","18738","15903","13350","19464","32814"
+"2003","Glarus","Private forest","1455","1575","1575","0","0","0"
+"2003","Glarus","Public forest","38","17163","14328","13350","19464","32814"
+"2003","Glarus",">>Federal forest","1","131","93",NA,NA,NA
+"2003","Glarus",">>Cantonal forest","1","55","52",NA,NA,NA
+"2003","Glarus",">>Municipality forest","19","10256","8289",NA,NA,NA
+"2003","Glarus",">>Bourgeois forest","13","6496","5673",NA,NA,NA
+"2003","Glarus",">>Other public forest","4","225","221",NA,NA,NA
+"2003","Schaffhausen","Type of owners - Total","2121","12553","12480","13330","6425","19755"
+"2003","Schaffhausen","Private forest","2089","1961","1961","700","250","950"
+"2003","Schaffhausen","Public forest","32","10592","10519","12630","6175","18805"
+"2003","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"2003","Schaffhausen",">>Cantonal forest","1","2154","2120",NA,NA,NA
+"2003","Schaffhausen",">>Municipality forest","30","8430","8391",NA,NA,NA
+"2003","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2003","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"2003","Appenzell Ausserrhoden","Type of owners - Total","4265","7199","6957","4155","475","4630"
+"2003","Appenzell Ausserrhoden","Private forest","4239","5485","5485","1565","310","1875"
+"2003","Appenzell Ausserrhoden","Public forest","26","1714","1472","2590","165","2755"
+"2003","Appenzell Ausserrhoden",">>Federal forest","1","26","26",NA,NA,NA
+"2003","Appenzell Ausserrhoden",">>Cantonal forest","1","412","197",NA,NA,NA
+"2003","Appenzell Ausserrhoden",">>Municipality forest","21","1047","1020",NA,NA,NA
+"2003","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2003","Appenzell Ausserrhoden",">>Other public forest","3","229","229",NA,NA,NA
+"2003","Appenzell Innerrhoden","Type of owners - Total","3020","4850","4637","4669","413","5082"
+"2003","Appenzell Innerrhoden","Private forest","2996","2782","2782","1384","373","1757"
+"2003","Appenzell Innerrhoden","Public forest","24","2068","1855","3285","40","3325"
+"2003","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"2003","Appenzell Innerrhoden",">>Cantonal forest","1","154","148",NA,NA,NA
+"2003","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"2003","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2003","Appenzell Innerrhoden",">>Other public forest","23","1914","1707",NA,NA,NA
+"2003","St. Gallen","Type of owners - Total","17660","54866","52388","74487","72636","147123"
+"2003","St. Gallen","Private forest","17531","21755","21755","22869","16416","39285"
+"2003","St. Gallen","Public forest","129","33111","30633","51618","56220","107838"
+"2003","St. Gallen",">>Federal forest","1","335","331",NA,NA,NA
+"2003","St. Gallen",">>Cantonal forest","1","2041","1870",NA,NA,NA
+"2003","St. Gallen",">>Municipality forest","13","386","375",NA,NA,NA
+"2003","St. Gallen",">>Bourgeois forest","70","25831","23886",NA,NA,NA
+"2003","St. Gallen",">>Other public forest","44","4518","4171",NA,NA,NA
+"2003","Graubünden / Grigioni / Grischun","Type of owners - Total","11183","187119","144979","89144","132406","221550"
+"2003","Graubünden / Grigioni / Grischun","Private forest","10918","15304","15304","1460","4980","6440"
+"2003","Graubünden / Grigioni / Grischun","Public forest","265","171815","129675","87684","127426","215110"
+"2003","Graubünden / Grigioni / Grischun",">>Federal forest","1","265","87",NA,NA,NA
+"2003","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1007","756",NA,NA,NA
+"2003","Graubünden / Grigioni / Grischun",">>Municipality forest","211","160196","120997",NA,NA,NA
+"2003","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2003","Graubünden / Grigioni / Grischun",">>Other public forest","52","10347","7835",NA,NA,NA
+"2003","Thurgau","Type of owners - Total","8953","19514","19412","72866","72703","145569"
+"2003","Thurgau","Private forest","8862","10819","10819","40385","32157","72542"
+"2003","Thurgau","Public forest","91","8695","8593","32481","40546","73027"
+"2003","Thurgau",">>Federal forest","1","227","159",NA,NA,NA
+"2003","Thurgau",">>Cantonal forest","1","1422","1409",NA,NA,NA
+"2003","Thurgau",">>Municipality forest","5","296","296",NA,NA,NA
+"2003","Thurgau",">>Bourgeois forest","64","5676","5658",NA,NA,NA
+"2003","Thurgau",">>Other public forest","20","1074","1071",NA,NA,NA
+"2004","Glarus","Type of owners - Total","1518","18737","15903","7390","11240","18630"
+"2004","Glarus","Private forest","1477","2368","2010","0","0","0"
+"2004","Glarus","Public forest","41","16369","13893","7390","11240","18630"
+"2004","Glarus",">>Federal forest","1","184","156",NA,NA,NA
+"2004","Glarus",">>Cantonal forest","1","90","76",NA,NA,NA
+"2004","Glarus",">>Municipality forest","20","15907","13501",NA,NA,NA
+"2004","Glarus",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2004","Glarus",">>Other public forest","19","188","160",NA,NA,NA
+"2004","Schaffhausen","Type of owners - Total","2125","12535","12495","17600","5268","22868"
+"2004","Schaffhausen","Private forest","2100","2034","2027","1470","585","2055"
+"2004","Schaffhausen","Public forest","25","10501","10468","16130","4683","20813"
+"2004","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"2004","Schaffhausen",">>Cantonal forest","1","2095","2088",NA,NA,NA
+"2004","Schaffhausen",">>Municipality forest","20","8398","8372",NA,NA,NA
+"2004","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2004","Schaffhausen",">>Other public forest","4","8","8",NA,NA,NA
+"2004","Appenzell Ausserrhoden","Type of owners - Total","4246","7198","6955","4605","750","5355"
+"2004","Appenzell Ausserrhoden","Private forest","4224","5536","5349","2225","505","2730"
+"2004","Appenzell Ausserrhoden","Public forest","22","1662","1606","2380","245","2625"
+"2004","Appenzell Ausserrhoden",">>Federal forest","1","26","25",NA,NA,NA
+"2004","Appenzell Ausserrhoden",">>Cantonal forest","1","392","379",NA,NA,NA
+"2004","Appenzell Ausserrhoden",">>Municipality forest","10","1133","1095",NA,NA,NA
+"2004","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2004","Appenzell Ausserrhoden",">>Other public forest","10","111","107",NA,NA,NA
+"2004","Appenzell Innerrhoden","Type of owners - Total","2999","4849","4636","1755","1104","2859"
+"2004","Appenzell Innerrhoden","Private forest","2990","2771","2649","825","544","1369"
+"2004","Appenzell Innerrhoden","Public forest","9","2078","1987","930","560","1490"
+"2004","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"2004","Appenzell Innerrhoden",">>Cantonal forest","1","153","147",NA,NA,NA
+"2004","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"2004","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2004","Appenzell Innerrhoden",">>Other public forest","8","1925","1840",NA,NA,NA
+"2004","St. Gallen","Type of owners - Total","18126","55228","52749","69028","45115","114143"
+"2004","St. Gallen","Private forest","17883","21976","21288","20580","14608","35188"
+"2004","St. Gallen","Public forest","243","33252","31461","48448","30507","78955"
+"2004","St. Gallen",">>Federal forest","1","229","220",NA,NA,NA
+"2004","St. Gallen",">>Cantonal forest","1","1975","1890",NA,NA,NA
+"2004","St. Gallen",">>Municipality forest","74","756","731",NA,NA,NA
+"2004","St. Gallen",">>Bourgeois forest","97","25720","24182",NA,NA,NA
+"2004","St. Gallen",">>Other public forest","70","4572","4438",NA,NA,NA
+"2004","Graubünden / Grigioni / Grischun","Type of owners - Total","11146","187273","145171","77422","114845","192267"
+"2004","Graubünden / Grigioni / Grischun","Private forest","10922","17538","13593","2228","3950","6178"
+"2004","Graubünden / Grigioni / Grischun","Public forest","224","169735","131578","75195","110895","186090"
+"2004","Graubünden / Grigioni / Grischun",">>Federal forest","1","740","574",NA,NA,NA
+"2004","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1086","842",NA,NA,NA
+"2004","Graubünden / Grigioni / Grischun",">>Municipality forest","115","163420","126682",NA,NA,NA
+"2004","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2004","Graubünden / Grigioni / Grischun",">>Other public forest","107","4489","3480",NA,NA,NA
+"2004","Thurgau","Type of owners - Total","9021","19671","19555","70345","66293","136638"
+"2004","Thurgau","Private forest","8876","10997","10932","35859","29695","65554"
+"2004","Thurgau","Public forest","145","8674","8623","34486","36598","71084"
+"2004","Thurgau",">>Federal forest","1","177","176",NA,NA,NA
+"2004","Thurgau",">>Cantonal forest","1","1376","1368",NA,NA,NA
+"2004","Thurgau",">>Municipality forest","44","304","302",NA,NA,NA
+"2004","Thurgau",">>Bourgeois forest","58","5738","5704",NA,NA,NA
+"2004","Thurgau",">>Other public forest","41","1079","1073",NA,NA,NA
+"2005","Glarus","Type of owners - Total","1518","18449","16517","9748","12980","22728"
+"2005","Glarus","Private forest","1477","2332","2088","100","0","100"
+"2005","Glarus","Public forest","41","16117","14429","9648","12980","22628"
+"2005","Glarus",">>Federal forest","1","181","162",NA,NA,NA
+"2005","Glarus",">>Cantonal forest","1","89","79",NA,NA,NA
+"2005","Glarus",">>Municipality forest","20","15662","14022",NA,NA,NA
+"2005","Glarus",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2005","Glarus",">>Other public forest","19","185","166",NA,NA,NA
+"2005","Schaffhausen","Type of owners - Total","2125","12654","12615","17471","11145","28616"
+"2005","Schaffhausen","Private forest","2100","2050","2044","1690","295","1985"
+"2005","Schaffhausen","Public forest","25","10604","10571","15781","10850","26631"
+"2005","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"2005","Schaffhausen",">>Cantonal forest","1","2117","2110",NA,NA,NA
+"2005","Schaffhausen",">>Municipality forest","20","8479","8453",NA,NA,NA
+"2005","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2005","Schaffhausen",">>Other public forest","4","8","8",NA,NA,NA
+"2005","Appenzell Ausserrhoden","Type of owners - Total","4245","7199","6956","3172","530","3702"
+"2005","Appenzell Ausserrhoden","Private forest","4224","5537","5350","1635","310","1945"
+"2005","Appenzell Ausserrhoden","Public forest","21","1662","1606","1537","220","1757"
+"2005","Appenzell Ausserrhoden",">>Federal forest","1","26","25",NA,NA,NA
+"2005","Appenzell Ausserrhoden",">>Cantonal forest","1","392","379",NA,NA,NA
+"2005","Appenzell Ausserrhoden",">>Municipality forest","10","1133","1095",NA,NA,NA
+"2005","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2005","Appenzell Ausserrhoden",">>Other public forest","9","111","107",NA,NA,NA
+"2005","Appenzell Innerrhoden","Type of owners - Total","2999","4849","4636","1483","156","1639"
+"2005","Appenzell Innerrhoden","Private forest","2990","2771","2649","783","106","889"
+"2005","Appenzell Innerrhoden","Public forest","9","2078","1987","700","50","750"
+"2005","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"2005","Appenzell Innerrhoden",">>Cantonal forest","1","153","147",NA,NA,NA
+"2005","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"2005","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2005","Appenzell Innerrhoden",">>Other public forest","8","1925","1840",NA,NA,NA
+"2005","St. Gallen","Type of owners - Total","18125","55406","52915","94070","71073","165143"
+"2005","St. Gallen","Private forest","17883","22051","21358","40092","15667","55759"
+"2005","St. Gallen","Public forest","242","33355","31557","53978","55406","109384"
+"2005","St. Gallen",">>Federal forest","1","229","220",NA,NA,NA
+"2005","St. Gallen",">>Cantonal forest","1","1980","1895",NA,NA,NA
+"2005","St. Gallen",">>Municipality forest","74","759","734",NA,NA,NA
+"2005","St. Gallen",">>Bourgeois forest","97","25793","24249",NA,NA,NA
+"2005","St. Gallen",">>Other public forest","69","4594","4459",NA,NA,NA
+"2005","Graubünden / Grigioni / Grischun","Type of owners - Total","11256","187985","145385","55525","81430","136955"
+"2005","Graubünden / Grigioni / Grischun","Private forest","11033","17608","13614","250","1920","2170"
+"2005","Graubünden / Grigioni / Grischun","Public forest","223","170377","131771","55275","79510","134785"
+"2005","Graubünden / Grigioni / Grischun",">>Federal forest","1","744","575",NA,NA,NA
+"2005","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1091","843",NA,NA,NA
+"2005","Graubünden / Grigioni / Grischun",">>Municipality forest","114","164037","126868",NA,NA,NA
+"2005","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2005","Graubünden / Grigioni / Grischun",">>Other public forest","107","4505","3485",NA,NA,NA
+"2005","Thurgau","Type of owners - Total","9001","19671","19555","84819","85390","170209"
+"2005","Thurgau","Private forest","8876","10997","10932","3871","5411","9282"
+"2005","Thurgau","Public forest","125","8674","8623","80948","79979","160927"
+"2005","Thurgau",">>Federal forest","1","177","176",NA,NA,NA
+"2005","Thurgau",">>Cantonal forest","1","1376","1368",NA,NA,NA
+"2005","Thurgau",">>Municipality forest","38","304","302",NA,NA,NA
+"2005","Thurgau",">>Bourgeois forest","50","5738","5704",NA,NA,NA
+"2005","Thurgau",">>Other public forest","35","1079","1073",NA,NA,NA
+"2006","Glarus","Type of owners - Total","1514","18392","16627","6175","6002","12177"
+"2006","Glarus","Private forest","1475","2325","2102","775","260","1035"
+"2006","Glarus","Public forest","39","16067","14525","5400","5742","11142"
+"2006","Glarus",">>Federal forest","1","180","163",NA,NA,NA
+"2006","Glarus",">>Cantonal forest","1","88","80",NA,NA,NA
+"2006","Glarus",">>Municipality forest","19","15614","14115",NA,NA,NA
+"2006","Glarus",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2006","Glarus",">>Other public forest","18","185","167",NA,NA,NA
+"2006","Schaffhausen","Type of owners - Total","2125","12765","12643","13630","8475","22105"
+"2006","Schaffhausen","Private forest","2100","2070","2048","550","300","850"
+"2006","Schaffhausen","Public forest","25","10695","10595","13080","8175","21255"
+"2006","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"2006","Schaffhausen",">>Cantonal forest","1","2134","2115",NA,NA,NA
+"2006","Schaffhausen",">>Municipality forest","20","8553","8472",NA,NA,NA
+"2006","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2006","Schaffhausen",">>Other public forest","4","8","8",NA,NA,NA
+"2006","Appenzell Ausserrhoden","Type of owners - Total","4246","7199","6956","2350","665","3015"
+"2006","Appenzell Ausserrhoden","Private forest","4224","5537","5350","1075","435","1510"
+"2006","Appenzell Ausserrhoden","Public forest","22","1662","1606","1275","230","1505"
+"2006","Appenzell Ausserrhoden",">>Federal forest","1","26","25",NA,NA,NA
+"2006","Appenzell Ausserrhoden",">>Cantonal forest","1","392","379",NA,NA,NA
+"2006","Appenzell Ausserrhoden",">>Municipality forest","10","1133","1095",NA,NA,NA
+"2006","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2006","Appenzell Ausserrhoden",">>Other public forest","10","111","107",NA,NA,NA
+"2006","Appenzell Innerrhoden","Type of owners - Total","3006","4867","4653","940","270","1210"
+"2006","Appenzell Innerrhoden","Private forest","2995","2781","2659","590","170","760"
+"2006","Appenzell Innerrhoden","Public forest","11","2086","1994","350","100","450"
+"2006","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"2006","Appenzell Innerrhoden",">>Cantonal forest","1","154","147",NA,NA,NA
+"2006","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"2006","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2006","Appenzell Innerrhoden",">>Other public forest","10","1932","1847",NA,NA,NA
+"2006","St. Gallen","Type of owners - Total","18125","55360","52867","82636","49858","132494"
+"2006","St. Gallen","Private forest","17883","22033","21339","25942","17915","43857"
+"2006","St. Gallen","Public forest","242","33327","31528","56694","31943","88637"
+"2006","St. Gallen",">>Federal forest","1","229","220",NA,NA,NA
+"2006","St. Gallen",">>Cantonal forest","1","1979","1893",NA,NA,NA
+"2006","St. Gallen",">>Municipality forest","74","758","733",NA,NA,NA
+"2006","St. Gallen",">>Bourgeois forest","97","25773","24229",NA,NA,NA
+"2006","St. Gallen",">>Other public forest","69","4588","4453",NA,NA,NA
+"2006","Graubünden / Grigioni / Grischun","Type of owners - Total","11113","189923","146699","63945","103145","167090"
+"2006","Graubünden / Grigioni / Grischun","Private forest","10896","17798","13743","50","5075","5125"
+"2006","Graubünden / Grigioni / Grischun","Public forest","217","172125","132956","63895","98070","161965"
+"2006","Graubünden / Grigioni / Grischun",">>Federal forest","1","753","581",NA,NA,NA
+"2006","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1103","852",NA,NA,NA
+"2006","Graubünden / Grigioni / Grischun",">>Municipality forest","111","165719","128008",NA,NA,NA
+"2006","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2006","Graubünden / Grigioni / Grischun",">>Other public forest","104","4550","3515",NA,NA,NA
+"2006","Thurgau","Type of owners - Total","8996","19656","19552","89965","89616","179581"
+"2006","Thurgau","Private forest","8873","10988","10930","1648","787","2435"
+"2006","Thurgau","Public forest","123","8668","8622","88317","88829","177146"
+"2006","Thurgau",">>Federal forest","1","177","176",NA,NA,NA
+"2006","Thurgau",">>Cantonal forest","1","1375","1368",NA,NA,NA
+"2006","Thurgau",">>Municipality forest","37","304","302",NA,NA,NA
+"2006","Thurgau",">>Bourgeois forest","49","5734","5703",NA,NA,NA
+"2006","Thurgau",">>Other public forest","35","1078","1073",NA,NA,NA
+"2007","Glarus","Type of owners - Total","1514","18392","16627","3496","7970","11466"
+"2007","Glarus","Private forest","1475","2325","2102","50","50","100"
+"2007","Glarus","Public forest","39","16067","14525","3446","7920","11366"
+"2007","Glarus",">>Federal forest","1","180","163",NA,NA,NA
+"2007","Glarus",">>Cantonal forest","1","88","80",NA,NA,NA
+"2007","Glarus",">>Municipality forest","19","15614","14115",NA,NA,NA
+"2007","Glarus",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2007","Glarus",">>Other public forest","18","185","167",NA,NA,NA
+"2007","Schaffhausen","Type of owners - Total","2125","12765","12643","16400","11200","27600"
+"2007","Schaffhausen","Private forest","2100","2070","2048","2325","1275","3600"
+"2007","Schaffhausen","Public forest","25","10695","10595","14075","9925","24000"
+"2007","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"2007","Schaffhausen",">>Cantonal forest","1","2134","2115",NA,NA,NA
+"2007","Schaffhausen",">>Municipality forest","20","8553","8472",NA,NA,NA
+"2007","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2007","Schaffhausen",">>Other public forest","4","8","8",NA,NA,NA
+"2007","Appenzell Ausserrhoden","Type of owners - Total","4246","7199","6956","3445","541","3986"
+"2007","Appenzell Ausserrhoden","Private forest","4224","5537","5350","1740","247","1987"
+"2007","Appenzell Ausserrhoden","Public forest","22","1662","1606","1705","294","1999"
+"2007","Appenzell Ausserrhoden",">>Federal forest","1","26","25",NA,NA,NA
+"2007","Appenzell Ausserrhoden",">>Cantonal forest","1","392","379",NA,NA,NA
+"2007","Appenzell Ausserrhoden",">>Municipality forest","10","1133","1095",NA,NA,NA
+"2007","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2007","Appenzell Ausserrhoden",">>Other public forest","10","111","107",NA,NA,NA
+"2007","Appenzell Innerrhoden","Type of owners - Total","3006","4867","4653","1742","100","1842"
+"2007","Appenzell Innerrhoden","Private forest","2995","2781","2659","975","50","1025"
+"2007","Appenzell Innerrhoden","Public forest","11","2086","1994","767","50","817"
+"2007","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"2007","Appenzell Innerrhoden",">>Cantonal forest","1","154","147",NA,NA,NA
+"2007","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"2007","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2007","Appenzell Innerrhoden",">>Other public forest","10","1932","1847",NA,NA,NA
+"2007","St. Gallen","Type of owners - Total","18125","55826","53326","98397","37862","136259"
+"2007","St. Gallen","Private forest","17883","22223","21526","33188","11352","44540"
+"2007","St. Gallen","Public forest","242","33603","31800","65209","26510","91719"
+"2007","St. Gallen",">>Federal forest","1","229","220",NA,NA,NA
+"2007","St. Gallen",">>Cantonal forest","1","1990","1905",NA,NA,NA
+"2007","St. Gallen",">>Municipality forest","74","768","742",NA,NA,NA
+"2007","St. Gallen",">>Bourgeois forest","97","25969","24422",NA,NA,NA
+"2007","St. Gallen",">>Other public forest","69","4647","4511",NA,NA,NA
+"2007","Graubünden / Grigioni / Grischun","Type of owners - Total","11110","191881","148727","67806","40002","107808"
+"2007","Graubünden / Grigioni / Grischun","Private forest","10893","17945","13894","7489","1330","8819"
+"2007","Graubünden / Grigioni / Grischun","Public forest","217","173936","134833","60318","38672","98990"
+"2007","Graubünden / Grigioni / Grischun",">>Federal forest","1","754","582",NA,NA,NA
+"2007","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1110","858",NA,NA,NA
+"2007","Graubünden / Grigioni / Grischun",">>Municipality forest","111","167468","129822",NA,NA,NA
+"2007","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2007","Graubünden / Grigioni / Grischun",">>Other public forest","104","4604","3571",NA,NA,NA
+"2007","Thurgau","Type of owners - Total","8894","19616","19574","75216","66275","141491"
+"2007","Thurgau","Private forest","8775","10967","10943","1704","921","2625"
+"2007","Thurgau","Public forest","119","8649","8631","73512","65354","138866"
+"2007","Thurgau",">>Federal forest","1","176","176",NA,NA,NA
+"2007","Thurgau",">>Cantonal forest","1","1372","1369",NA,NA,NA
+"2007","Thurgau",">>Municipality forest","36","303","302",NA,NA,NA
+"2007","Thurgau",">>Bourgeois forest","47","5722","5710",NA,NA,NA
+"2007","Thurgau",">>Other public forest","34","1076","1074",NA,NA,NA
+"2008","Glarus","Type of owners - Total","1513","20718","18355","3816","11205","15021"
+"2008","Glarus","Private forest","1474","2619","2320","150","0","150"
+"2008","Glarus","Public forest","39","18099","16035","3666","11205","14871"
+"2008","Glarus",">>Federal forest","1","203","180",NA,NA,NA
+"2008","Glarus",">>Cantonal forest","1","100","88",NA,NA,NA
+"2008","Glarus",">>Municipality forest","19","17588","15583",NA,NA,NA
+"2008","Glarus",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2008","Glarus",">>Other public forest","18","208","184",NA,NA,NA
+"2008","Schaffhausen","Type of owners - Total","2125","12769","12658","9047","6770","15817"
+"2008","Schaffhausen","Private forest","2100","2068","2050","902","630","1532"
+"2008","Schaffhausen","Public forest","25","10701","10608","8145","6140","14285"
+"2008","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"2008","Schaffhausen",">>Cantonal forest","1","2137","2118",NA,NA,NA
+"2008","Schaffhausen",">>Municipality forest","20","8556","8482",NA,NA,NA
+"2008","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2008","Schaffhausen",">>Other public forest","4","8","8",NA,NA,NA
+"2008","Appenzell Ausserrhoden","Type of owners - Total","4246","7284","6963","4632","398","5030"
+"2008","Appenzell Ausserrhoden","Private forest","4224","5602","5355","2810","270","3080"
+"2008","Appenzell Ausserrhoden","Public forest","22","1682","1608","1822","128","1950"
+"2008","Appenzell Ausserrhoden",">>Federal forest","1","26","25",NA,NA,NA
+"2008","Appenzell Ausserrhoden",">>Cantonal forest","1","397","380",NA,NA,NA
+"2008","Appenzell Ausserrhoden",">>Municipality forest","10","1147","1096",NA,NA,NA
+"2008","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2008","Appenzell Ausserrhoden",">>Other public forest","10","112","107",NA,NA,NA
+"2008","Appenzell Innerrhoden","Type of owners - Total","3006","4867","4653","1940","230","2170"
+"2008","Appenzell Innerrhoden","Private forest","2995","2781","2659","1240","230","1470"
+"2008","Appenzell Innerrhoden","Public forest","11","2086","1994","700","0","700"
+"2008","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"2008","Appenzell Innerrhoden",">>Cantonal forest","1","154","147",NA,NA,NA
+"2008","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"2008","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2008","Appenzell Innerrhoden",">>Other public forest","10","1932","1847",NA,NA,NA
+"2008","St. Gallen","Type of owners - Total","18124","55857","53358","87779","20880","108659"
+"2008","St. Gallen","Private forest","17884","22243","21547","32820","10578","43398"
+"2008","St. Gallen","Public forest","240","33614","31811","54959","10302","65261"
+"2008","St. Gallen",">>Federal forest","1","229","220",NA,NA,NA
+"2008","St. Gallen",">>Cantonal forest","1","1992","1907",NA,NA,NA
+"2008","St. Gallen",">>Municipality forest","73","768","743",NA,NA,NA
+"2008","St. Gallen",">>Bourgeois forest","96","25975","24428",NA,NA,NA
+"2008","St. Gallen",">>Other public forest","69","4650","4513",NA,NA,NA
+"2008","Graubünden / Grigioni / Grischun","Type of owners - Total","11169","192402","149403","60416","23821","84237"
+"2008","Graubünden / Grigioni / Grischun","Private forest","10955","17998","13966","2456","265","2721"
+"2008","Graubünden / Grigioni / Grischun","Public forest","214","174404","135437","57960","23556","81516"
+"2008","Graubünden / Grigioni / Grischun",">>Federal forest","1","757","586",NA,NA,NA
+"2008","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1113","863",NA,NA,NA
+"2008","Graubünden / Grigioni / Grischun",">>Municipality forest","109","167918","130402",NA,NA,NA
+"2008","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2008","Graubünden / Grigioni / Grischun",">>Other public forest","103","4616","3586",NA,NA,NA
+"2008","Thurgau","Type of owners - Total","8890","19578","19540","55465","62520","117985"
+"2008","Thurgau","Private forest","8774","10945","10923","200","465","665"
+"2008","Thurgau","Public forest","116","8633","8617","55265","62055","117320"
+"2008","Thurgau",">>Federal forest","1","176","176",NA,NA,NA
+"2008","Thurgau",">>Cantonal forest","1","1370","1367",NA,NA,NA
+"2008","Thurgau",">>Municipality forest","35","302","302",NA,NA,NA
+"2008","Thurgau",">>Bourgeois forest","46","5711","5700",NA,NA,NA
+"2008","Thurgau",">>Other public forest","33","1074","1072",NA,NA,NA
+"2009","Glarus","Type of owners - Total","1514","20718","18355","7730","13033","20763"
+"2009","Glarus","Private forest","1475","2619","2320","430","0","430"
+"2009","Glarus","Public forest","39","18099","16035","7300","13033","20333"
+"2009","Glarus",">>Federal forest","1","203","180",NA,NA,NA
+"2009","Glarus",">>Cantonal forest","1","100","88",NA,NA,NA
+"2009","Glarus",">>Municipality forest","19","17588","15583",NA,NA,NA
+"2009","Glarus",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2009","Glarus",">>Other public forest","18","208","184",NA,NA,NA
+"2009","Schaffhausen","Type of owners - Total","1884","12816","12707","8763","4642","13405"
+"2009","Schaffhausen","Private forest","1862","2074","2056","1305","420","1725"
+"2009","Schaffhausen","Public forest","22","10742","10651","7458","4222","11680"
+"2009","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"2009","Schaffhausen",">>Cantonal forest","1","2146","2128",NA,NA,NA
+"2009","Schaffhausen",">>Municipality forest","17","8588","8515",NA,NA,NA
+"2009","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2009","Schaffhausen",">>Other public forest","4","8","8",NA,NA,NA
+"2009","Appenzell Ausserrhoden","Type of owners - Total","4246","7284","6963","5822","1225","7047"
+"2009","Appenzell Ausserrhoden","Private forest","4224","5602","5355","3524","962","4486"
+"2009","Appenzell Ausserrhoden","Public forest","22","1682","1608","2298","263","2561"
+"2009","Appenzell Ausserrhoden",">>Federal forest","1","26","25",NA,NA,NA
+"2009","Appenzell Ausserrhoden",">>Cantonal forest","1","397","380",NA,NA,NA
+"2009","Appenzell Ausserrhoden",">>Municipality forest","10","1147","1096",NA,NA,NA
+"2009","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2009","Appenzell Ausserrhoden",">>Other public forest","10","112","107",NA,NA,NA
+"2009","Appenzell Innerrhoden","Type of owners - Total","3006","4867","4653","2130","0","2130"
+"2009","Appenzell Innerrhoden","Private forest","2995","2781","2659","1460","0","1460"
+"2009","Appenzell Innerrhoden","Public forest","11","2086","1994","670","0","670"
+"2009","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"2009","Appenzell Innerrhoden",">>Cantonal forest","1","154","147",NA,NA,NA
+"2009","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"2009","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2009","Appenzell Innerrhoden",">>Other public forest","10","1932","1847",NA,NA,NA
+"2009","St. Gallen","Type of owners - Total","17976","55592","53109","84439","30597","115036"
+"2009","St. Gallen","Private forest","17733","22307","21618","28625","15161","43786"
+"2009","St. Gallen","Public forest","243","33285","31491","55814","15436","71250"
+"2009","St. Gallen",">>Federal forest","1","233","224",NA,NA,NA
+"2009","St. Gallen",">>Cantonal forest","1","1995","1910",NA,NA,NA
+"2009","St. Gallen",">>Municipality forest","74","764","739",NA,NA,NA
+"2009","St. Gallen",">>Bourgeois forest","97","25662","24122",NA,NA,NA
+"2009","St. Gallen",">>Other public forest","70","4631","4496",NA,NA,NA
+"2009","Graubünden / Grigioni / Grischun","Type of owners - Total","11091","193550","150949","32691","21079","53770"
+"2009","Graubünden / Grigioni / Grischun","Private forest","10893","18083","14083","351","244","595"
+"2009","Graubünden / Grigioni / Grischun","Public forest","198","175467","136866","32340","20835","53175"
+"2009","Graubünden / Grigioni / Grischun",">>Federal forest","1","758","588",NA,NA,NA
+"2009","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1117","868",NA,NA,NA
+"2009","Graubünden / Grigioni / Grischun",">>Municipality forest","101","168945","131782",NA,NA,NA
+"2009","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2009","Graubünden / Grigioni / Grischun",">>Other public forest","95","4647","3628",NA,NA,NA
+"2009","Thurgau","Type of owners - Total","8898","19585","19544","36607","64701","101308"
+"2009","Thurgau","Private forest","8786","10949","10926","396","1275","1671"
+"2009","Thurgau","Public forest","112","8636","8618","36211","63426","99637"
+"2009","Thurgau",">>Federal forest","1","176","176",NA,NA,NA
+"2009","Thurgau",">>Cantonal forest","1","1370","1367",NA,NA,NA
+"2009","Thurgau",">>Municipality forest","34","302","302",NA,NA,NA
+"2009","Thurgau",">>Bourgeois forest","44","5713","5701",NA,NA,NA
+"2009","Thurgau",">>Other public forest","32","1075","1072",NA,NA,NA
+"2010","Glarus","Type of owners - Total","1514","20723","18364","5320","3222","8542"
+"2010","Glarus","Private forest","1475","2619","2321","25","400","425"
+"2010","Glarus","Public forest","39","18104","16043","5295","2822","8117"
+"2010","Glarus",">>Federal forest","1","203","180",NA,NA,NA
+"2010","Glarus",">>Cantonal forest","1","100","88",NA,NA,NA
+"2010","Glarus",">>Municipality forest","19","17593","15591",NA,NA,NA
+"2010","Glarus",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2010","Glarus",">>Other public forest","18","208","184",NA,NA,NA
+"2010","Schaffhausen","Type of owners - Total","1884","12816","12707","12155","11715","23870"
+"2010","Schaffhausen","Private forest","1862","2074","2056","630","215","845"
+"2010","Schaffhausen","Public forest","22","10742","10651","11525","11500","23025"
+"2010","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"2010","Schaffhausen",">>Cantonal forest","1","2146","2128",NA,NA,NA
+"2010","Schaffhausen",">>Municipality forest","17","8588","8515",NA,NA,NA
+"2010","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2010","Schaffhausen",">>Other public forest","4","8","8",NA,NA,NA
+"2010","Appenzell Ausserrhoden","Type of owners - Total","4246","7284","6963","3735","626","4361"
+"2010","Appenzell Ausserrhoden","Private forest","4224","5602","5355","2615","576","3191"
+"2010","Appenzell Ausserrhoden","Public forest","22","1682","1608","1121","50","1171"
+"2010","Appenzell Ausserrhoden",">>Federal forest","1","26","25",NA,NA,NA
+"2010","Appenzell Ausserrhoden",">>Cantonal forest","1","397","380",NA,NA,NA
+"2010","Appenzell Ausserrhoden",">>Municipality forest","10","1147","1096",NA,NA,NA
+"2010","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2010","Appenzell Ausserrhoden",">>Other public forest","10","112","107",NA,NA,NA
+"2010","Appenzell Innerrhoden","Type of owners - Total","3006","4869","4655","2370","170","2540"
+"2010","Appenzell Innerrhoden","Private forest","2995","2782","2660","1795","170","1965"
+"2010","Appenzell Innerrhoden","Public forest","11","2087","1995","575","0","575"
+"2010","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"2010","Appenzell Innerrhoden",">>Cantonal forest","1","154","147",NA,NA,NA
+"2010","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"2010","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2010","Appenzell Innerrhoden",">>Other public forest","10","1933","1848",NA,NA,NA
+"2010","St. Gallen","Type of owners - Total","18515","56275","53800","72412","28049","100461"
+"2010","St. Gallen","Private forest","18277","22586","21899","15451","8467","23918"
+"2010","St. Gallen","Public forest","238","33689","31901","56961","19582","76543"
+"2010","St. Gallen",">>Federal forest","1","233","224",NA,NA,NA
+"2010","St. Gallen",">>Cantonal forest","1","2011","1927",NA,NA,NA
+"2010","St. Gallen",">>Municipality forest","73","778","753",NA,NA,NA
+"2010","St. Gallen",">>Bourgeois forest","95","25950","24413",NA,NA,NA
+"2010","St. Gallen",">>Other public forest","68","4717","4584",NA,NA,NA
+"2010","Graubünden / Grigioni / Grischun","Type of owners - Total","10945","193598","151074","29962","29347","59309"
+"2010","Graubünden / Grigioni / Grischun","Private forest","10749","18087","14096","930","2780","3710"
+"2010","Graubünden / Grigioni / Grischun","Public forest","196","175511","136978","29032","26567","55599"
+"2010","Graubünden / Grigioni / Grischun",">>Federal forest","1","758","588",NA,NA,NA
+"2010","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1117","869",NA,NA,NA
+"2010","Graubünden / Grigioni / Grischun",">>Municipality forest","100","168988","131890",NA,NA,NA
+"2010","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2010","Graubünden / Grigioni / Grischun",">>Other public forest","94","4648","3631",NA,NA,NA
+"2010","Thurgau","Type of owners - Total","8905","19603","19563","44830","58653","103483"
+"2010","Thurgau","Private forest","8793","10959","10936","125","50","175"
+"2010","Thurgau","Public forest","112","8644","8627","44705","58603","103308"
+"2010","Thurgau",">>Federal forest","1","176","176",NA,NA,NA
+"2010","Thurgau",">>Cantonal forest","1","1371","1369",NA,NA,NA
+"2010","Thurgau",">>Municipality forest","34","303","302",NA,NA,NA
+"2010","Thurgau",">>Bourgeois forest","44","5718","5707",NA,NA,NA
+"2010","Thurgau",">>Other public forest","32","1076","1073",NA,NA,NA
+"2011","Glarus","Type of owners - Total","1460","20723","18364","4150","3295","7445"
+"2011","Glarus","Private forest","1450","2619","2321","100","240","340"
+"2011","Glarus","Public forest","10","18104","16043","4050","3055","7105"
+"2011","Glarus",">>Federal forest","1","203","180",NA,NA,NA
+"2011","Glarus",">>Cantonal forest","1","100","88",NA,NA,NA
+"2011","Glarus",">>Municipality forest","4","17593","15591",NA,NA,NA
+"2011","Glarus",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2011","Glarus",">>Other public forest","4","208","184",NA,NA,NA
+"2011","Schaffhausen","Type of owners - Total","1884","12816","12707","10070","7605","17675"
+"2011","Schaffhausen","Private forest","1862","2074","2056","430","100","530"
+"2011","Schaffhausen","Public forest","22","10742","10651","9640","7505","17145"
+"2011","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"2011","Schaffhausen",">>Cantonal forest","1","2146","2128",NA,NA,NA
+"2011","Schaffhausen",">>Municipality forest","17","8588","8515",NA,NA,NA
+"2011","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2011","Schaffhausen",">>Other public forest","4","8","8",NA,NA,NA
+"2011","Appenzell Ausserrhoden","Type of owners - Total","4246","7210","6891","4791","915","5706"
+"2011","Appenzell Ausserrhoden","Private forest","4224","5545","5299","3958","806","4764"
+"2011","Appenzell Ausserrhoden","Public forest","22","1665","1592","833","109","942"
+"2011","Appenzell Ausserrhoden",">>Federal forest","1","26","25",NA,NA,NA
+"2011","Appenzell Ausserrhoden",">>Cantonal forest","1","393","376",NA,NA,NA
+"2011","Appenzell Ausserrhoden",">>Municipality forest","10","1135","1085",NA,NA,NA
+"2011","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2011","Appenzell Ausserrhoden",">>Other public forest","10","111","106",NA,NA,NA
+"2011","Appenzell Innerrhoden","Type of owners - Total","3006","4869","4655","2185","340","2525"
+"2011","Appenzell Innerrhoden","Private forest","2995","2782","2660","1935","340","2275"
+"2011","Appenzell Innerrhoden","Public forest","11","2087","1995","250","0","250"
+"2011","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"2011","Appenzell Innerrhoden",">>Cantonal forest","1","154","147",NA,NA,NA
+"2011","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"2011","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2011","Appenzell Innerrhoden",">>Other public forest","10","1933","1848",NA,NA,NA
+"2011","St. Gallen","Type of owners - Total","18509","56207","53734","70423","17960","88383"
+"2011","St. Gallen","Private forest","18276","22558","21873","23890","10447","34337"
+"2011","St. Gallen","Public forest","233","33649","31861","46533","7513","54046"
+"2011","St. Gallen",">>Federal forest","1","233","224",NA,NA,NA
+"2011","St. Gallen",">>Cantonal forest","1","2010","1925",NA,NA,NA
+"2011","St. Gallen",">>Municipality forest","71","776","751",NA,NA,NA
+"2011","St. Gallen",">>Bourgeois forest","93","25921","24385",NA,NA,NA
+"2011","St. Gallen",">>Other public forest","67","4709","4576",NA,NA,NA
+"2011","Graubünden / Grigioni / Grischun","Type of owners - Total","10900","193874","151566","49722","36121","85843"
+"2011","Graubünden / Grigioni / Grischun","Private forest","10708","18114","14144","350","544","894"
+"2011","Graubünden / Grigioni / Grischun","Public forest","192","175760","137422","49372","35577","84949"
+"2011","Graubünden / Grigioni / Grischun",">>Federal forest","1","759","591",NA,NA,NA
+"2011","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1119","872",NA,NA,NA
+"2011","Graubünden / Grigioni / Grischun",">>Municipality forest","98","169227","132317",NA,NA,NA
+"2011","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2011","Graubünden / Grigioni / Grischun",">>Other public forest","92","4655","3642",NA,NA,NA
+"2011","Thurgau","Type of owners - Total","8893","19712","19671","41673","47979","89652"
+"2011","Thurgau","Private forest","8784","11020","10997","1236","2440","3676"
+"2011","Thurgau","Public forest","109","8692","8674","40437","45539","85976"
+"2011","Thurgau",">>Federal forest","1","177","177",NA,NA,NA
+"2011","Thurgau",">>Cantonal forest","1","1379","1376",NA,NA,NA
+"2011","Thurgau",">>Municipality forest","33","304","304",NA,NA,NA
+"2011","Thurgau",">>Bourgeois forest","43","5750","5738",NA,NA,NA
+"2011","Thurgau",">>Other public forest","31","1082","1079",NA,NA,NA
+"2012","Glarus","Type of owners - Total","1467","21001","18533","2010","5380","7390"
+"2012","Glarus","Private forest","1454","2654","2343","100","0","100"
+"2012","Glarus","Public forest","13","18347","16190","1910","5380","7290"
+"2012","Glarus",">>Federal forest","1","206","182",NA,NA,NA
+"2012","Glarus",">>Cantonal forest","1","101","89",NA,NA,NA
+"2012","Glarus",">>Municipality forest","6","17829","15733",NA,NA,NA
+"2012","Glarus",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2012","Glarus",">>Other public forest","5","211","186",NA,NA,NA
+"2012","Schaffhausen","Type of owners - Total","1884","12818","12710","8740","3574","12314"
+"2012","Schaffhausen","Private forest","1862","2075","2057","395","250","645"
+"2012","Schaffhausen","Public forest","22","10743","10653","8345","3324","11669"
+"2012","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"2012","Schaffhausen",">>Cantonal forest","1","2146","2128",NA,NA,NA
+"2012","Schaffhausen",">>Municipality forest","17","8589","8517",NA,NA,NA
+"2012","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2012","Schaffhausen",">>Other public forest","4","8","8",NA,NA,NA
+"2012","Appenzell Ausserrhoden","Type of owners - Total","4244","7191","6872","3602","327","3929"
+"2012","Appenzell Ausserrhoden","Private forest","4223","5530","5284","3109","248","3357"
+"2012","Appenzell Ausserrhoden","Public forest","21","1661","1588","493","79","572"
+"2012","Appenzell Ausserrhoden",">>Federal forest","1","26","25",NA,NA,NA
+"2012","Appenzell Ausserrhoden",">>Cantonal forest","1","392","375",NA,NA,NA
+"2012","Appenzell Ausserrhoden",">>Municipality forest","10","1132","1082",NA,NA,NA
+"2012","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2012","Appenzell Ausserrhoden",">>Other public forest","9","111","106",NA,NA,NA
+"2012","Appenzell Innerrhoden","Type of owners - Total","3006","4869","4655","1840","120","1960"
+"2012","Appenzell Innerrhoden","Private forest","2995","2782","2660","1685","120","1805"
+"2012","Appenzell Innerrhoden","Public forest","11","2087","1995","155","0","155"
+"2012","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"2012","Appenzell Innerrhoden",">>Cantonal forest","1","154","147",NA,NA,NA
+"2012","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"2012","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2012","Appenzell Innerrhoden",">>Other public forest","10","1933","1848",NA,NA,NA
+"2012","St. Gallen","Type of owners - Total","18508","56218","53744","65691","20387","86078"
+"2012","St. Gallen","Private forest","18276","22565","21879","22512","9410","31922"
+"2012","St. Gallen","Public forest","232","33653","31865","43179","10977","54156"
+"2012","St. Gallen",">>Federal forest","1","233","224",NA,NA,NA
+"2012","St. Gallen",">>Cantonal forest","1","2010","1926",NA,NA,NA
+"2012","St. Gallen",">>Municipality forest","71","777","752",NA,NA,NA
+"2012","St. Gallen",">>Bourgeois forest","93","25923","24387",NA,NA,NA
+"2012","St. Gallen",">>Other public forest","66","4710","4576",NA,NA,NA
+"2012","Graubünden / Grigioni / Grischun","Type of owners - Total","10896","195326","152757","40983","27323","68306"
+"2012","Graubünden / Grigioni / Grischun","Private forest","10706","18248","14250","240","10","250"
+"2012","Graubünden / Grigioni / Grischun","Public forest","190","177078","138507","40743","27313","68056"
+"2012","Graubünden / Grigioni / Grischun",">>Federal forest","1","765","595",NA,NA,NA
+"2012","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1127","878",NA,NA,NA
+"2012","Graubünden / Grigioni / Grischun",">>Municipality forest","97","170496","133362",NA,NA,NA
+"2012","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2012","Graubünden / Grigioni / Grischun",">>Other public forest","91","4690","3672",NA,NA,NA
+"2012","Thurgau","Type of owners - Total","8882","19684","19644","39525","49201","88726"
+"2012","Thurgau","Private forest","8784","11004","10982","660","795","1455"
+"2012","Thurgau","Public forest","98","8680","8662","38865","48406","87271"
+"2012","Thurgau",">>Federal forest","1","177","177",NA,NA,NA
+"2012","Thurgau",">>Cantonal forest","1","1377","1374",NA,NA,NA
+"2012","Thurgau",">>Municipality forest","29","304","303",NA,NA,NA
+"2012","Thurgau",">>Bourgeois forest","39","5742","5730",NA,NA,NA
+"2012","Thurgau",">>Other public forest","28","1080","1078",NA,NA,NA
+"2013","Glarus","Type of owners - Total","1467","21005","18537","4153","4572","8725"
+"2013","Glarus","Private forest","1454","2655","2343","3","2","5"
+"2013","Glarus","Public forest","13","18350","16194","4150","4570","8720"
+"2013","Glarus",">>Federal forest","1","206","182",NA,NA,NA
+"2013","Glarus",">>Cantonal forest","1","101","89",NA,NA,NA
+"2013","Glarus",">>Municipality forest","6","17832","15737",NA,NA,NA
+"2013","Glarus",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2013","Glarus",">>Other public forest","5","211","186",NA,NA,NA
+"2013","Schaffhausen","Type of owners - Total","1882","12770","12683","9010","3442","12452"
+"2013","Schaffhausen","Private forest","1861","2068","2053","495","150","645"
+"2013","Schaffhausen","Public forest","21","10702","10630","8515","3292","11807"
+"2013","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"2013","Schaffhausen",">>Cantonal forest","1","2137","2123",NA,NA,NA
+"2013","Schaffhausen",">>Municipality forest","16","8557","8499",NA,NA,NA
+"2013","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2013","Schaffhausen",">>Other public forest","4","8","8",NA,NA,NA
+"2013","Appenzell Ausserrhoden","Type of owners - Total","4244","7191","6872","2520","310","2830"
+"2013","Appenzell Ausserrhoden","Private forest","4223","5530","5284","1210","79","1289"
+"2013","Appenzell Ausserrhoden","Public forest","21","1661","1588","1310","232","1542"
+"2013","Appenzell Ausserrhoden",">>Federal forest","1","26","25",NA,NA,NA
+"2013","Appenzell Ausserrhoden",">>Cantonal forest","1","392","375",NA,NA,NA
+"2013","Appenzell Ausserrhoden",">>Municipality forest","10","1132","1082",NA,NA,NA
+"2013","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2013","Appenzell Ausserrhoden",">>Other public forest","9","111","106",NA,NA,NA
+"2013","Appenzell Innerrhoden","Type of owners - Total","3005","4869","4655","1817","121","1938"
+"2013","Appenzell Innerrhoden","Private forest","2994","2782","2660","1167","59","1226"
+"2013","Appenzell Innerrhoden","Public forest","11","2087","1995","650","62","712"
+"2013","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"2013","Appenzell Innerrhoden",">>Cantonal forest","1","154","147",NA,NA,NA
+"2013","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"2013","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2013","Appenzell Innerrhoden",">>Other public forest","10","1933","1848",NA,NA,NA
+"2013","St. Gallen","Type of owners - Total","17940","54909","52435","59923","12791","72714"
+"2013","St. Gallen","Private forest","17726","21997","21311","18678","4702","23380"
+"2013","St. Gallen","Public forest","214","32912","31124","41245","8089","49334"
+"2013","St. Gallen",">>Federal forest","1","231","222",NA,NA,NA
+"2013","St. Gallen",">>Cantonal forest","1","1973","1888",NA,NA,NA
+"2013","St. Gallen",">>Municipality forest","65","752","727",NA,NA,NA
+"2013","St. Gallen",">>Bourgeois forest","86","25403","23867",NA,NA,NA
+"2013","St. Gallen",">>Other public forest","61","4553","4420",NA,NA,NA
+"2013","Graubünden / Grigioni / Grischun","Type of owners - Total","10856","195494","152934","50556","26992","77548"
+"2013","Graubünden / Grigioni / Grischun","Private forest","10682","18189","14199","1200","1174","2374"
+"2013","Graubünden / Grigioni / Grischun","Public forest","174","177305","138735","49356","25818","75174"
+"2013","Graubünden / Grigioni / Grischun",">>Federal forest","1","762","592",NA,NA,NA
+"2013","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1123","875",NA,NA,NA
+"2013","Graubünden / Grigioni / Grischun",">>Municipality forest","89","170744","133608",NA,NA,NA
+"2013","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2013","Graubünden / Grigioni / Grischun",">>Other public forest","83","4676","3660",NA,NA,NA
+"2013","Thurgau","Type of owners - Total","8877","19684","19644","40745","38139","78884"
+"2013","Thurgau","Private forest","8781","11004","10982","575","740","1315"
+"2013","Thurgau","Public forest","96","8680","8662","40170","37399","77569"
+"2013","Thurgau",">>Federal forest","1","177","177",NA,NA,NA
+"2013","Thurgau",">>Cantonal forest","1","1377","1374",NA,NA,NA
+"2013","Thurgau",">>Municipality forest","29","304","303",NA,NA,NA
+"2013","Thurgau",">>Bourgeois forest","38","5742","5730",NA,NA,NA
+"2013","Thurgau",">>Other public forest","27","1080","1078",NA,NA,NA
+"2014","Glarus","Type of owners - Total","1467","21017","18545","2020","5030","7050"
+"2014","Glarus","Private forest","1454","2662","2349","0","0","0"
+"2014","Glarus","Public forest","13","18355","16196","2020","5030","7050"
+"2014","Glarus",">>Federal forest","1","206","182",NA,NA,NA
+"2014","Glarus",">>Cantonal forest","1","101","89",NA,NA,NA
+"2014","Glarus",">>Municipality forest","6","17837","15739",NA,NA,NA
+"2014","Glarus",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2014","Glarus",">>Other public forest","5","211","186",NA,NA,NA
+"2014","Schaffhausen","Type of owners - Total","1882","12677","12590","14932","2502","17434"
+"2014","Schaffhausen","Private forest","1861","2068","2053","410","180","590"
+"2014","Schaffhausen","Public forest","21","10609","10537","14522","2322","16844"
+"2014","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"2014","Schaffhausen",">>Cantonal forest","1","2137","2123",NA,NA,NA
+"2014","Schaffhausen",">>Municipality forest","16","8464","8406",NA,NA,NA
+"2014","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2014","Schaffhausen",">>Other public forest","4","8","8",NA,NA,NA
+"2014","Appenzell Ausserrhoden","Type of owners - Total","4244","7191","6872","1563","547","2110"
+"2014","Appenzell Ausserrhoden","Private forest","4223","5530","5284","1224","451","1675"
+"2014","Appenzell Ausserrhoden","Public forest","21","1661","1588","339","96","435"
+"2014","Appenzell Ausserrhoden",">>Federal forest","1","26","25",NA,NA,NA
+"2014","Appenzell Ausserrhoden",">>Cantonal forest","1","392","375",NA,NA,NA
+"2014","Appenzell Ausserrhoden",">>Municipality forest","10","1132","1082",NA,NA,NA
+"2014","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2014","Appenzell Ausserrhoden",">>Other public forest","9","111","106",NA,NA,NA
+"2014","Appenzell Innerrhoden","Type of owners - Total","3005","4869","4655","1770","423","2193"
+"2014","Appenzell Innerrhoden","Private forest","2994","2782","2660","1216","423","1639"
+"2014","Appenzell Innerrhoden","Public forest","11","2087","1995","554","0","554"
+"2014","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"2014","Appenzell Innerrhoden",">>Cantonal forest","1","154","147",NA,NA,NA
+"2014","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"2014","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2014","Appenzell Innerrhoden",">>Other public forest","10","1933","1848",NA,NA,NA
+"2014","St. Gallen","Type of owners - Total","17947","54931","52451","63395","20372","83767"
+"2014","St. Gallen","Private forest","17730","21892","21211","20980","4068","25048"
+"2014","St. Gallen","Public forest","217","33039","31240","42415","16304","58719"
+"2014","St. Gallen",">>Federal forest","1","359","342",NA,NA,NA
+"2014","St. Gallen",">>Cantonal forest","1","1973","1888",NA,NA,NA
+"2014","St. Gallen",">>Municipality forest","66","815","784",NA,NA,NA
+"2014","St. Gallen",">>Bourgeois forest","87","25335","23803",NA,NA,NA
+"2014","St. Gallen",">>Other public forest","62","4557","4423",NA,NA,NA
+"2014","Graubünden / Grigioni / Grischun","Type of owners - Total","10777","200002","158603","48485","29535","78020"
+"2014","Graubünden / Grigioni / Grischun","Private forest","10621","18522","14689","100","3992","4092"
+"2014","Graubünden / Grigioni / Grischun","Public forest","156","181480","143914","48385","25543","73928"
+"2014","Graubünden / Grigioni / Grischun",">>Federal forest","1","225","178",NA,NA,NA
+"2014","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1121","887",NA,NA,NA
+"2014","Graubünden / Grigioni / Grischun",">>Municipality forest","80","175366","139069",NA,NA,NA
+"2014","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2014","Graubünden / Grigioni / Grischun",">>Other public forest","74","4768","3780",NA,NA,NA
+"2014","Thurgau","Type of owners - Total","8875","19717","19677","38124","49452","87576"
+"2014","Thurgau","Private forest","8779","11029","11007","570","1380","1950"
+"2014","Thurgau","Public forest","96","8688","8670","37554","48072","85626"
+"2014","Thurgau",">>Federal forest","1","177","177",NA,NA,NA
+"2014","Thurgau",">>Cantonal forest","1","1379","1376",NA,NA,NA
+"2014","Thurgau",">>Municipality forest","29","304","303",NA,NA,NA
+"2014","Thurgau",">>Bourgeois forest","38","5747","5735",NA,NA,NA
+"2014","Thurgau",">>Other public forest","27","1081","1079",NA,NA,NA
+"2015","Glarus","Type of owners - Total","1467","21017","18545","5398","7382","12780"
+"2015","Glarus","Private forest","1454","2662","2349","226","0","226"
+"2015","Glarus","Public forest","13","18355","16196","5172","7382","12554"
+"2015","Glarus",">>Federal forest","1","206","182",NA,NA,NA
+"2015","Glarus",">>Cantonal forest","1","101","89",NA,NA,NA
+"2015","Glarus",">>Municipality forest","6","17837","15739",NA,NA,NA
+"2015","Glarus",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2015","Glarus",">>Other public forest","5","211","186",NA,NA,NA
+"2015","Schaffhausen","Type of owners - Total","2070","12669","12568","6725","1209","7934"
+"2015","Schaffhausen","Private forest","2049","2068","2049","965","250","1215"
+"2015","Schaffhausen","Public forest","21","10601","10519","5760","959","6719"
+"2015","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"2015","Schaffhausen",">>Cantonal forest","1","2137","2122",NA,NA,NA
+"2015","Schaffhausen",">>Municipality forest","16","8456","8389",NA,NA,NA
+"2015","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2015","Schaffhausen",">>Other public forest","4","8","8",NA,NA,NA
+"2015","Appenzell Ausserrhoden","Type of owners - Total","4244","7181","6862","1508","175","1683"
+"2015","Appenzell Ausserrhoden","Private forest","4223","5530","5284","1222","158","1380"
+"2015","Appenzell Ausserrhoden","Public forest","21","1651","1578","287","17","304"
+"2015","Appenzell Ausserrhoden",">>Federal forest","1","26","25",NA,NA,NA
+"2015","Appenzell Ausserrhoden",">>Cantonal forest","1","392","375",NA,NA,NA
+"2015","Appenzell Ausserrhoden",">>Municipality forest","10","1122","1072",NA,NA,NA
+"2015","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2015","Appenzell Ausserrhoden",">>Other public forest","9","111","106",NA,NA,NA
+"2015","Appenzell Innerrhoden","Type of owners - Total","3005","4869","4655","1415","1966","3381"
+"2015","Appenzell Innerrhoden","Private forest","2994","2782","2660","1160","909","2069"
+"2015","Appenzell Innerrhoden","Public forest","11","2087","1995","255","1057","1312"
+"2015","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"2015","Appenzell Innerrhoden",">>Cantonal forest","1","154","147",NA,NA,NA
+"2015","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"2015","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2015","Appenzell Innerrhoden",">>Other public forest","10","1933","1848",NA,NA,NA
+"2015","St. Gallen","Type of owners - Total","17065","60000","56639","60582","16881","77463"
+"2015","St. Gallen","Private forest","16833","26002","24893","22225","8767","30992"
+"2015","St. Gallen","Public forest","232","33998","31746","38357","8114","46471"
+"2015","St. Gallen",">>Federal forest","1","410","395",NA,NA,NA
+"2015","St. Gallen",">>Cantonal forest","1","2096","1981",NA,NA,NA
+"2015","St. Gallen",">>Municipality forest","71","926","887",NA,NA,NA
+"2015","St. Gallen",">>Bourgeois forest","93","26913","24946",NA,NA,NA
+"2015","St. Gallen",">>Other public forest","66","3653","3537",NA,NA,NA
+"2015","Graubünden / Grigioni / Grischun","Type of owners - Total","10758","199841","158444","42937","28598","71535"
+"2015","Graubünden / Grigioni / Grischun","Private forest","10613","18458","14624","772","1870","2642"
+"2015","Graubünden / Grigioni / Grischun","Public forest","145","181383","143820","42165","26728","68893"
+"2015","Graubünden / Grigioni / Grischun",">>Federal forest","1","225","178",NA,NA,NA
+"2015","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","1124","890",NA,NA,NA
+"2015","Graubünden / Grigioni / Grischun",">>Municipality forest","74","175223","138934",NA,NA,NA
+"2015","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2015","Graubünden / Grigioni / Grischun",">>Other public forest","69","4811","3818",NA,NA,NA
+"2015","Thurgau","Type of owners - Total","8887","19702","19662","34745","44858","79603"
+"2015","Thurgau","Private forest","8793","11011","10989","17125","16804","33929"
+"2015","Thurgau","Public forest","94","8691","8673","17620","28054","45674"
+"2015","Thurgau",">>Federal forest","1","177","177",NA,NA,NA
+"2015","Thurgau",">>Cantonal forest","1","1379","1376",NA,NA,NA
+"2015","Thurgau",">>Municipality forest","28","326","325",NA,NA,NA
+"2015","Thurgau",">>Bourgeois forest","37","5728","5716",NA,NA,NA
+"2015","Thurgau",">>Other public forest","27","1081","1079",NA,NA,NA
+"2016","Glarus","Type of owners - Total","1466","21017","18545","2276","1442","3718"
+"2016","Glarus","Private forest","1457","2662","2406","150","0","150"
+"2016","Glarus","Public forest","9","18355","16139","2126","1442","3568"
+"2016","Glarus",">>Federal forest","1","206","115",NA,NA,NA
+"2016","Glarus",">>Cantonal forest","1","101","99",NA,NA,NA
+"2016","Glarus",">>Municipality forest","3","17837","15743",NA,NA,NA
+"2016","Glarus",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2016","Glarus",">>Other public forest","4","211","182",NA,NA,NA
+"2016","Schaffhausen","Type of owners - Total","2071","12669","12568","5848","1934","7782"
+"2016","Schaffhausen","Private forest","2043","2068","2068","325","50","375"
+"2016","Schaffhausen","Public forest","28","10601","10500","5523","1884","7407"
+"2016","Schaffhausen",">>Federal forest","0","0","0",NA,NA,NA
+"2016","Schaffhausen",">>Cantonal forest","1","2137","2137",NA,NA,NA
+"2016","Schaffhausen",">>Municipality forest","26","8456","8355",NA,NA,NA
+"2016","Schaffhausen",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2016","Schaffhausen",">>Other public forest","1","8","8",NA,NA,NA
+"2016","Appenzell Ausserrhoden","Type of owners - Total","4266","7181","6861","2872","1194","4066"
+"2016","Appenzell Ausserrhoden","Private forest","4241","5530","5529","1385","352","1737"
+"2016","Appenzell Ausserrhoden","Public forest","25","1651","1332","1488","842","2330"
+"2016","Appenzell Ausserrhoden",">>Federal forest","1","26","26",NA,NA,NA
+"2016","Appenzell Ausserrhoden",">>Cantonal forest","1","392","177",NA,NA,NA
+"2016","Appenzell Ausserrhoden",">>Municipality forest","21","1131","1027",NA,NA,NA
+"2016","Appenzell Ausserrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2016","Appenzell Ausserrhoden",">>Other public forest","2","102","102",NA,NA,NA
+"2016","Appenzell Innerrhoden","Type of owners - Total","3024","4869","4655","564","60","624"
+"2016","Appenzell Innerrhoden","Private forest","2996","2782","2782","524","60","584"
+"2016","Appenzell Innerrhoden","Public forest","28","2087","1873","40","0","40"
+"2016","Appenzell Innerrhoden",">>Federal forest","0","0","0",NA,NA,NA
+"2016","Appenzell Innerrhoden",">>Cantonal forest","1","154","148",NA,NA,NA
+"2016","Appenzell Innerrhoden",">>Municipality forest","0","0","0",NA,NA,NA
+"2016","Appenzell Innerrhoden",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2016","Appenzell Innerrhoden",">>Other public forest","27","1933","1725",NA,NA,NA
+"2016","St. Gallen","Type of owners - Total","16995","60000","56639","49125","17156","66281"
+"2016","St. Gallen","Private forest","16483","26003","24927","14541","5676","20217"
+"2016","St. Gallen","Public forest","512","33997","31712","34584","11480","46064"
+"2016","St. Gallen",">>Federal forest","1","410","405",NA,NA,NA
+"2016","St. Gallen",">>Cantonal forest","1","2091","1938",NA,NA,NA
+"2016","St. Gallen",">>Municipality forest","19","864","852",NA,NA,NA
+"2016","St. Gallen",">>Bourgeois forest","77","26911","24931",NA,NA,NA
+"2016","St. Gallen",">>Other public forest","414","3721","3586",NA,NA,NA
+"2016","Graubünden / Grigioni / Grischun","Type of owners - Total","10694","199350","157982","49959","24564","74523"
+"2016","Graubünden / Grigioni / Grischun","Private forest","10542","18368","17842","4667","3792","8459"
+"2016","Graubünden / Grigioni / Grischun","Public forest","152","180982","140140","45292","20772","66064"
+"2016","Graubünden / Grigioni / Grischun",">>Federal forest","1","25","25",NA,NA,NA
+"2016","Graubünden / Grigioni / Grischun",">>Cantonal forest","1","676","546",NA,NA,NA
+"2016","Graubünden / Grigioni / Grischun",">>Municipality forest","119","178840","138488",NA,NA,NA
+"2016","Graubünden / Grigioni / Grischun",">>Bourgeois forest","0","0","0",NA,NA,NA
+"2016","Graubünden / Grigioni / Grischun",">>Other public forest","31","1441","1081",NA,NA,NA
+"2016","Thurgau","Type of owners - Total","8991","20007","19970","26885","27811","54696"
+"2016","Thurgau","Private forest","8921","11229","11229","13933","10994","24927"
+"2016","Thurgau","Public forest","70","8778","8741","12952","16817","29769"
+"2016","Thurgau",">>Federal forest","1","175","138",NA,NA,NA
+"2016","Thurgau",">>Cantonal forest","1","1396","1396",NA,NA,NA
+"2016","Thurgau",">>Municipality forest","6","326","326",NA,NA,NA
+"2016","Thurgau",">>Bourgeois forest","45","5796","5796",NA,NA,NA
+"2016","Thurgau",">>Other public forest","17","1085","1085",NA,NA,NA

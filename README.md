@@ -2,7 +2,7 @@
   
 Coursera:   Data Science Specialization  
 Course 9:   Developing Data Products  
-Assignment: Shiny App & Reproducible R Studio Presentation
+Assignment: **Shiny App** published on shinyapp.io & **Reproducible Pitch** created with RStudio Presenter and published on Rpubs
   
 This repository contains the R code, data and files for the Shiny app [AssignDDP94](https://mhunkeler.shinyapps.io/assignddp94/)  and the R Presentation [East Swiss: Forest Growth and Number of Plantations](http://www.rpubs.com/mhunkeler) published on Rpubs.
   

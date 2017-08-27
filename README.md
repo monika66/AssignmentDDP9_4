@@ -20,7 +20,8 @@ Shiny app AssignDDP94 calculates based on **ForestData.csv** data and the choose
 - Total Forest Area growth [ha]  
 - Productive Area growth [ha]  
 - Total Number of Plantations   
-and plots the  
+  
+and displays the interactive plots  
 - Forest Areas [ha]  
 - Number of Plantations  
   

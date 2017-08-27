@@ -2,7 +2,7 @@
 # Author: Monika Hunkeler, 24 of August 2017
 #
 # This is the server logic of the Shiny web application 'AssignDDP94'. 
-
+#
 # Load libraries and data
 library(shiny)
 library(ggplot2)
@@ -14,10 +14,20 @@ ForestData <- read.csv("ForestData.csv", header = TRUE, sep = ",", quote = "\"")
 
 shinyServer(function(input, output, session) {
 
+    # Calculate for given input filter development of total forest area in [ha] 
+    output$Total  <- renderText({
+      TotalDiff <- as.character(ForestData[which(ForestData$Canton==input$canton & ForestData$TypeofOwner == input$ownerType & ForestData$Year==(year(input$dateRange)[2])), 5] - ForestData[which(ForestData$Canton==input$canton & ForestData$TypeofOwner == input$ownerType & ForestData$Year==(year(input$dateRange)[1])), 5])
+    })
+    
+    #Calculate for given input filter development of productive area in [ha]
+    output$Productive  <- renderText({
+      ProductiveDiff <- as.character(ForestData[which(ForestData$Canton==input$canton & ForestData$TypeofOwner == input$ownerType & ForestData$Year==(year(input$dateRange)[2])), 6] - ForestData[which(ForestData$Canton==input$canton & ForestData$TypeofOwner == input$ownerType & ForestData$Year==(year(input$dateRange)[1])), 6])
+    })
+    
     # Swiss Forest Growth Plot
     output$swissForestPlot <- renderPlot({
       ForestData <- ForestData[(ForestData$Year>=(year(input$dateRange)[1]) & ForestData$Year<=(year(input$dateRange)[2])) , ]
-      ggplot(ForestData[which(ForestData$Canton==input$canton & ForestData$TypeofOwner == input$ownerType), ]) + geom_point(aes(Year,ProductiveArea), color = "blue") + geom_point(aes(Year, TotalArea), color = "red") + xlab("Year") + ylab("Forest Area [ha]") + ggtitle(paste("Forests of Canton:", input$canton), paste(input$ownerType, ", Total Area (blue) and Productive Area (green)"))
+      ggplot(ForestData[which(ForestData$Canton==input$canton & ForestData$TypeofOwner == input$ownerType), ]) + geom_point(aes(Year,ProductiveArea), color = "green") + geom_point(aes(Year, TotalArea), color = "blue") + xlab("Year") + ylab("Forest Area [ha]") + ggtitle(paste("Forests of Canton:", input$canton), paste(input$ownerType, ", Total Area (blue) and Productive Area (green)"))
     })
     
     # Swiss Plantations Growth Plot
@@ -25,6 +35,12 @@ shinyServer(function(input, output, session) {
       ForestData <- ForestData[(ForestData$Year>=(year(input$dateRange)[1]) & ForestData$Year<=(year(input$dateRange)[2])) , ]
       ggplot(ForestData[which(ForestData$Canton==input$canton & ForestData$TypeofOwner == input$ownerType), ]) + geom_point(aes(Year,Hardwood), color = "red")  + geom_point(aes(Year, Softwood), color = "green") + geom_point(aes(Year, TotalSpecies), color = "black") + xlab("Year") + ylab("Number of Plantations") + ggtitle(paste("Plantations of Canton:", input$canton), paste(input$ownerType, ", Hardwood (red), Softwood (green) and Wood Species total (black) "))
       })
+    
+    # Calculate for given input filter development of Total Number of Plantations 
+    output$Plantations  <- renderText({
+      PlantationsDiff <- as.character(ForestData[which(ForestData$Canton==input$canton & ForestData$TypeofOwner == input$ownerType & ForestData$Year==(year(input$dateRange)[2])), 7] - ForestData[which(ForestData$Canton==input$canton & ForestData$TypeofOwner == input$ownerType & ForestData$Year==(year(input$dateRange)[1])), 7])
+    })
+    
     
     # Table Filter Parameters
     output$FilterText  <- renderText({

@@ -4,7 +4,7 @@
 # This is the user interface definition of the Shiny web application 'AssignDDP94'.
 ForestData <- read.csv("ForestData.csv", header = TRUE, sep = ",", quote = "\"")
 
-shinyUI(navbarPage("Navbar",
+shinyUI(navbarPage("Shiny AssignDDP94",
                    tabPanel("Plot",
                             headerPanel("East Switzerland: Forest and Plantation Growth"),
                             sidebarPanel(
@@ -15,7 +15,13 @@ shinyUI(navbarPage("Navbar",
                             ),
                             mainPanel(
                               plotOutput("swissForestPlot"),
-                              plotOutput("swissPlantationPlot")
+                              p("Total Forest area growth [ha]:"),
+                              verbatimTextOutput("Total"),
+                              p("Productive Forest area growth [ha]:"),
+                              verbatimTextOutput("Productive"),
+                              plotOutput("swissPlantationPlot"),
+                              p("Development of Total Number of Plantations:"),
+                              verbatimTextOutput("Plantations")
                             )),
                    tabPanel("Table", verbatimTextOutput("FilterText"), DT::dataTableOutput("table")),                 
                    tabPanel("About", uiOutput("aboutFile"))

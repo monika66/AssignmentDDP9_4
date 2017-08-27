@@ -8,6 +8,6 @@ The  repository **branch rawdata** contains the raw data for Shiny app [AssignDD
   
 The [raw data](https://github.com/monika66/AssignmentDDP9_4/tree/rawdata) got pre-processed with the R script **MergeSwissForestData.R** to the cleaned dataset **ForestData.csv**. The Shiny application AssignDDP94 just needs the **ForestData.csv file**.
   
-More details see **about.md**
+More details see [about.md](https://github.com/monika66/AssignmentDDP9_4/blob/master/about.md)
 
 

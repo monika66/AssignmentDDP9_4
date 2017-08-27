@@ -8,7 +8,7 @@ This repository contains the R code, data and files for the Shiny app [AssignDDP
   
 Swiss Federal Statistical Office Data [raw data](https://github.com/monika66/AssignmentDDP9_4/tree/rawdata) got pre-processed with R script **MergeSwissForestData.R** to data file **ForestData.csv**. [Raw data](https://github.com/monika66/AssignmentDDP9_4/tree/rawdata) and pre-processing R script **MergeSwissForestData.R** are not needed in the Shiny app bundle but could be seen in the [rawdata branch](https://github.com/monika66/AssignmentDDP9_4/tree/rawdata) too.
 
-**ForestData.csv** contains **Foreast Area Growth and Number of Plantations data** for the east Swiss Cantons:  
+**ForestData.csv** contains Foreast Area Growth and Number of Plantations data for the east Swiss Cantons:  
 - Appenzell Innerrhoden, 
 - Apenzell Ausserrhoden, 
 - Glarus, Graubuenden / Grigioni / Grischun
@@ -25,7 +25,7 @@ and displays the interactive plots
 - Forest Areas [ha]  
 - Number of Plantations  
   
-More details see **about.md** 
+More details see [about.md](https://github.com/monika66/AssignmentDDP9_4/blob/master/about.md) 
   
 
  

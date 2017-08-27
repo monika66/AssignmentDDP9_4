@@ -1,0 +1,55 @@
+East Swiss: Forest Growth and Number of Plantations
+==================================================================
+author: Monika Hunkeler
+date: 26. August 2017
+autosize: true
+
+Forest Growth and Number of Plantations
+==================================================================
+  
+The [Swiss Federal Statistical Office](https://www.pxweb.bfs.admin.ch/default.aspx?px_language=en) collected raw data about swiss **forest growth and numbers of plantations** since 1975.  
+  
+The app [AssignDDP94](https://mhunkeler.shinyapps.io/assignddp94/) uses data about region of east Switzerland to calculate:
+- Total Forest Area growth [ha], 
+- Productive Area growth [ha] 
+- Increase of Total Number of Plantations  
+
+and displays the interactive plots:
+- Forests of Canton [ha]
+- Numbers of Plantations of Canton
+
+All R codes and data could be downloaded at  [github](https://github.com/monika66/AssignmentDDP9_4/blob/master/README.md).
+
+Input Widget 
+==================================================================
+left: 45%
+![Input Widget](Widget.JPG)
+The input widget allows to choose the input parameter **Canton, Type of Owner and Date Range** for calculations, interactive plots and filtered data table. 
+***
+![Plot1](Plot1.JPG)
+![Plot2](Plot2.JPG)
+
+Example Reactive Calculation
+==================================================================
+Output calculation of increasing Number of Plantations wihtin 
+the choosen date range, canton and type of owner input. 
+
+output$Plantations  <- renderText({  
+  PlantationsDiff <- as.character(ForestData[which(  
+                    (ForestData$Canton == input$canton &   
+                    ForestData$TypeofOwner == input$ownerType &  
+                    ForestData$Year == (year(input$dateRange)[2])), 7]) -   
+                    (ForestData[which(ForestData$Canton == input$canton &    
+                    ForestData$TypeofOwner == input$ownerType &  
+                    ForestData$Year==(year(input$dateRange)[1])), 7])})  
+
+
+Data
+==================================================================
+Based on the input widget choices are the choosen filter parameter and the filtered data displayed on tab 'Table'.  
+  
+![Table](table2.JPG)
+
+- **Year**: Date range from 1975 until 2016 
+- **Canton**: Appenzell Innerrhoden, Apenzell Ausserrhoden, Glarus, Graubuenden / Grigioni / Grischun, Schaffhausen, St. Gallen and Thurgau.  
+- **TypeofOwner**: Type of owners - Total, Private forest, Public forest. More details see [about.md](https://github.com/monika66/AssignmentDDP9_4/blob/master/about.md)
